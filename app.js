@@ -134,7 +134,7 @@ map.on("dragend", updateHashLocation);
 map.on("zoomend", updateHashLocation);
 
 function parseUrlHash() {
-    const urlHash = location.hash.substr(1);
+    const urlHash = location.hash.substring(1);
 
     if (!urlHash) {
         return {};
