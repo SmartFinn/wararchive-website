@@ -81,15 +81,19 @@ fetch(geojsonUrl)
         L.geoJSON(data, {
             pointToLayer: (feature, latlng) => L.marker(latlng, { icon: markerIcon }),
             onEachFeature: (feature, layer) => {
-                if (feature.properties && feature.properties.post_url) {
-                    layer.bindPopup(`
-                        <strong>Дата:</strong> ${feature.properties.date}<br/>
-                        <strong>Підрозділ:</strong> ${feature.properties.unit}<br/><br/>
-                        ${feature.properties.description}<br/><br/>
-                        <a href="${feature.properties.post_url}" target="_blank">${feature.properties.post_url}</a>
-                    `);
-                    allMarkers.addLayer(layer);
+                if (!feature.properties) {
+                    throw new Error('GeoJSON feature has no properties');
                 }
+                const { date, unit, description, post_url } = feature.properties;
+                const popupContent = `
+                    <strong>Дата:</strong> ${date}<br/>
+                    <strong>Підрозділ:</strong> ${unit}<br/><br/>
+                    ${description}<br/><br/>
+                    <a href="${post_url}" target="_blank">${post_url}</a>
+                `;
+
+                layer.bindPopup(popupContent);
+                allMarkers.addLayer(layer);
             }
         });
 
