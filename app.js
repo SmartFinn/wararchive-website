@@ -78,7 +78,8 @@ const allMarkers = L.markerClusterGroup({
     },
 });
 
-// Fetch the GeoJSON data
+const documentWrap = document.getElementById('wrap');
+
 fetch(geojsonUrl)
     .then(response => response.json())
     .then(data => {
@@ -102,16 +103,20 @@ fetch(geojsonUrl)
                 }
             }
         });
+
+        // Uncomment to test error behavior
+        // throw new Error('Error parsing GeoJSON');
     })
     .then(() => {
         console.log(`${Date()} - GeoJSON parsed`);
+        documentWrap.classList.add('loaded');
     })
-    .catch(error => console.log('Error loading GeoJSON: ', error));
+    .catch(error => {
+        console.error(Date(), 'Error loading GeoJSON: ', error);
+        documentWrap.classList.add('load-failed');
+    });
 
-const satelliteLayer = [ esriTileLayer, onlyLabelsOverlay ];
-
-const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay,] }).setView([48.44, 35.11], 6);
-
+const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
 map.addLayer(allMarkers);
 
 const baseLayers = {

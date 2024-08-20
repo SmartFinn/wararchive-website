@@ -35,12 +35,141 @@ code {
 .container, #map {
     height: 100%;
 }
+
+main {
+    height: 100%;
+}
+
+.splash-screen {
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    background-color: #4a441b;
+    color: #ecfea2;
+}
+
+.error-message {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.8s, opacity 0.8s ease-in;
+}
+
+.error-message a {
+    text-decoration: none;
+    border-bottom: 1px dashed #fea2a4;
+}
+
+.error-message a, .error-message a:hover {
+    color: #fea2a4;
+}
+
+.error-message a:hover {
+    border-bottom: 1px solid #fea2a4;
+}
+
+.load-failed .splash-screen {
+    background-color: #6f1a1a;
+    color: #fea2a4;
+    transition: background-color 0.8s ease-in;
+}
+
+.load-failed .error-message {
+    visibility: visible;
+    opacity: 1;
+}
+
+.load-failed .loader {
+    display: none;
+}
+
+.splash-screen img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.splash-screen p {
+    display: block;
+}
+
+.loaded .splash-screen {
+  visibility: hidden;
+  opacity: 0;
+  transform: scale(1.6);
+  transition: visibility 1.2s, opacity 0.8s ease-out, transform 0.7s ease-out;
+}
+
+.splash-screen-inner {
+    width: 400px;
+}
+
+.loader-wrapper {
+    margin-top: 24px;
+}
+
+.loader {
+      display: block;
+      position: relative;
+      margin: 0 auto;
+      height: 12px;
+      width: 80%;
+      border: 2px solid #e4e4e4;
+      border-radius: 10px;
+      overflow: hidden;
+}
+.loader::after {
+    content: '';
+    width: 40%;
+    height: 100%;
+    background: #FF3D00;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    animation: animloader 2s linear infinite;
+}
+
+@keyframes animloader {
+    0% {
+    left: 0;
+    transform: translateX(-100%);
+    }
+    100% {
+    left: 100%;
+    transform: translateX(0%);
+    }
+}
 </style>
 </head>
 <body>
-    <main class="container">
-        <div id="map"></div>
-    </main>
+    <div id="wrap" class="container">
+        <div class="splash-screen">
+            <div class="splash-screen-inner">
+                <img src="img/war_square.webp" alt="WarArchive logo" />
+                <div class="loader-wrapper">
+                    <span class="loader"></span>
+                    <sapn class="error-message">
+                        Помилка при опрацюванні даних. Спробуйте
+                        <a href="" onclick="window.location.reload()">оновити сторінку</a>.
+                    </span>
+                </div>
+            </div>
+            </div>
+        <main>
+            <div id="map"></div>
+        </main>
+    </div>
     <script src="app.js"></script>
 </body>
 </html>
