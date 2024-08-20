@@ -35,7 +35,7 @@ const markerIcon = L.icon({
     shadowSize: [32, 32],
 });
 
-const groupMakerSvgIcon = (clusterCount, fontSize = "12px") => {
+const createClusterIcon = (clusterCount, fontSize = "12px") => {
     return `
         <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42">
             <path style="stroke:#000;stroke-width:2;stroke-linejoin:round;opacity:.2" d="M22 4A14 14 0 0 0 8 18a14 14 0 0 0 3.984 9.732L22 39l10.016-11.268A14 14 0 0 0 36 18 14 14 0 0 0 22 4Z"/>
@@ -43,10 +43,8 @@ const groupMakerSvgIcon = (clusterCount, fontSize = "12px") => {
             <circle style="fill:#fafafa" cx="21" cy="17" r="11"/>
             <text xml:space="preserve" style="font-size:${fontSize};text-align:center;text-anchor:middle" x="20.63" y="20.85"><tspan x="20.63" y="20.85">${clusterCount}</tspan></text>
         </svg>
-        `;
-}
-
-const geojsonUrl = '/data/wararchive_2024-08-17.geojson';
+    `;
+};
 
 const allMarkers = L.markerClusterGroup({
     maxClusterRadius: 20,
@@ -63,7 +61,7 @@ const allMarkers = L.markerClusterGroup({
         const fontSize = childCount > 999 ? '9px' : childCount > 99 ? '10px' : '12px';
 
         return new L.DivIcon({
-            html: groupMakerSvgIcon(childCount, fontSize),
+            html: createClusterIcon(childCount, fontSize),
             className: 'cluster-marker-icon',
             iconSize: new L.Point(42, 42),
             iconAnchor: [21, 42],
@@ -73,6 +71,7 @@ const allMarkers = L.markerClusterGroup({
 
 const documentWrap = document.getElementById('wrap');
 const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
+const geojsonUrl = '/data/wararchive_2024-08-17.geojson';
 
 fetch(geojsonUrl)
     .then(response => response.json())
@@ -80,27 +79,20 @@ fetch(geojsonUrl)
         console.log(Date(), '- GeoJSON loaded');
 
         L.geoJSON(data, {
-            pointToLayer: function (feature, latlng) {
-                return L.marker(latlng, { icon: markerIcon });
-            },
-            onEachFeature: function (feature, layer) {
+            pointToLayer: (feature, latlng) => L.marker(latlng, { icon: markerIcon }),
+            onEachFeature: (feature, layer) => {
                 if (feature.properties && feature.properties.post_url) {
                     layer.bindPopup(`
                         <strong>Дата:</strong> ${feature.properties.date}<br/>
                         <strong>Підрозділ:</strong> ${feature.properties.unit}<br/><br/>
                         ${feature.properties.description}<br/><br/>
                         <a href="${feature.properties.post_url}" target="_blank">${feature.properties.post_url}</a>
-                        `
-                    );
+                    `);
                     allMarkers.addLayer(layer);
                 }
             }
         });
 
-        // Uncomment to test error behavior
-        // throw new Error('Error parsing GeoJSON');
-    })
-    .then(() => {
         map.addLayer(allMarkers);
         console.log(Date(), '- GeoJSON parsed');
         documentWrap.classList.add('loaded');
@@ -122,20 +114,12 @@ const overlays = {
 
 L.control.layers(baseLayers, overlays).addTo(map);
 
-// on drag end
 map.on("dragend", updateHashLocation);
-
-// on zoom end
 map.on("zoomend", updateHashLocation);
 
 function parseUrlHash() {
     const hashParams = location.hash.slice(1).split('&');
-
-    if (hashParams.length === 0) {
-        return {};
-    }
-
-    return hashParams.reduce((acc, param) => {
+    return hashParams.length === 0 ? {} : hashParams.reduce((acc, param) => {
         const [key, value] = param.split('=');
         acc[key] = value;
         return acc;
@@ -145,25 +129,16 @@ function parseUrlHash() {
 function updateHashLocation() {
     const { lat, lng } = map.getCenter();
     const zoom = map.getZoom();
-
-    // #map=18/47.75555/37.23803
     window.location.hash = `map=${zoom}/${lat.toPrecision(8)}/${lng.toPrecision(8)}`;
 }
 
 function setViewFromHashLocation() {
     const urlParam = parseUrlHash();
-
     if (urlParam.map) {
         const [zoom, lat, lng] = urlParam.map.split('/');
-
         map.setView([lat, lng], zoom);
     }
 }
 
-document.addEventListener("DOMContentLoaded", function () {
-    setViewFromHashLocation();
-});
-
-window.addEventListener('hashchange', function () {
-    setViewFromHashLocation();
-});
+document.addEventListener("DOMContentLoaded", setViewFromHashLocation);
+window.addEventListener('hashchange', setViewFromHashLocation);
