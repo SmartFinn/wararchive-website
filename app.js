@@ -97,6 +97,9 @@ fetch(geojsonUrl)
             }
         });
 
+        // uncomment to test the error screen
+        // throw new Error('Test error');
+
         map.addLayer(allMarkers);
         console.log(Date(), '- GeoJSON parsed');
         documentWrap.classList.add('loaded');

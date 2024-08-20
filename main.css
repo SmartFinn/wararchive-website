@@ -70,7 +70,7 @@ main {
 }
 
 .load-failed .loader {
-  display: none;
+  visibility: hidden;
 }
 
 .splash-screen img {
@@ -94,7 +94,8 @@ main {
 }
 
 .loader-wrapper {
-  margin-top: 24px;
+  margin: 24px auto 12px;
+  text-align: center;
 }
 
 .loader {
