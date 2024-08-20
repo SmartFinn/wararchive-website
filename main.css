@@ -1,86 +1,85 @@
-html, body {
-    height: 100%;
-    margin: 0;
+html,
+body {
+  height: 100%;
+  margin: 0;
 }
 
 body {
-    font-family: system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu,
-      Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
+  font-family: system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu,
+    Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
 }
 
 code {
-    font-family: Monaco, 'Ubuntu Mono', 'Andale Mono', Consolas, monospace;
+  font-family: Monaco, 'Ubuntu Mono', 'Andale Mono', Consolas, monospace;
 }
 
-.container, #map {
-    height: 100%;
+.container,
+#map {
+  height: 100%;
 }
 
 main {
-    height: 100%;
+  height: 100%;
 }
 
 .splash-screen {
-    display: flex;
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 9999;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    flex-direction: column;
-    background-color: #4a441b;
-    color: #ecfea2;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+  background-color: #4a441b;
+  color: #ecfea2;
 }
 
 .error-message {
-    visibility: hidden;
-    opacity: 0;
-    transition: visibility 0.8s, opacity 0.8s ease-in;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0.8s, opacity 0.8s ease-in;
 }
 
 .error-message a {
-    text-decoration: none;
-    border-bottom: 1px dashed #fea2a4;
+  text-decoration: none;
+  border-bottom: 1px dashed #fea2a4;
 }
 
-.error-message a, .error-message a:hover {
-    color: #fea2a4;
+.error-message a,
+.error-message a:hover {
+  color: #fea2a4;
 }
 
 .error-message a:hover {
-    border-bottom: 1px solid #fea2a4;
+  border-bottom: 1px solid #fea2a4;
 }
 
 .load-failed .splash-screen {
-    background-color: #6f1a1a;
-    color: #fea2a4;
-    transition: background-color 0.8s ease-in;
+  background-color: #6f1a1a;
+  color: #fea2a4;
+  transition: background-color 0.8s ease-in;
 }
 
 .load-failed .error-message {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
 
 .load-failed .loader {
-    display: none;
+  display: none;
 }
 
 .splash-screen img {
-    display: block;
-    width: 100%;
-    max-width: 400px;
-    border-radius: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.splash-screen p {
-    display: block;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .loaded .splash-screen {
@@ -91,42 +90,44 @@ main {
 }
 
 .splash-screen-inner {
-    width: 400px;
+  width: 400px;
 }
 
 .loader-wrapper {
-    margin-top: 24px;
+  margin-top: 24px;
 }
 
 .loader {
-      display: block;
-      position: relative;
-      margin: 0 auto;
-      height: 12px;
-      width: 80%;
-      border: 2px solid #e4e4e4;
-      border-radius: 10px;
-      overflow: hidden;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  height: 12px;
+  width: 80%;
+  border: 2px solid #e4e4e4;
+  border-radius: 10px;
+  overflow: hidden;
 }
+
 .loader::after {
-    content: '';
-    width: 40%;
-    height: 100%;
-    background: #FF3D00;
-    position: absolute;
-    top: 0;
-    left: 0;
-    box-sizing: border-box;
-    animation: animloader 2s linear infinite;
+  content: '';
+  width: 40%;
+  height: 100%;
+  background: #FF3D00;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  animation: animloader 2s linear infinite;
 }
 
 @keyframes animloader {
-    0% {
+  0% {
     left: 0;
     transform: translateX(-100%);
-    }
-    100% {
+  }
+
+  100% {
     left: 100%;
     transform: translateX(0%);
-    }
+  }
 }
