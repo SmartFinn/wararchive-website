@@ -72,6 +72,7 @@ const allMarkers = L.markerClusterGroup({
 });
 
 const documentWrap = document.getElementById('wrap');
+const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
 
 fetch(geojsonUrl)
     .then(response => response.json())
@@ -100,6 +101,7 @@ fetch(geojsonUrl)
         // throw new Error('Error parsing GeoJSON');
     })
     .then(() => {
+        map.addLayer(allMarkers);
         console.log(Date(), '- GeoJSON parsed');
         documentWrap.classList.add('loaded');
     })
@@ -107,9 +109,6 @@ fetch(geojsonUrl)
         console.error(Date(), 'Error loading GeoJSON: ', error);
         documentWrap.classList.add('load-failed');
     });
-
-const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
-map.addLayer(allMarkers);
 
 const baseLayers = {
     "Супутникові знімки": esriTileLayer,
