@@ -279,10 +279,6 @@ header {
     padding: 10px;
   }
 
-  #map {
-    height: calc(100% - 51px);
-  }
-
   .donate-button {
     font-size: 14px;
     padding: 8px 16px;
