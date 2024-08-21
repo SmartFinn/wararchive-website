@@ -30,6 +30,7 @@ code {
 .container {
   height: 100%;
 }
+
 #map {
   height: calc(100% - 65px);
 }
@@ -129,7 +130,7 @@ main {
   content: '';
   width: 40%;
   height: 100%;
-  background: #FF3D00;
+  background: #f44336;
   position: absolute;
   top: 0;
   left: 0;
