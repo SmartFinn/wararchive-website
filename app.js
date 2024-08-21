@@ -25,13 +25,13 @@ const stadiaOSMDark = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_sm
 });
 
 const markerIcon = L.icon({
-    iconUrl: '/img/marker.png',
-    iconRetinaUrl: '/img/marker@2x.png',
+    iconUrl: '/assets/marker.png',
+    iconRetinaUrl: '/assets/marker@2x.png',
     iconSize: [32, 32],
     iconAnchor: [16, 32],
     popupAnchor: [0, -32],
-    shadowUrl: '/img/marker-shadow.png',
-    shadowRetinaUrl: '/img/marker-shadow@2x.png',
+    shadowUrl: '/assets/marker-shadow.png',
+    shadowRetinaUrl: '/assets/marker-shadow@2x.png',
     shadowSize: [32, 32],
 });
 
