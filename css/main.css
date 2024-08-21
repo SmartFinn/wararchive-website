@@ -26,9 +26,11 @@ code {
   font-family: Monaco, 'Ubuntu Mono', 'Andale Mono', Consolas, monospace;
 }
 
-.container,
-#map {
+.container {
   height: 100%;
+}
+#map {
+  height: calc(100% - 65px);
 }
 
 main {
@@ -285,6 +287,10 @@ header {
 
   .header__wrapper nav a {
     padding: 10px;
+  }
+
+  #map {
+    height: calc(100% - 51px);
   }
 
   .donate-button {
