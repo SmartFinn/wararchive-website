@@ -71,7 +71,7 @@ const allMarkers = L.markerClusterGroup({
 
 const documentWrap = document.getElementById('wrap');
 const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
-const geojsonUrl = '/data/wararchive_2024-08-17.geojson';
+const geojsonUrl = '/data/wararchive_ua.geojson';
 
 fetch(geojsonUrl)
     .then(response => response.json())
