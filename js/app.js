@@ -2,7 +2,9 @@ console.log(Date(), '- Script started');
 
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
-    detectRetina: true
+    detectRetina: true,
+    minZoom: 3,
+    maxZoom: 18
 });
 
 const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
@@ -10,17 +12,19 @@ const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_o
     detectRetina: true
 });
 
-const stadiaOSMBright = L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.{ext}', {
-    minZoom: 0,
+const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    minZoom: 3,
     maxZoom: 20,
-    attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     ext: 'png'
 });
 
-const stadiaOSMDark = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.{ext}', {
-    minZoom: 0,
-    maxZoom: 20,
-    attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+const cartoDbDark = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+	subdomains: 'abcd',
+    minZoom: 3,
+	maxZoom: 20,
     ext: 'png'
 });
 
@@ -111,8 +115,8 @@ fetch(geojsonUrl)
 
 const baseLayers = {
     "Супутникові знімки": esriTileLayer,
-    "Мапа (світла)": stadiaOSMBright,
-    "Мапа (темна)": stadiaOSMDark,
+    "Мапа (світла)": cartoDbLight,
+    "Мапа (темна)": cartoDbDark,
 };
 
 const overlays = {
