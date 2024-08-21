@@ -1,42 +1,84 @@
 <!DOCTYPE html>
 <html lang="uk">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>WarArchive</title>
-    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
-    <link rel="dns-prefetch" href="https://unpkg.com" />
-    <link rel="stylesheet" href="/css/main.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
-        integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
-        integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="anonymous" />
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
-        integrity="sha256-Hk4dIpcqOSb0hZjgyvFOP+cEmDXUKKNE/tT542ZbNQg=" crossorigin="anonymous"></script>
-</head>
-<body>
-    <div id="wrap" class="container">
-        <div class="splash-screen">
-            <div class="splash-screen-inner">
-                <img src="/assets/war_square.webp" alt="WarArchive logo" />
-                <div class="loader-wrapper">
-                    <span class="loader"></span>
-                    <span class="error-message">
-                        Помилка при опрацюванні даних. Спробуйте
-                        <a href="" onclick="window.location.reload()">оновити сторінку</a>.
-                    </span>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>WarArchive</title>
+        <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+        <link rel="dns-prefetch" href="https://unpkg.com" />
+        <link rel="stylesheet" href="/css/main.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+              integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+              integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+              integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="anonymous" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+                integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
+                integrity="sha256-Hk4dIpcqOSb0hZjgyvFOP+cEmDXUKKNE/tT542ZbNQg=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div id="wrap" class="container">
+            <div class="splash-screen">
+                <div class="splash-screen-inner">
+                    <img src="/assets/war_square.webp" alt="WarArchive logo" />
+                    <div class="loader-wrapper">
+                        <span class="loader"></span>
+                        <span class="error-message">
+                            Помилка при опрацюванні даних. Спробуйте
+                            <a href="" onclick="window.location.reload()">оновити сторінку</a>.
+                        </span>
+                    </div>
                 </div>
             </div>
-            </div>
-        <main>
-            <div id="map"></div>
-        </main>
-    </div>
-    <script src="/js/app.js"></script>
-</body>
+            <main>
+                <header>
+                    <div class="container--xl">
+                        <div class="header__wrapper">
+                            <div class="header__left">
+                                <div class="logo">
+                                    <a href="/">
+                                        <img src="/assets/war_square.webp" alt="WarArchive logo here" width="100" height="100" />
+                                    </a>
+                                </div>
+                                <nav>
+                                    <ul class="main-nav">
+                                        <li>
+                                            <a href="#">link 1</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">link 2</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">link 3</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="donate">
+                                <a class="donate-button" data-toggle="donate" href="#">
+                                    Допомогти проєкту
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div id="map"></div>
+                <div id="donate" class="modal">
+                    <div class="modal__overlay">
+                    </div>
+                    <div class="modal__window">
+                        <div class="modal__close">&times;</div>
+                        <div class="modal__inner">
+                            Nulla pellentesque dignissim enim, sit amet venenatis urna cursus eget nunc scelerisque viverra mauris, in aliquam. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus.
+                        </div>
+                    </div>
+                </div>
+
+            </main>
+        </div>
+        <script src="/js/app.js"></script>
+    </body>
 </html>

@@ -149,3 +149,34 @@ function setViewFromHashLocation() {
 
 document.addEventListener("DOMContentLoaded", setViewFromHashLocation);
 window.addEventListener('hashchange', setViewFromHashLocation);
+
+document.querySelectorAll('a[data-toggle]').forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+
+        const targetId = link.getAttribute('data-toggle');
+        const targetElement = document.getElementById(targetId);
+
+        if (targetElement) {
+            targetElement.classList.add('open');
+        }
+    });
+});
+
+document.querySelectorAll('.modal__overlay').forEach(overlay => {
+    overlay.addEventListener('click', () => {
+        const parentElement = overlay.parentElement;
+        if (parentElement.classList.contains('open')) {
+            parentElement.classList.remove('open');
+        }
+    });
+});
+
+document.querySelectorAll('.modal__close').forEach(overlay => {
+    overlay.addEventListener('click', () => {
+        const parentElement = overlay.parentElement.parentElement;
+        if (parentElement.classList.contains('open')) {
+            parentElement.classList.remove('open');
+        }
+    });
+});

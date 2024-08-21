@@ -1,7 +1,20 @@
+:root {
+  --color-bg: #232327;
+  --color-fg: #ecf6e2;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: #ecf6e2;
+    --color-fg: #232327;
+  }
+}
+
 html,
 body {
   height: 100%;
   margin: 0;
+  min-width: 360px;
 }
 
 body {
@@ -121,6 +134,115 @@ main {
   animation: animloader 2s linear infinite;
 }
 
+a {
+  transition: 0.2s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.container--xl {
+  max-width: 1540px;
+  margin: auto;
+}
+
+header {
+  background: var(--color-bg);
+  color: var(--color-fg);
+}
+
+.header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-nav {
+  display: flex;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header__wrapper nav a {
+  color: var(--color-fg);
+  text-decoration: none;
+  padding: 16px;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 30px;
+}
+
+.logo img {
+  width: 50px;
+  height: auto;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.donate-button {
+  border: 1px solid var(--color-fg);
+  color: var(--color-fg);
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 8px 20px;
+}
+
+.modal {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal.open {
+  display: flex;
+}
+
+.modal__overlay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+  background: var(--color-bg);
+  opacity: 0.8;
+}
+
+.modal__window {
+  position: relative;
+  z-index: 2;
+  max-width: 320px;
+  border-radius: 6px;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  padding: 30px;
+  box-shadow: 2px 2px 12px 0 #0008;
+}
+
+.modal__close {
+  position: absolute;
+  line-height: 1;
+  font-size: 30px;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
 @keyframes animloader {
   0% {
     left: 0;
@@ -130,5 +252,44 @@ main {
   100% {
     left: 100%;
     transform: translateX(0%);
+  }
+}
+
+@media (max-width: 1600px) {
+  .container--xl {
+    max-width: 1140px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container--xl {
+    max-width: 960px;
+  }
+}
+
+@media (max-width: 991px) {
+  .container--xl {
+    max-width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .logo {
+    margin-right: 10px;
+  }
+  .logo img {
+    width: 36px;
+  }
+
+  .header__wrapper nav a {
+    padding: 10px;
+  }
+
+  .donate-button {
+    font-size: 14px;
+    padding: 8px 16px;
+    white-space: nowrap;
   }
 }
