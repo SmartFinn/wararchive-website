@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" version="1.1">
+ <path style="stroke:#000000;stroke-width:2;stroke-linejoin:round;opacity:0.2" d="M 22,4 A 14,14 0 0 0 8,18 14,14 0 0 0 11.984,27.732 L 22,39 32.016,27.732 A 14,14 0 0 0 36,18 14,14 0 0 0 22,4 Z"/>
+ <path style="fill:#ef5350;stroke-width:2;stroke:#ef5350;stroke-linejoin:round" d="M 21 3 A 14 14 0 0 0 7 17 A 14 14 0 0 0 10.984 26.732 L 21 38 L 31.016 26.732 A 14 14 0 0 0 35 17 A 14 14 0 0 0 21 3 z"/>
+ <circle style="fill:#fafafa" cx="21" cy="17" r="11"/>
+ <text xml:space="preserve" style="font-size:12px;line-height:100%;text-align:center;text-anchor:middle" x="20.63" y="20.85"><tspan x="20.63" y="20.85">100</tspan></text>
+</svg>
