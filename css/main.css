@@ -10,6 +10,8 @@
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 html,
 body {
   height: 100%;
@@ -19,8 +21,9 @@ body {
 }
 
 body {
-  font-family: system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu,
+  font-family: Roboto, system-ui, "Segoe UI", Oxygen, Ubuntu,
     Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
+  font-weight: 400;
 }
 
 code {
@@ -32,11 +35,13 @@ code {
 }
 
 #map {
-  height: calc(100% - 65px);
+  height: 100%;
 }
 
 main {
   height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .splash-screen {
