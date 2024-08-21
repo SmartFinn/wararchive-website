@@ -153,6 +153,9 @@ a:hover {
 header {
   background: var(--color-bg);
   color: var(--color-fg);
+  box-shadow: 2px 2px 12px 0 #0005;
+  position: relative;
+  z-index: 1000;
 }
 
 .header__wrapper {
@@ -208,7 +211,7 @@ header {
   display: none;
   justify-content: center;
   align-items: center;
-  z-index: 1000;
+  z-index: 1001;
 }
 
 .modal.open {
