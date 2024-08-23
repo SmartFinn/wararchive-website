@@ -238,7 +238,7 @@ header {
 .modal__window {
   position: relative;
   z-index: 2;
-  max-width: 320px;
+  max-width: 480px;
   border-radius: 6px;
   background: var(--color-bg);
   color: var(--color-fg);
