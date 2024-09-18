@@ -24,14 +24,12 @@ Creating functions
 '''
 
 # Get config attrs
-def get_config_attrs():
+def get_config_attrs(config_path):
 	'''
 	'''
-	path = './config/config.ini'
-	
 	# config parser
 	config = ConfigParser()
-	config.read(path)
+	config.read(config_path)
 
 	# Telegram API credentials
 	attrs = config['Telegram API credentials']

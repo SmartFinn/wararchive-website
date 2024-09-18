@@ -12,6 +12,7 @@ import json
 import time
 import sys
 import os
+from pathlib import Path
 
 # import Telegram API submodules
 from api import *
@@ -44,6 +45,13 @@ parser.add_argument(
 	action='store_true',
 	help='Will collect channels metadata only, not posts data.'
 )
+parser.add_argument(
+	'--config',
+	type=Path,
+	required=False,
+	default=Path('./config/config.ini'),
+	help='Path to config file. Default: `./config/config.ini`'
+)
 
 '''
 
@@ -74,7 +82,9 @@ parser.add_argument(
 
 # parse arguments
 args = vars(parser.parse_args())
-config_attrs = get_config_attrs()
+
+config_path: Path = args['config']
+config_attrs = get_config_attrs(config_path=config_path)
 
 args = {**args, **config_attrs}
 
@@ -102,7 +112,7 @@ Variables
 
 FILL API KEYS
 '''
-sfile = 'session_file'
+sfile = f'{config_path.parent}/session_file'
 api_id = args['api_id']
 api_hash = args['api_hash']
 phone = args['phone']
