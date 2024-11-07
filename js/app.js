@@ -1,5 +1,3 @@
-console.log(Date(), '- Script started');
-
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
     detectRetina: true,
@@ -21,10 +19,10 @@ const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z
 });
 
 const cartoDbDark = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-	subdomains: 'abcd',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
     minZoom: 3,
-	maxZoom: 20,
+    maxZoom: 20,
     ext: 'png'
 });
 
@@ -80,8 +78,6 @@ const geojsonUrl = '/data/wararchive_ua.geojson';
 fetch(geojsonUrl)
     .then(response => response.json())
     .then(data => {
-        console.log(Date(), '- GeoJSON loaded');
-
         L.geoJSON(data, {
             pointToLayer: (feature, latlng) => L.marker(latlng, { icon: markerIcon }),
             onEachFeature: (feature, layer) => {
@@ -105,11 +101,9 @@ fetch(geojsonUrl)
         // throw new Error('Test error');
 
         map.addLayer(allMarkers);
-        console.log(Date(), '- GeoJSON parsed');
         documentWrap.classList.add('loaded');
     })
     .catch(error => {
-        console.error(Date(), 'Error loading GeoJSON: ', error);
         documentWrap.classList.add('load-failed');
     });
 
