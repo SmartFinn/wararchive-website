@@ -114,7 +114,7 @@ const baseLayers = {
 };
 
 const overlays = {
-    "Назви міст": onlyLabelsOverlay,
+    "Топоніми": onlyLabelsOverlay,
 };
 
 L.control.layers(baseLayers, overlays).addTo(map);
