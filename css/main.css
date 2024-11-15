@@ -183,6 +183,13 @@ header {
   padding: 0px;
 }
 
+.main-nav a svg {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
 .header__wrapper nav a {
   color: var(--color-fg);
   text-decoration: none;
