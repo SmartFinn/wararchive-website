@@ -89,7 +89,7 @@ fetch(geojsonUrl)
                     <strong>Дата:</strong> ${date}<br/>
                     <strong>Підрозділ:</strong> ${unit}<br/><br/>
                     ${description}<br/><br/>
-                    <a href="${post_url}" target="_blank">${post_url}</a>
+                    <a href="${post_url}" target="_blank" class="goto-post-button"><span>Переглянути пост</span></a>
                 `;
 
                 layer.bindPopup(popupContent);
