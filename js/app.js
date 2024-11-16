@@ -37,6 +37,17 @@ const markerIcon = L.icon({
     shadowSize: [32, 32],
 });
 
+const pointerIcon = L.icon({
+    iconUrl: '/assets/pointer.png',
+    iconRetinaUrl: '/assets/pointer@2x.png',
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+    popupAnchor: [0, -16],
+    shadowUrl: '/assets/pointer-shadow.png',
+    shadowRetinaUrl: '/assets/pointer-shadow@2x.png',
+    shadowSize: [32, 32],
+});
+
 const createClusterIcon = (clusterCount, fontSize = "12px") => {
     return `
         <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42">
@@ -142,6 +153,12 @@ function setViewFromHashLocation() {
     if (urlParam.map) {
         const [zoom, lat, lng] = urlParam.map.split('/');
         map.setView([lat, lng], zoom);
+    }
+    if (urlParam.goto) {
+        const [lat, lng] = urlParam.goto.split(',');
+        const gotoMarker = L.marker([lat, lng], { icon: pointerIcon }).addTo(map);
+        gotoMarker.bindPopup(`<code>${lat}, ${lng}</code>`);
+        map.setView([lat, lng], 16); // Set a default zoom level for goto
     }
 }
 
