@@ -95,15 +95,23 @@ fetch(geojsonUrl)
                 if (!feature.properties) {
                     throw new Error('GeoJSON feature has no properties');
                 }
-                const { date, unit, description, post_url } = feature.properties;
+                const { post_id } = feature.properties;
+
                 const popupContent = `
-                    <strong>Дата:</strong> ${date}<br/>
-                    <strong>Підрозділ:</strong> ${unit}<br/><br/>
-                    ${description}<br/><br/>
-                    <a href="${post_url}" target="_blank" class="goto-post-button"><span>Переглянути пост</span></a>
+                    <iframe
+                    id="telegram-post-telegram-${post_id}"
+                    src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
+                    width="100%" height=""
+                    frameborder="0" scrolling="yes"
+                    style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
+                    </iframe>
+
+                    <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
                 `;
 
-                layer.bindPopup(popupContent);
+                layer.bindPopup(popupContent, {
+                    maxWidth: 360,
+                });
                 allMarkers.addLayer(layer);
             }
         });

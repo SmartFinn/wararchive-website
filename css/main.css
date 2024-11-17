@@ -298,20 +298,20 @@ header {
 }
 
 /* Telegram styles using attribute selector */
-.goto-post-button[href^="https://t.me"] {
+.goto-post-button[href^="tg://"] {
   background-color: var(--color-telegram);
 }
 
-.goto-post-button[href^="https://t.me"]:hover {
+.goto-post-button[href^="tg://"]:hover {
   background-color: var(--color-telegram-hover);
 }
 
-.goto-post-button[href^="https://t.me"]::before {
+.goto-post-button[href^="tg://"]::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 22' fill='white'%3E%3Cpath d='M17.69 18.3c.3-.59 2.03-10.68 2.28-13.29.26-2.58-1.13-2.1-2.42-1.66C14.4 4.42 4.44 8.28 1.72 9.72c-.67.28-.96.76-.47 1.17.42.35 1.96.83 3.2 1.08 1.06.32 1.88.01 2.64-.42 1.82-1.09 7.25-4.07 7.55-4.26.29-.19.61.17.45.34-.16.17-4.01 3.66-5.27 5.24-.67.87-.65 1.33.04 1.88 1.54 1.22 5.66 4.01 6.28 4.18.78.21 1.24.04 1.57-.61Z'/%3E%3C/svg%3E");
 }
 
-.goto-post-button[href^="https://t.me"] span::after {
-  content: " в Telegram";
+.goto-post-button[href^="tg://"] span::after {
+  content: " в додатку Telegram";
 }
 
 /* X (Twitter) styles using attribute selector */
@@ -324,7 +324,7 @@ header {
 }
 
 .goto-post-button[href^="https://x.com"] span::after {
-  content: " в X";
+  content: " пост в X";
 }
 
 .goto-post-button[href^="https://x.com"]::before {
