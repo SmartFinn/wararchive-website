@@ -60,7 +60,7 @@ const createClusterIcon = (clusterCount, fontSize = "12px") => {
 };
 
 const allMarkers = L.markerClusterGroup({
-    maxClusterRadius: 20,
+    maxClusterRadius: 25,
     spiderLegPolylineOptions: {
         weight: 4,
         color: '#c62828',
