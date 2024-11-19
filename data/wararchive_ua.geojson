@@ -6,6 +6,214 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.214196,
+     48.13193
+    ]
+   },
+   "properties": {
+    "post_id": 22420,
+    "post_date": "2024-11-18 19:00",
+    "date": "~16.11.2024  ",
+    "unit": "\"Гострі Картузи\", 2 штурмовий загін ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.841048,
+     48.587096
+    ]
+   },
+   "properties": {
+    "post_id": 22419,
+    "post_date": "2024-11-18 18:01",
+    "date": "~16.11.2024  ",
+    "unit": "831 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.26735,
+     46.643571
+    ]
+   },
+   "properties": {
+    "post_id": 22416,
+    "post_date": "2024-11-18 16:01",
+    "date": "~16.11.2024  ",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.6313449,
+     49.709672
+    ]
+   },
+   "properties": {
+    "post_id": 22413,
+    "post_date": "2024-11-18 14:46",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.675779,
+     47.726386
+    ]
+   },
+   "properties": {
+    "post_id": 22407,
+    "post_date": "2024-11-18 13:41",
+    "date": "~05.2024  ",
+    "unit": "\"Luftwaffe\", 129 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.412345,
+     48.219316
+    ]
+   },
+   "properties": {
+    "post_id": 22406,
+    "post_date": "2024-11-18 13:00",
+    "date": "15-16.11.2024  ",
+    "unit": "14 БрОП НГУ \"Червона Калина\" та БССП \"Тайфун\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.64284,
+     49.721374
+    ]
+   },
+   "properties": {
+    "post_id": 22405,
+    "post_date": "2024-11-18 12:01",
+    "date": "~14.11.2024  ",
+    "unit": "14 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.312126,
+     47.942951
+    ]
+   },
+   "properties": {
+    "post_id": 22404,
+    "post_date": "2024-11-18 11:01",
+    "date": "~15.11.2024  ",
+    "unit": "33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.262997,
+     47.947117
+    ]
+   },
+   "properties": {
+    "post_id": 22404,
+    "post_date": "2024-11-18 11:01",
+    "date": "~15.11.2024  ",
+    "unit": "33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.977518,
+     48.502952
+    ]
+   },
+   "properties": {
+    "post_id": 22401,
+    "post_date": "2024-11-18 09:00",
+    "date": "~03.2024",
+    "unit": "92 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8486,
+     48.396
+    ]
+   },
+   "properties": {
+    "post_id": 22399,
+    "post_date": "2024-11-18 08:01",
+    "date": "10.2024",
+    "unit": "ШП \"Сафарі\", ОШБр \"ЛЮТЬ\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.226016,
+     47.804582
+    ]
+   },
+   "properties": {
+    "post_id": 22398,
+    "post_date": "2024-11-18 07:15",
+    "date": "~15.11.2024  ",
+    "unit": "37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.146796,
+     47.911037
+    ]
+   },
+   "properties": {
+    "post_id": 22397,
+    "post_date": "2024-11-18 06:30",
+    "date": "~16.11.2024  ",
+    "unit": "1 ОБМП, 37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.844025,
      48.363088
     ]
@@ -126,7 +334,7 @@
     "post_id": 22371,
     "post_date": "2024-11-17 15:01",
     "date": "24.10.2024  ",
-    "unit": "?"
+    "unit": "\"Монако\", 196 ОБТрО, 124 ОБрТрО"
    }
   },
   {
