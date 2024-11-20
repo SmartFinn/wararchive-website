@@ -6,6 +6,150 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.310671,
+     47.99096
+    ]
+   },
+   "properties": {
+    "post_id": 22457,
+    "post_date": "2024-11-19 19:10",
+    "date": "~18.11.2024  ",
+    "unit": "46 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.310697,
+     48.201131
+    ]
+   },
+   "properties": {
+    "post_id": 22454,
+    "post_date": "2024-11-19 18:12",
+    "date": "~17.11.2024  ",
+    "unit": "аеророзвідка \"Ангели\", 414 ОПУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.335605,
+     48.248044
+    ]
+   },
+   "properties": {
+    "post_id": 22448,
+    "post_date": "2024-11-19 14:01",
+    "date": "~15.11.2024  ",
+    "unit": "аеророзвідка \"Ангели\", 414 ОПУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.08975,
+     51.28745
+    ]
+   },
+   "properties": {
+    "post_id": 22443,
+    "post_date": "2024-11-19 12:10",
+    "date": "11.2024",
+    "unit": "225 ОШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.284642,
+     48.212328
+    ]
+   },
+   "properties": {
+    "post_id": 22442,
+    "post_date": "2024-11-19 12:02",
+    "date": "~17.11.2024  ",
+    "unit": "2 ПДБ, 25 ОПДБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.25002,
+     47.77979
+    ]
+   },
+   "properties": {
+    "post_id": 22439,
+    "post_date": "2024-11-19 09:46",
+    "date": "01.09.2024 ",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.25575,
+     51.37794
+    ]
+   },
+   "properties": {
+    "post_id": 22437,
+    "post_date": "2024-11-19 08:44",
+    "date": "11.2024",
+    "unit": "95 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.69087,
+     48.17901
+    ]
+   },
+   "properties": {
+    "post_id": 22434,
+    "post_date": "2024-11-19 08:01",
+    "date": "~11.2023",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.261134,
+     48.185858
+    ]
+   },
+   "properties": {
+    "post_id": 22432,
+    "post_date": "2024-11-19 06:30",
+    "date": "~16.11.2024  ",
+    "unit": "1 ЄБ, 68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.214196,
      48.13193
     ]
@@ -334,7 +478,7 @@
     "post_id": 22371,
     "post_date": "2024-11-17 15:01",
     "date": "24.10.2024  ",
-    "unit": "\"Монако\", 196 ОБТрО, 124 ОБрТрО"
+    "unit": "196 ОБТрО, 124 ОБрТрО"
    }
   },
   {
