@@ -6,6 +6,230 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.073,
+     46.733485
+    ]
+   },
+   "properties": {
+    "post_id": 22504,
+    "post_date": "2024-11-21 06:30",
+    "date": "15.11.2024 ",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.957376,
+     48.448941
+    ]
+   },
+   "properties": {
+    "post_id": 22501,
+    "post_date": "2024-11-20 20:01",
+    "date": "~17.11.2024  ",
+    "unit": "РУБпАК, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.946708,
+     51.586622
+    ]
+   },
+   "properties": {
+    "post_id": 22494,
+    "post_date": "2024-11-20 17:58",
+    "date": "20.11.2024 ",
+    "unit": "7 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31033,
+     48.23458
+    ]
+   },
+   "properties": {
+    "post_id": 22491,
+    "post_date": "2024-11-20 16:03",
+    "date": "~18.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.55851,
+     51.26233
+    ]
+   },
+   "properties": {
+    "post_id": 22490,
+    "post_date": "2024-11-20 15:46",
+    "date": "24.10.224",
+    "unit": "225 ОШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.258333,
+     46.744716
+    ]
+   },
+   "properties": {
+    "post_id": 22487,
+    "post_date": "2024-11-20 15:01",
+    "date": "~19.11.2024 ",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.262555,
+     46.747622
+    ]
+   },
+   "properties": {
+    "post_id": 22472,
+    "post_date": "2024-11-20 13:31",
+    "date": "~19.11.2024 ",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.262333,
+     46.747576
+    ]
+   },
+   "properties": {
+    "post_id": 22472,
+    "post_date": "2024-11-20 13:31",
+    "date": "~19.11.2024 ",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.264222,
+     46.744156
+    ]
+   },
+   "properties": {
+    "post_id": 22472,
+    "post_date": "2024-11-20 13:31",
+    "date": "~19.11.2024 ",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.189684,
+     48.050341
+    ]
+   },
+   "properties": {
+    "post_id": 22470,
+    "post_date": "2024-11-20 12:22",
+    "date": "~09.11.2024 (?)",
+    "unit": "831 БрТА та 35 ОБрМП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.849452,
+     48.398759
+    ]
+   },
+   "properties": {
+    "post_id": 22469,
+    "post_date": "2024-11-20 11:20",
+    "date": "~18.11.2024  ",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.816909,
+     47.533746
+    ]
+   },
+   "properties": {
+    "post_id": 22464,
+    "post_date": "2024-11-20 09:00",
+    "date": "~17.11.2024  ",
+    "unit": "14 ОП БпАК СБС та \"Shadow\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.938663,
+     48.449084
+    ]
+   },
+   "properties": {
+    "post_id": 22463,
+    "post_date": "2024-11-20 08:00",
+    "date": "~18.11.2024  ",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.68289,
+     49.570229
+    ]
+   },
+   "properties": {
+    "post_id": 22461,
+    "post_date": "2024-11-20 06:30",
+    "date": "~18.11.2024  ",
+    "unit": "205 ОБТрО, 241 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.310671,
      47.99096
     ]
