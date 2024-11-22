@@ -6,6 +6,230 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.309238,
+     48.010191
+    ]
+   },
+   "properties": {
+    "post_id": 22532,
+    "post_date": "2024-11-21 18:01",
+    "date": "~19.11.2024  ",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.250541,
+     48.148119
+    ]
+   },
+   "properties": {
+    "post_id": 22530,
+    "post_date": "2024-11-21 17:01",
+    "date": "~18.11.2024  ",
+    "unit": "68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.946708,
+     51.586622
+    ]
+   },
+   "properties": {
+    "post_id": 22527,
+    "post_date": "2024-11-21 16:10",
+    "date": "20.11.2024 ",
+    "unit": "Зведений загін БпС \"Джміль\", 78 ОДШП та екіпаж \"Гарпун\", 413 ОББС \"РЕЙД\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.28402,
+     48.01065
+    ]
+   },
+   "properties": {
+    "post_id": 22525,
+    "post_date": "2024-11-21 15:31",
+    "date": "11.2024",
+    "unit": "1 ОБМП, 35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.996338,
+     51.280018
+    ]
+   },
+   "properties": {
+    "post_id": 22524,
+    "post_date": "2024-11-21 15:00",
+    "date": "~19.11.2024  ",
+    "unit": "\"Грифон\", 501 ОБМП, 36 ОБрМП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.193286,
+     48.040719
+    ]
+   },
+   "properties": {
+    "post_id": 22522,
+    "post_date": "2024-11-21 14:02",
+    "date": "~18.11.2024  ",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.897102,
+     48.404088
+    ]
+   },
+   "properties": {
+    "post_id": 22521,
+    "post_date": "2024-11-21 13:01",
+    "date": "~18.11.2024  ",
+    "unit": "РУБпАК, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.268248,
+     47.757629
+    ]
+   },
+   "properties": {
+    "post_id": 22520,
+    "post_date": "2024-11-21 12:00",
+    "date": "~18.11.2024  ",
+    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.068255,
+     46.727347
+    ]
+   },
+   "properties": {
+    "post_id": 22519,
+    "post_date": "2024-11-21 11:01",
+    "date": "~03.2024  ",
+    "unit": "38 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.00738,
+     47.20234
+    ]
+   },
+   "properties": {
+    "post_id": 22516,
+    "post_date": "2024-11-21 09:30",
+    "date": "~20.08.2022",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.3441,
+     47.86043
+    ]
+   },
+   "properties": {
+    "post_id": 22515,
+    "post_date": "2024-11-21 09:01",
+    "date": "~17.11.2024",
+    "unit": "1 ОШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31425,
+     48.05472
+    ]
+   },
+   "properties": {
+    "post_id": 22508,
+    "post_date": "2024-11-21 08:01",
+    "date": "~11.2024",
+    "unit": "3 МБ, 110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.29151,
+     48.05799
+    ]
+   },
+   "properties": {
+    "post_id": 22508,
+    "post_date": "2024-11-21 08:01",
+    "date": "~11.2024",
+    "unit": "3 МБ, 110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2978,
+     48.08792
+    ]
+   },
+   "properties": {
+    "post_id": 22508,
+    "post_date": "2024-11-21 08:01",
+    "date": "~11.2024",
+    "unit": "3 МБ, 110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.073,
      46.733485
     ]
