@@ -6,6 +6,342 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.035298,
+     51.272977
+    ]
+   },
+   "properties": {
+    "post_id": 22577,
+    "post_date": "2024-11-22 20:01",
+    "date": "~20.11.2024",
+    "unit": "РУБпАК \"Пегас\", 1 ОТБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.406472,
+     51.088396
+    ]
+   },
+   "properties": {
+    "post_id": 22576,
+    "post_date": "2024-11-22 19:30",
+    "date": "~21.11.2024",
+    "unit": "\"The Ravens\", 248 ОБТрО, 129 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.972552,
+     48.585861
+    ]
+   },
+   "properties": {
+    "post_id": 22574,
+    "post_date": "2024-11-22 19:02",
+    "date": "~17.11.2024",
+    "unit": "\"РАРОГ\", 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.976064,
+     48.612184
+    ]
+   },
+   "properties": {
+    "post_id": 22574,
+    "post_date": "2024-11-22 19:02",
+    "date": "~17.11.2024",
+    "unit": "\"РАРОГ\", 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.24466,
+     46.753333
+    ]
+   },
+   "properties": {
+    "post_id": 22563,
+    "post_date": "2024-11-22 18:00",
+    "date": "~20.11.2024",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.243055,
+     46.753662
+    ]
+   },
+   "properties": {
+    "post_id": 22563,
+    "post_date": "2024-11-22 18:00",
+    "date": "~20.11.2024",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.25349,
+     46.752164
+    ]
+   },
+   "properties": {
+    "post_id": 22563,
+    "post_date": "2024-11-22 18:00",
+    "date": "~20.11.2024",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2534,
+     46.752169
+    ]
+   },
+   "properties": {
+    "post_id": 22563,
+    "post_date": "2024-11-22 18:00",
+    "date": "~20.11.2024",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2535,
+     46.752147
+    ]
+   },
+   "properties": {
+    "post_id": 22563,
+    "post_date": "2024-11-22 18:00",
+    "date": "~20.11.2024",
+    "unit": "73 МЦСпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.835258,
+     48.379279
+    ]
+   },
+   "properties": {
+    "post_id": 22562,
+    "post_date": "2024-11-22 17:01",
+    "date": "~17.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.450591,
+     51.384335
+    ]
+   },
+   "properties": {
+    "post_id": 22559,
+    "post_date": "2024-11-22 16:11",
+    "date": "~20.09.2024 ",
+    "unit": "39 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.03031,
+     47.726531
+    ]
+   },
+   "properties": {
+    "post_id": 22556,
+    "post_date": "2024-11-22 15:01",
+    "date": "~20.11.2024",
+    "unit": "\"Булава\", \"Химери\" та \"Nova\", 3 МБ, 20 ОБСП, ОПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.554232,
+     47.943267
+    ]
+   },
+   "properties": {
+    "post_id": 22554,
+    "post_date": "2024-11-22 14:01",
+    "date": "20.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.414807,
+     50.262894
+    ]
+   },
+   "properties": {
+    "post_id": 22548,
+    "post_date": "2024-11-22 12:01",
+    "date": "~20.11.2024",
+    "unit": "ВБпАК 4 ШБ, 92 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.313335,
+     48.204938
+    ]
+   },
+   "properties": {
+    "post_id": 22547,
+    "post_date": "2024-11-22 11:00",
+    "date": "~17.11.2024",
+    "unit": "аеророзвідка \"Ангели\", 414 ОПУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.00738,
+     47.20234
+    ]
+   },
+   "properties": {
+    "post_id": 22544,
+    "post_date": "2024-11-22 09:30",
+    "date": "~20.08.2022",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.08608,
+     51.30815
+    ]
+   },
+   "properties": {
+    "post_id": 22543,
+    "post_date": "2024-11-22 09:02",
+    "date": "17.10.24",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2769,
+     48.16984
+    ]
+   },
+   "properties": {
+    "post_id": 22542,
+    "post_date": "2024-11-22 08:30",
+    "date": "12.11.2024",
+    "unit": "68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.32791,
+     48.25908
+    ]
+   },
+   "properties": {
+    "post_id": 22541,
+    "post_date": "2024-11-22 08:01",
+    "date": "10.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.411651,
+     50.307802
+    ]
+   },
+   "properties": {
+    "post_id": 22540,
+    "post_date": "2024-11-22 07:15",
+    "date": "~20.11.2024",
+    "unit": "92 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.309143,
+     48.220279
+    ]
+   },
+   "properties": {
+    "post_id": 22538,
+    "post_date": "2024-11-22 06:30",
+    "date": "~20.11.2024",
+    "unit": "414 ОПУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.309238,
      48.010191
     ]
