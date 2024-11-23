@@ -1,3 +1,4 @@
+import geocoder from "./geocoder.js";
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
     detectRetina: true,
@@ -210,3 +211,5 @@ document.querySelectorAll('.modal__close').forEach(overlay => {
         }
     });
 });
+
+map.addControl(geocoder)
