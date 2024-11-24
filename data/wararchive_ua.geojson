@@ -6,6 +6,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.984357,
+     49.094746
+    ]
+   },
+   "properties": {
+    "post_id": 22608,
+    "post_date": "2024-11-23 20:01",
+    "date": "~21.11.2024",
+    "unit": "60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.872995,
+     47.816567
+    ]
+   },
+   "properties": {
+    "post_id": 22605,
+    "post_date": "2024-11-23 18:01",
+    "date": "~21.11.2024",
+    "unit": "17 Бр НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.871785,
+     47.816888
+    ]
+   },
+   "properties": {
+    "post_id": 22604,
+    "post_date": "2024-11-23 17:01",
+    "date": "~21.11.2024",
+    "unit": "\"Булава\", 3 МБ, 20 ОБСП, ОПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.872995,
+     47.816567
+    ]
+   },
+   "properties": {
+    "post_id": 22604,
+    "post_date": "2024-11-23 17:01",
+    "date": "~21.11.2024",
+    "unit": "\"Булава\", 3 МБ, 20 ОБСП, ОПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.393121,
+     47.973988
+    ]
+   },
+   "properties": {
+    "post_id": 22598,
+    "post_date": "2024-11-23 14:07",
+    "date": "~20.11.2024",
+    "unit": "НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.158432,
+     48.18375
+    ]
+   },
+   "properties": {
+    "post_id": 22595,
+    "post_date": "2024-11-23 12:01",
+    "date": "14:24 02.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.49368,
+     47.93768
+    ]
+   },
+   "properties": {
+    "post_id": 22589,
+    "post_date": "2024-11-23 09:31",
+    "date": "~03.02.2023",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.08743,
+     51.299778
+    ]
+   },
+   "properties": {
+    "post_id": 22585,
+    "post_date": "2024-11-23 07:15",
+    "date": "~20.11.2024",
+    "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.035298,
      51.272977
     ]
