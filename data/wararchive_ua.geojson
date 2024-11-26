@@ -6,6 +6,182 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.362832,
+     48.192211
+    ]
+   },
+   "properties": {
+    "post_id": 22673,
+    "post_date": "2024-11-25 20:02",
+    "date": "~22.11.2024",
+    "unit": "\"Москіти\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.164142,
+     51.378255
+    ]
+   },
+   "properties": {
+    "post_id": 22669,
+    "post_date": "2024-11-25 18:16",
+    "date": "~18.11.2024",
+    "unit": "4-й окремий полк ССО \"Рейнджер\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.3712049,
+     51.7486691
+    ]
+   },
+   "properties": {
+    "post_id": 22654,
+    "post_date": "2024-11-25 14:16",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.377994,
+     47.990529
+    ]
+   },
+   "properties": {
+    "post_id": 22652,
+    "post_date": "2024-11-25 14:14",
+    "date": "~23.11.2024",
+    "unit": "39 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.166913,
+     51.384174
+    ]
+   },
+   "properties": {
+    "post_id": 22649,
+    "post_date": "2024-11-25 11:00",
+    "date": "~16.11.2024",
+    "unit": "\"UA_REG\", 8 ОП СпП ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.18993,
+     48.05107
+    ]
+   },
+   "properties": {
+    "post_id": 22645,
+    "post_date": "2024-11-25 09:31",
+    "date": "11.2024",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.93122,
+     48.61255
+    ]
+   },
+   "properties": {
+    "post_id": 22643,
+    "post_date": "2024-11-25 08:31",
+    "date": "~04.2023",
+    "unit": "3 МБ, 92 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31671,
+     48.24441
+    ]
+   },
+   "properties": {
+    "post_id": 22642,
+    "post_date": "2024-11-25 08:00",
+    "date": "18.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.216568,
+     47.896429
+    ]
+   },
+   "properties": {
+    "post_id": 22639,
+    "post_date": "2024-11-25 06:30",
+    "date": "~22.11.2024",
+    "unit": "71 ОЄБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.322233,
+     54.538751
+    ]
+   },
+   "properties": {
+    "post_id": 22636,
+    "post_date": "2024-11-25 05:56",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.865156,
+     48.398757
+    ]
+   },
+   "properties": {
+    "post_id": 22632,
+    "post_date": "2024-11-24 19:30",
+    "date": "~11.2024",
+    "unit": "ШП \"Цунамі\", ОШБр \"Лють\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.310442,
      47.881444
     ]
@@ -127,6 +303,22 @@
     "post_date": "2024-11-24 12:18",
     "date": "~22.11.2024",
     "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.367505,
+     51.080983
+    ]
+   },
+   "properties": {
+    "post_id": 22622,
+    "post_date": "2024-11-24 11:27",
+    "date": "~22.11.2024",
+    "unit": "\"The Ravens\", 248 ОБТрО, 129 ОБрТрО"
    }
   },
   {
