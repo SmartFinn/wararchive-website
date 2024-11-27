@@ -6,6 +6,294 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.260644,
+     48.195554
+    ]
+   },
+   "properties": {
+    "post_id": 22730,
+    "post_date": "2024-11-26 19:46",
+    "date": "~20.11.2024",
+    "unit": "2 ПДБ, 25 ОПДБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.315708,
+     48.087119
+    ]
+   },
+   "properties": {
+    "post_id": 22724,
+    "post_date": "2024-11-26 18:29",
+    "date": "~24.11.2024",
+    "unit": "414 ОПУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.28507,
+     51.26959
+    ]
+   },
+   "properties": {
+    "post_id": 22719,
+    "post_date": "2024-11-26 15:35",
+    "date": "~23.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8497243,
+     49.4805821
+    ]
+   },
+   "properties": {
+    "post_id": 22717,
+    "post_date": "2024-11-26 14:18",
+    "date": "~22.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.922992,
+     50.308117
+    ]
+   },
+   "properties": {
+    "post_id": 22717,
+    "post_date": "2024-11-26 14:18",
+    "date": "~22.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.940246,
+     50.298355
+    ]
+   },
+   "properties": {
+    "post_id": 22717,
+    "post_date": "2024-11-26 14:18",
+    "date": "~22.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.177286,
+     48.135374
+    ]
+   },
+   "properties": {
+    "post_id": 22705,
+    "post_date": "2024-11-26 11:10",
+    "date": "26.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.32322,
+     48.22833
+    ]
+   },
+   "properties": {
+    "post_id": 22700,
+    "post_date": "2024-11-26 09:52",
+    "date": "~23.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.32311,
+     48.22993
+    ]
+   },
+   "properties": {
+    "post_id": 22700,
+    "post_date": "2024-11-26 09:52",
+    "date": "~23.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.3256,
+     48.23019
+    ]
+   },
+   "properties": {
+    "post_id": 22700,
+    "post_date": "2024-11-26 09:52",
+    "date": "~23.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.70292,
+     48.18042
+    ]
+   },
+   "properties": {
+    "post_id": 22699,
+    "post_date": "2024-11-26 09:31",
+    "date": "11.2023",
+    "unit": "СБУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85561,
+     48.39311
+    ]
+   },
+   "properties": {
+    "post_id": 22692,
+    "post_date": "2024-11-26 08:24",
+    "date": "~25.11.2024",
+    "unit": "1 МБ, 42 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.00898,
+     49.05451
+    ]
+   },
+   "properties": {
+    "post_id": 22690,
+    "post_date": "2024-11-26 08:15",
+    "date": "~24.11.2024",
+    "unit": "60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31133,
+     47.87046
+    ]
+   },
+   "properties": {
+    "post_id": 22689,
+    "post_date": "2024-11-26 08:00",
+    "date": "~22.11.2024",
+    "unit": "1 ОШБ \"Да Вінчі\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.670838,
+     47.499652
+    ]
+   },
+   "properties": {
+    "post_id": 22686,
+    "post_date": "2024-11-26 07:15",
+    "date": "~23.11.2024",
+    "unit": "3 БрОП \"Спартан\" НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.222817,
+     48.286696
+    ]
+   },
+   "properties": {
+    "post_id": 22684,
+    "post_date": "2024-11-26 06:30",
+    "date": "~26.10.2024",
+    "unit": "ЦСО \"А\" СБУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.09032,
+     51.3063
+    ]
+   },
+   "properties": {
+    "post_id": 22678,
+    "post_date": "2024-11-26 05:46",
+    "date": "~24.11.2024",
+    "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.09419,
+     51.2955
+    ]
+   },
+   "properties": {
+    "post_id": 22678,
+    "post_date": "2024-11-26 05:46",
+    "date": "~24.11.2024",
+    "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.362832,
      48.192211
     ]
