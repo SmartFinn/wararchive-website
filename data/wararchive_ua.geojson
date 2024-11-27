@@ -6,6 +6,214 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.319,
+     46.464551
+    ]
+   },
+   "properties": {
+    "post_id": 22781,
+    "post_date": "2024-11-27 16:01",
+    "date": "~25.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.98301,
+     46.620218
+    ]
+   },
+   "properties": {
+    "post_id": 22778,
+    "post_date": "2024-11-27 15:01",
+    "date": "05.2024",
+    "unit": "414 ОБУБАС МП \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.051495,
+     49.043179
+    ]
+   },
+   "properties": {
+    "post_id": 22768,
+    "post_date": "2024-11-27 14:13",
+    "date": "~25.11.2024",
+    "unit": "63 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.052897,
+     49.042195
+    ]
+   },
+   "properties": {
+    "post_id": 22768,
+    "post_date": "2024-11-27 14:13",
+    "date": "~25.11.2024",
+    "unit": "63 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.180426,
+     49.43634
+    ]
+   },
+   "properties": {
+    "post_id": 22755,
+    "post_date": "2024-11-27 13:14",
+    "date": "~23.11.2024",
+    "unit": "РУБпАК, 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.966627,
+     49.096037
+    ]
+   },
+   "properties": {
+    "post_id": 22750,
+    "post_date": "2024-11-27 11:00",
+    "date": "~19.11.2024",
+    "unit": "ББпС \"Vidar\", 60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.63582,
+     47.10754
+    ]
+   },
+   "properties": {
+    "post_id": 22746,
+    "post_date": "2024-11-27 09:01",
+    "date": "10.04.2022",
+    "unit": "9 полк НМ ДНР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.674318,
+     49.744907
+    ]
+   },
+   "properties": {
+    "post_id": 22744,
+    "post_date": "2024-11-27 08:30",
+    "date": "~09.2024",
+    "unit": "2 МБ, 30 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.32314,
+     48.23424
+    ]
+   },
+   "properties": {
+    "post_id": 22741,
+    "post_date": "2024-11-27 08:15",
+    "date": "~24.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\": "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31039,
+     48.23698
+    ]
+   },
+   "properties": {
+    "post_id": 22741,
+    "post_date": "2024-11-27 08:15",
+    "date": "~24.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\": "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30894,
+     48.25231
+    ]
+   },
+   "properties": {
+    "post_id": 22741,
+    "post_date": "2024-11-27 08:15",
+    "date": "~24.11.2024",
+    "unit": "425 ОШБ \"СКАЛА\": "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84717,
+     48.37835
+    ]
+   },
+   "properties": {
+    "post_id": 22736,
+    "post_date": "2024-11-27 07:27",
+    "date": "11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.70922,
+     47.513448
+    ]
+   },
+   "properties": {
+    "post_id": 22734,
+    "post_date": "2024-11-27 06:30",
+    "date": "~24.11.2024",
+    "unit": "3 БрОП \"Спартан\" НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.260644,
      48.195554
     ]
