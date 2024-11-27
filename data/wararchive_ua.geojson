@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.246488,
+     47.956904
+    ]
+   },
+   "properties": {
+    "post_id": 22790,
+    "post_date": "2024-11-27 19:01",
+    "date": "~23.11.2024",
+    "unit": "33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.415717,
+     47.603784
+    ]
+   },
+   "properties": {
+    "post_id": 22785,
+    "post_date": "2024-11-27 17:00",
+    "date": "~24.11.2024",
+    "unit": "РуБпАК \"Аркан\", 102 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.319,
      46.464551
     ]
