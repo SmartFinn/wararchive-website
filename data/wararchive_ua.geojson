@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.21116,
+     48.166415
+    ]
+   },
+   "properties": {
+    "post_id": 22792,
+    "post_date": "2024-11-27 20:00",
+    "date": "09:28 26.11.2024",
+    "unit": "РУБАК, 65 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.252141,
+     51.381965
+    ]
+   },
+   "properties": {
+    "post_id": 22791,
+    "post_date": "2024-11-27 19:30",
+    "date": "~25.11.2024",
+    "unit": "95 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.246488,
      47.956904
     ]
@@ -350,7 +382,7 @@
     "post_id": 22705,
     "post_date": "2024-11-26 11:10",
     "date": "26.11.2024",
-    "unit": "?"
+    "unit": "РУБАК, 65 ОМБр"
    }
   },
   {
@@ -863,6 +895,22 @@
     "post_date": "2024-11-24 07:15",
     "date": "~10.2024",
     "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.985516,
+     49.227259
+    ]
+   },
+   "properties": {
+    "post_id": 22611,
+    "post_date": "2024-11-24 06:57",
+    "date": "~22.11.2024",
+    "unit": "4 МБ, ОПБр"
    }
   },
   {
