@@ -1,0 +1,13 @@
+.dockerignore
+.git/
+.gitignore
+.ropeproject/
+.ruff_cache/
+.venv/
+Dockerfile
+Makefile
+README.md
+container-telegram-tracker.service
+container-telegram-tracker.timer
+output/
+samples/
