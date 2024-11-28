@@ -1,5 +1,5 @@
 [Unit]
-Description=Podman container-bybit-notifier.service
+Description=Podman container-wararchive-telegram-tracker.service
 Documentation=man:podman-run(1)
 Wants=network-online.target
 After=network-online.target
@@ -9,13 +9,11 @@ RequiresMountsFor=%t/containers
 Type=oneshot
 Environment=PODMAN_SYSTEMD_UNIT=%n
 Restart=no
-TimeoutStopSec=120
+TimeoutStopSec=3000
 ExecStart=/usr/bin/podman run \
 	--rm \
 	--tz=local \
-	--secret=TELEGRAM_TOKEN,type=env \
-	--secret=TELEGRAM_CHAT_ID,type=env \
-	--secret=BYBIT_PUBLIC_KEY,type=env \
-	--secret=BYBIT_SECRET_KEY,type=env \
-	--volume=bybit-notifier-db:/volume \
-	--name=bybit-notifier gitea.mkro.pp.ua/smartfinn/bybit-notifier:latest
+	--secret=GITHUB_TOKEN,type=env \
+	--volume=telegram-tracker-config:/app/config \
+	--volume=telegram-tracker-data:/data \
+	--name=bybit-notifier ghcr.io/smartfinn/wararchive-telegram-tracker:latest
