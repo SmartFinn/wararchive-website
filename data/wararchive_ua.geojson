@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.095463,
+     51.276884
+    ]
+   },
+   "properties": {
+    "post_id": 22832,
+    "post_date": "2024-11-28 17:31",
+    "date": "~25.11.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.09151,
      51.29948
     ]
@@ -294,15 +310,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.674318,
-     49.744907
+     37.83745,
+     48.3393
     ]
    },
    "properties": {
     "post_id": 22744,
     "post_date": "2024-11-27 08:30",
     "date": "~09.2024",
-    "unit": "2 МБ, 30 ОМБр"
+    "unit": "12 БрСП \"Азов\""
    }
   },
   {
