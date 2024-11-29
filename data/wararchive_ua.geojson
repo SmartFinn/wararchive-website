@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.49147,
+     47.93591
+    ]
+   },
+   "properties": {
+    "post_id": 22858,
+    "post_date": "2024-11-29 08:30",
+    "date": "~03.2023",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.177286,
+     48.135374
+    ]
+   },
+   "properties": {
+    "post_id": 22850,
+    "post_date": "2024-11-29 06:30",
+    "date": "26.11.2024",
+    "unit": "414 ОПУБАС \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30212,
+     48.162401
+    ]
+   },
+   "properties": {
+    "post_id": 22850,
+    "post_date": "2024-11-29 06:30",
+    "date": "26.11.2024",
+    "unit": "414 ОПУБАС \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.095463,
      51.276884
     ]
