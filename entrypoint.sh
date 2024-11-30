@@ -16,6 +16,7 @@ source .venv/bin/activate
 
 CURRENT_DATE="$(date --iso-8601)"
 CURRENT_TIME="$(date +%H%M%S)"
+KEEP_LAST_DAYS=3
 CONFIG_DIR="/app/config"
 DATA_DIR="/data"
 TODAY_DIR="$DATA_DIR/output/$CURRENT_DATE"
@@ -44,6 +45,26 @@ get_last_message_id() {
 
     python -c "import json; print(json.load(open('$last_json_file', 'r'))['messages'][0]['id'])"
 }
+
+cleanup_output_dir() {
+    local -i to_remove
+    local -i total_items=$#
+
+    to_remove=$((total_items - KEEP_LAST_DAYS))
+
+    echo "==> Cleaning up output directory (items left: $to_remove)..." >&2
+
+	for dir in "$@"; do
+		[ "$to_remove" -gt 0 ] || continue
+		[ -d "$dir" ] || continue
+		echo "Removing $dir..." >&2
+		rm -rf "$dir"
+		to_remove=$((to_remove - 1))
+	done
+}
+
+# Clean up output directory
+cleanup_output_dir "$DATA_DIR/output"/????-??-??
 
 # Create output directory if it doesn't exist
 mkdir -p "$TODAY_DIR"
