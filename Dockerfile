@@ -11,7 +11,8 @@ RUN uv sync --frozen --no-editable --no-cache --compile-bytecode \
 FROM python:3.12-slim
 LABEL maintainer="SmartFinn (https://github.com/SmartFinn)" \
     org.opencontainers.image.title="telegram-tracker" \
-    org.opencontainers.image.description="Telegram tracker and GeoJSON uploader"
+    org.opencontainers.image.description="Telegram tracker and GeoJSON uploader" \
+    org.opencontainers.image.source="https://github.com/SmartFinn/wararchive-website"
 
 ENV LANG=C.UTF-8 \
     PYTHONUNBUFFERED=1 \
