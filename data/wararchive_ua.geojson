@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.860918,
+     48.599347
+    ]
+   },
+   "properties": {
+    "post_id": 22938,
+    "post_date": "2024-11-30 14:02",
+    "date": "~28.11.2024",
+    "unit": "РУБпАК \"Катенята\", 56 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.725781,
      49.530387
     ]
