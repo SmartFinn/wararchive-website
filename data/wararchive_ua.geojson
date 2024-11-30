@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.28343,
+     47.711581
+    ]
+   },
+   "properties": {
+    "post_id": 22902,
+    "post_date": "2024-11-29 20:18",
+    "date": "~01.2023",
+    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.08719,
+     51.30676
+    ]
+   },
+   "properties": {
+    "post_id": 22898,
+    "post_date": "2024-11-29 18:56",
+    "date": "~28.11.20254",
+    "unit": "225 ОШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.267737,
+     48.214459
+    ]
+   },
+   "properties": {
+    "post_id": 22897,
+    "post_date": "2024-11-29 18:02",
+    "date": "~27.11.2024",
+    "unit": "2 ПДБ, 25 ОПДБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.095096,
      51.295296
     ]
@@ -95,6 +143,22 @@
     "post_date": "2024-11-29 11:20",
     "date": "2023",
     "unit": "79 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.65914,
+     48.182798
+    ]
+   },
+   "properties": {
+    "post_id": 22864,
+    "post_date": "2024-11-29 11:00",
+    "date": "~11.2024",
+    "unit": "\"Крила\", ГУР МО"
    }
   },
   {
@@ -271,6 +335,22 @@
     "post_date": "2024-11-28 11:00",
     "date": "~24.11.2024",
     "unit": "24 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.18055,
+     51.3255
+    ]
+   },
+   "properties": {
+    "post_id": 22802,
+    "post_date": "2024-11-28 09:30",
+    "date": "~09.2024",
+    "unit": "92 ОШБр"
    }
   },
   {
@@ -1183,6 +1263,22 @@
     "post_date": "2024-11-24 11:27",
     "date": "~22.11.2024",
     "unit": "\"The Ravens\", 248 ОБТрО, 129 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.83989,
+     48.34484
+    ]
+   },
+   "properties": {
+    "post_id": 22618,
+    "post_date": "2024-11-24 09:23",
+    "date": "~09.2024",
+    "unit": "12 БрСП \"Азов\""
    }
   },
   {
@@ -28591,6 +28687,22 @@
     "post_date": "2024-08-11 17:02",
     "date": "08.2024",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82949,
+     48.35604
+    ]
+   },
+   "properties": {
+    "post_id": 18415,
+    "post_date": "2024-08-11 16:01",
+    "date": "10.2024",
+    "unit": "12 БрСП \"Азов\""
    }
   },
   {
