@@ -16,4 +16,5 @@ ExecStart=/usr/bin/podman run \
 	--secret=GITHUB_TOKEN,type=env \
 	--volume=telegram-tracker-config:/app/config \
 	--volume=telegram-tracker-data:/data \
-	--name=bybit-notifier ghcr.io/smartfinn/wararchive-telegram-tracker:latest
+	--name=wararchive-telegram-tracker \
+	ghcr.io/smartfinn/wararchive-telegram-tracker:latest
