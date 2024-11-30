@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.948658,
+     51.284957
+    ]
+   },
+   "properties": {
+    "post_id": 22943,
+    "post_date": "2024-11-30 17:01",
+    "date": "~26.11.2024",
+    "unit": "\"Грифон\", 501 ОБМП, 36 ОБрМП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.947979,
+     51.284829
+    ]
+   },
+   "properties": {
+    "post_id": 22943,
+    "post_date": "2024-11-30 17:01",
+    "date": "~26.11.2024",
+    "unit": "\"Грифон\", 501 ОБМП, 36 ОБрМП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.52888,
      48.23291
     ]
