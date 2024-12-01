@@ -6,6 +6,198 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.25103,
+     48.177278
+    ]
+   },
+   "properties": {
+    "post_id": 23009,
+    "post_date": "2024-12-01 16:02",
+    "date": "~28.11.2024",
+    "unit": "68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.077735,
+     48.756761
+    ]
+   },
+   "properties": {
+    "post_id": 23008,
+    "post_date": "2024-12-01 15:00",
+    "date": "~26.11.2024",
+    "unit": "\"Sky Fury\", 3 МБ, 54 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.55711,
+     48.23273
+    ]
+   },
+   "properties": {
+    "post_id": 23006,
+    "post_date": "2024-12-01 13:00",
+    "date": "~21.09.2024",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.3853,
+     48.18352
+    ]
+   },
+   "properties": {
+    "post_id": 23005,
+    "post_date": "2024-12-01 12:43",
+    "date": "~13.08.2024",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.94494,
+     48.5332
+    ]
+   },
+   "properties": {
+    "post_id": 23003,
+    "post_date": "2024-12-01 11:44",
+    "date": "~05.2024",
+    "unit": "93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.70299,
+     49.76805
+    ]
+   },
+   "properties": {
+    "post_id": 22988,
+    "post_date": "2024-12-01 10:30",
+    "date": "~10.2024",
+    "unit": "30 ОМБр ?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.55609,
+     48.23246
+    ]
+   },
+   "properties": {
+    "post_id": 22987,
+    "post_date": "2024-12-01 10:15",
+    "date": "~08.2024 ",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.50649,
+     47.94151
+    ]
+   },
+   "properties": {
+    "post_id": 22985,
+    "post_date": "2024-12-01 09:30",
+    "date": "2023",
+    "unit": "79 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.476111,
+     50.240558
+    ]
+   },
+   "properties": {
+    "post_id": 22984,
+    "post_date": "2024-12-01 09:10",
+    "date": "~28.11.2024  ",
+    "unit": "13 БрОП \"Хартія\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.458297,
+     50.255337
+    ]
+   },
+   "properties": {
+    "post_id": 22984,
+    "post_date": "2024-12-01 09:10",
+    "date": "~28.11.2024  ",
+    "unit": "13 БрОП \"Хартія\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.69523,
+     48.1893
+    ]
+   },
+   "properties": {
+    "post_id": 22983,
+    "post_date": "2024-12-01 09:02",
+    "date": "~05.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.93289,
+     48.35487
+    ]
+   },
+   "properties": {
+    "post_id": 22980,
+    "post_date": "2024-12-01 07:31",
+    "date": "~09.2023",
+    "unit": "24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.260534,
      47.9563
     ]
