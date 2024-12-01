@@ -1222,6 +1222,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.93926,
+     50.28676
+    ]
+   },
+   "properties": {
+    "post_id": 22672,
+    "post_date": "2024-11-25 19:30",
+    "date": "~08.2024",
+    "unit": "8 ОП СпП ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.164142,
      51.378255
     ]
@@ -1293,7 +1309,7 @@
    "properties": {
     "post_id": 22645,
     "post_date": "2024-11-25 09:31",
-    "date": "11.2024",
+    "date": "21.11.2024",
     "unit": "35 ОБрМП"
    }
   },
@@ -5198,7 +5214,7 @@
     "post_id": 22121,
     "post_date": "2024-11-10 08:01",
     "date": "~08.11.2024",
-    "unit": "35 ОБрМП"
+    "unit": "3 ТР, 35 ОБрМП"
    }
   },
   {
@@ -31142,6 +31158,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83513,
+     48.35255
+    ]
+   },
+   "properties": {
+    "post_id": 18058,
+    "post_date": "2024-08-05 08:43",
+    "date": "10.2024",
+    "unit": "12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.023028,
      46.747937
     ]
@@ -31158,15 +31190,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.210758,
-     47.75355
+     37.83116,
+     48.35154
     ]
    },
    "properties": {
     "post_id": 18051,
     "post_date": "2024-08-05 07:32",
-    "date": "~03.08.2024",
-    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+    "date": "11.2024",
+    "unit": "12 БрСП \"Азов\""
    }
   },
   {
