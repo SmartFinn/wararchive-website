@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.190028,
+     47.907787
+    ]
+   },
+   "properties": {
+    "post_id": 23018,
+    "post_date": "2024-12-01 20:00",
+    "date": "~29.11.2024",
+    "unit": "37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.184507,
+     47.895677
+    ]
+   },
+   "properties": {
+    "post_id": 23018,
+    "post_date": "2024-12-01 20:00",
+    "date": "~29.11.2024",
+    "unit": "37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.217276,
+     47.713472
+    ]
+   },
+   "properties": {
+    "post_id": 23015,
+    "post_date": "2024-12-01 19:00",
+    "date": "~09.2024",
+    "unit": "\"Тотем\", 3 МБ та 1 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.599143,
+     47.719763
+    ]
+   },
+   "properties": {
+    "post_id": 23013,
+    "post_date": "2024-12-01 18:02",
+    "date": "~28.11.2024",
+    "unit": "\"Flying Skull\" та 135 ОБТрО, 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.399276,
+     48.25468
+    ]
+   },
+   "properties": {
+    "post_id": 23010,
+    "post_date": "2024-12-01 17:00",
+    "date": "~28.11.2024",
+    "unit": "\"Москіти\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.25103,
      48.177278
     ]
