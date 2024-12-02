@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.906085,
+     48.412722
+    ]
+   },
+   "properties": {
+    "post_id": 23038,
+    "post_date": "2024-12-02 15:28",
+    "date": "~30.11.2024",
+    "unit": "РУБпАК, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.184071,
+     48.056059
+    ]
+   },
+   "properties": {
+    "post_id": 23037,
+    "post_date": "2024-12-02 14:00",
+    "date": "~30.11.2024",
+    "unit": "414 ОПУБАС СБС \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.233755,
      47.753344
     ]
