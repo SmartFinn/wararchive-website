@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.59223,
+     48.22732
+    ]
+   },
+   "properties": {
+    "post_id": 23065,
+    "post_date": "2024-12-03 13:30",
+    "date": "~09.2024",
+    "unit": "\"Божа Справа\", 47 ОМБр \"Маґура\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.0241,
+     51.25441
+    ]
+   },
+   "properties": {
+    "post_id": 23064,
+    "post_date": "2024-12-03 13:14",
+    "date": "01.12.2024",
+    "unit": "1 ТБ, 17 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.08518,
      51.31039
     ]
