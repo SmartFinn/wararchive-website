@@ -205,8 +205,24 @@
    "properties": {
     "post_id": 23054,
     "post_date": "2024-12-03 08:01",
-    "date": "~01.12.2024",
-    "unit": "?"
+    "date": "01.12.2024",
+    "unit": "8 ОГШБ, 10 ОГШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.362011,
+     51.086775
+    ]
+   },
+   "properties": {
+    "post_id": 23043,
+    "post_date": "2024-12-02 17:00",
+    "date": "~28.11.2024",
+    "unit": "\"The Ravens\", 248 ОБТрО, 129 ОБрТрО"
    }
   },
   {
