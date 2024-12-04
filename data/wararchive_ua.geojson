@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.746407,
+     50.265825
+    ]
+   },
+   "properties": {
+    "post_id": 23128,
+    "post_date": "2024-12-04 18:00",
+    "date": "~03.12.2024",
+    "unit": "Краматорський загін \"Фортпост\", ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.84473,
+     47.88602
+    ]
+   },
+   "properties": {
+    "post_id": 23126,
+    "post_date": "2024-12-04 17:22",
+    "date": "~04.12.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22816,
      48.86471
     ]
