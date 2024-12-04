@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.301046,
+     47.737916
+    ]
+   },
+   "properties": {
+    "post_id": 23093,
+    "post_date": "2024-12-04 09:30",
+    "date": "~24.02.2024",
+    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.92572,
      47.90577
     ]
