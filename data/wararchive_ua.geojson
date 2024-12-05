@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.70375,
+     48.16785
+    ]
+   },
+   "properties": {
+    "post_id": 23138,
+    "post_date": "2024-12-05 09:01",
+    "date": "10.2023 ",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.61661,
+     49.70992
+    ]
+   },
+   "properties": {
+    "post_id": 23137,
+    "post_date": "2024-12-05 08:30",
+    "date": "09.2022",
+    "unit": "ГУР \"KRAKEN\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.26035,
+     47.77854
+    ]
+   },
+   "properties": {
+    "post_id": 23136,
+    "post_date": "2024-12-05 08:15",
+    "date": "~11.2023 ?",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.245331,
      47.743371
     ]
