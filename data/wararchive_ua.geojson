@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.26298,
+     48.81363
+    ]
+   },
+   "properties": {
+    "post_id": 23163,
+    "post_date": "2024-12-05 14:01",
+    "date": "~07.2024",
+    "unit": "3 БОП \"Сила Свобода\", 4 БрОП НГУ \"Рубіж\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.014485,
+     51.268748
+    ]
+   },
+   "properties": {
+    "post_id": 23162,
+    "post_date": "2024-12-05 14:00",
+    "date": "~02.12.2024",
+    "unit": "\"Pride group\", 2 ДШБ, 80 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8416,
+     48.39926
+    ]
+   },
+   "properties": {
+    "post_id": 23160,
+    "post_date": "2024-12-05 13:31",
+    "date": "~03.12.2024",
+    "unit": "ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.167902,
      48.983378
     ]
