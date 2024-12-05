@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.976486,
+     49.103988
+    ]
+   },
+   "properties": {
+    "post_id": 23167,
+    "post_date": "2024-12-05 15:01",
+    "date": "~02.12.2024",
+    "unit": "ББпС \"Vidar\", 60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.72432,
+     49.88781
+    ]
+   },
+   "properties": {
+    "post_id": 23165,
+    "post_date": "2024-12-05 14:30",
+    "date": "01.12.2024",
+    "unit": "3 ОТБр, 10 ОГШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.26298,
      48.81363
     ]
