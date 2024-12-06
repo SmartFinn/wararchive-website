@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.844654,
+     48.375497
+    ]
+   },
+   "properties": {
+    "post_id": 23203,
+    "post_date": "2024-12-06 12:01",
+    "date": "~04.12.2024",
+    "unit": "\"RIDDICK’S GROUP\", 4 загін ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.093636,
      51.209262
     ]
