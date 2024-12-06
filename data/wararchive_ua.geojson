@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.688042,
+     47.537606
+    ]
+   },
+   "properties": {
+    "post_id": 23205,
+    "post_date": "2024-12-06 13:01",
+    "date": "~04.12.2024",
+    "unit": "\"Кабул 9\", ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.487605,
+     49.947923
+    ]
+   },
+   "properties": {
+    "post_id": 23204,
+    "post_date": "2024-12-06 12:53",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.844654,
      48.375497
     ]
