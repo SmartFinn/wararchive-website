@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.693687,
+     49.75961
+    ]
+   },
+   "properties": {
+    "post_id": 23216,
+    "post_date": "2024-12-06 18:01",
+    "date": "13:34 - 14:42 04.12.2024",
+    "unit": "\"Strix Squad\", 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.68441,
+     49.736045
+    ]
+   },
+   "properties": {
+    "post_id": 23216,
+    "post_date": "2024-12-06 18:01",
+    "date": "13:34 - 14:42 04.12.2024",
+    "unit": "\"Strix Squad\", 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.186997,
+     48.044258
+    ]
+   },
+   "properties": {
+    "post_id": 23213,
+    "post_date": "2024-12-06 17:19",
+    "date": "~03.12.2024",
+    "unit": "35 ОБрМП, 57 ОМПБр та 33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.940298,
+     50.298222
+    ]
+   },
+   "properties": {
+    "post_id": 23213,
+    "post_date": "2024-12-06 17:19",
+    "date": "~03.12.2024",
+    "unit": "35 ОБрМП, 57 ОМПБр та 33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.93835,
+     50.298515
+    ]
+   },
+   "properties": {
+    "post_id": 23213,
+    "post_date": "2024-12-06 17:19",
+    "date": "~03.12.2024",
+    "unit": "35 ОБрМП, 57 ОМПБр та 33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.932234,
+     50.303002
+    ]
+   },
+   "properties": {
+    "post_id": 23213,
+    "post_date": "2024-12-06 17:19",
+    "date": "~03.12.2024",
+    "unit": "35 ОБрМП, 57 ОМПБр та 33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.137133,
      48.211475
     ]
