@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.82571,
+     50.253815
+    ]
+   },
+   "properties": {
+    "post_id": 23206,
+    "post_date": "2024-12-06 14:00",
+    "date": "~30.11.2024",
+    "unit": "2 БО, 101 ОБрО ГШ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.688042,
      47.537606
     ]
