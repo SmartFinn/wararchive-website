@@ -278,6 +278,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.81796,
+     47.74752
+    ]
+   },
+   "properties": {
+    "post_id": 23198,
+    "post_date": "2024-12-06 09:00",
+    "date": "~07.2024",
+    "unit": "58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.94023,
      50.29474
     ]
@@ -1542,6 +1558,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.81796,
+     47.74752
+    ]
+   },
+   "properties": {
+    "post_id": 22921,
+    "post_date": "2024-11-30 09:31",
+    "date": "~07.2024",
+    "unit": "58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.94409,
      50.29417
     ]
@@ -2687,6 +2719,22 @@
     "post_date": "2024-11-25 09:31",
     "date": "21.11.2024",
     "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.81796,
+     47.74752
+    ]
+   },
+   "properties": {
+    "post_id": 22644,
+    "post_date": "2024-11-25 09:00",
+    "date": "~07.2024",
+    "unit": "58 ОМПБр"
    }
   },
   {
