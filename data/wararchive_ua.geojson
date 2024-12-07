@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.84829,
+     48.39733
+    ]
+   },
+   "properties": {
+    "post_id": 23250,
+    "post_date": "2024-12-07 18:01",
+    "date": "12.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.094897,
+     48.203447
+    ]
+   },
+   "properties": {
+    "post_id": 23249,
+    "post_date": "2024-12-07 18:00",
+    "date": "~06.12.2024",
+    "unit": "15 БрОП \"Кара-Даг\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.0049,
      48.7236
     ]
