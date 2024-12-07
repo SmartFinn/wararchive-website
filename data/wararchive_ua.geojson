@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.0049,
+     48.7236
+    ]
+   },
+   "properties": {
+    "post_id": 23248,
+    "post_date": "2024-12-07 17:02",
+    "date": "10.2024",
+    "unit": "30 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.867192,
+     51.339676
+    ]
+   },
+   "properties": {
+    "post_id": 23247,
+    "post_date": "2024-12-07 16:31",
+    "date": "~05.12.2024",
+    "unit": "\"Requiem group\", ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.87351,
      49.6472
     ]
