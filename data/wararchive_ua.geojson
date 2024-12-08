@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.04243,
+     48.62066
+    ]
+   },
+   "properties": {
+    "post_id": 23266,
+    "post_date": "2024-12-08 09:31",
+    "date": "11.2022",
+    "unit": "ЗТГ \"Адам\" x ЧВК \"Вагнер\"🇷🇺"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.68229,
      48.19615
     ]
