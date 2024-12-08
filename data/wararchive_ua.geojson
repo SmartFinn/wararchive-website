@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.68229,
+     48.19615
+    ]
+   },
+   "properties": {
+    "post_id": 23264,
+    "post_date": "2024-12-08 09:00",
+    "date": "~12.12.2023",
+    "unit": "1 МБ, 47 ОМБр \"Маґура\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.24515,
+     47.77963
+    ]
+   },
+   "properties": {
+    "post_id": 23262,
+    "post_date": "2024-12-08 08:31",
+    "date": "~07.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.13065,
      48.975322
     ]
