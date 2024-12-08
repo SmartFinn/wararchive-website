@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.119441,
+     47.944787
+    ]
+   },
+   "properties": {
+    "post_id": 23289,
+    "post_date": "2024-12-08 19:00",
+    "date": "~06.12.2024",
+    "unit": "\"Northern Eagle\", 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.824773,
      48.356847
     ]
