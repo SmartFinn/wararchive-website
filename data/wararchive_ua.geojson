@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.761082,
+     49.54133
+    ]
+   },
+   "properties": {
+    "post_id": 23286,
+    "post_date": "2024-12-08 16:02",
+    "date": "~06.12.2024",
+    "unit": "БУБпАК «Ахіллес», 92 ОШБр та 1 БрОП \"Буревій\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.725974,
+     49.520891
+    ]
+   },
+   "properties": {
+    "post_id": 23286,
+    "post_date": "2024-12-08 16:02",
+    "date": "~06.12.2024",
+    "unit": "БУБпАК «Ахіллес», 92 ОШБр та 1 БрОП \"Буревій\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.23268,
      48.21038
     ]
