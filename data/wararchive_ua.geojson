@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.698393,
+     49.53936
+    ]
+   },
+   "properties": {
+    "post_id": 23287,
+    "post_date": "2024-12-08 17:00",
+    "date": "~05.12.2024",
+    "unit": "\"Фенікс\", Бригада Гвардії наступу \"Помста\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.693129,
+     49.526937
+    ]
+   },
+   "properties": {
+    "post_id": 23287,
+    "post_date": "2024-12-08 17:00",
+    "date": "~05.12.2024",
+    "unit": "\"Фенікс\", Бригада Гвардії наступу \"Помста\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.761082,
      49.54133
     ]
