@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.824773,
+     48.356847
+    ]
+   },
+   "properties": {
+    "post_id": 23288,
+    "post_date": "2024-12-08 18:00",
+    "date": "~06.12.2024",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.840016,
+     48.384724
+    ]
+   },
+   "properties": {
+    "post_id": 23288,
+    "post_date": "2024-12-08 18:00",
+    "date": "~06.12.2024",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85022,
+     48.397591
+    ]
+   },
+   "properties": {
+    "post_id": 23288,
+    "post_date": "2024-12-08 18:00",
+    "date": "~06.12.2024",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.698393,
      49.53936
     ]
