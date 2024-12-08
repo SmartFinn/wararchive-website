@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.13065,
+     48.975322
+    ]
+   },
+   "properties": {
+    "post_id": 23259,
+    "post_date": "2024-12-08 08:01",
+    "date": "05.12.2024",
+    "unit": "53 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.364077,
      48.158717
     ]
