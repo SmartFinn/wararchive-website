@@ -198,6 +198,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.0009,
+     49.15803
+    ]
+   },
+   "properties": {
+    "post_id": 23274,
+    "post_date": "2024-12-08 11:00",
+    "date": "~07.12.2024",
+    "unit": "66 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.09144,
      51.29946
     ]
@@ -205,7 +221,7 @@
    "properties": {
     "post_id": 23270,
     "post_date": "2024-12-08 10:15",
-    "date": "12.2024",
+    "date": "08:00 26.11.2024",
     "unit": "36 ОБрМП"
    }
   },
