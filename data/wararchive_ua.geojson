@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.214207,
+     47.707841
+    ]
+   },
+   "properties": {
+    "post_id": 23318,
+    "post_date": "2024-12-09 15:02",
+    "date": "~06.2024",
+    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.42411,
+     47.96829
+    ]
+   },
+   "properties": {
+    "post_id": 23317,
+    "post_date": "2024-12-09 14:30",
+    "date": "~10.2024",
+    "unit": "46 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.836067,
      48.590732
     ]
