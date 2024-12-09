@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.6746,
+     48.05798
+    ]
+   },
+   "properties": {
+    "post_id": 23304,
+    "post_date": "2024-12-09 08:01",
+    "date": "07.12.2014",
+    "unit": "ДУК ПС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.50223,
+     45.34267
+    ]
+   },
+   "properties": {
+    "post_id": 23303,
+    "post_date": "2024-12-09 07:35",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.144928,
+     48.704901
+    ]
+   },
+   "properties": {
+    "post_id": 23302,
+    "post_date": "2024-12-09 07:31",
+    "date": "~07.12.2024",
+    "unit": "\"Sky Fury\", 3 МБ, 54 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.79466,
+     48.35285
+    ]
+   },
+   "properties": {
+    "post_id": 23298,
+    "post_date": "2024-12-09 07:08",
+    "date": "~09.2024",
+    "unit": "5 БСП, 12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.095264,
      51.276891
     ]
