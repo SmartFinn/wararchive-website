@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.67094,
+     48.06241
+    ]
+   },
+   "properties": {
+    "post_id": 23347,
+    "post_date": "2024-12-10 09:30",
+    "date": "~01-02.2015",
+    "unit": "2 ШР, 5 Бат ДУК ПС та 93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.67644,
      48.20063
     ]
