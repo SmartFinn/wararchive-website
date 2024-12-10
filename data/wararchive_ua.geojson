@@ -30,7 +30,7 @@
     "post_id": 23331,
     "post_date": "2024-12-09 19:31",
     "date": "~07.12.2024",
-    "unit": "?"
+    "unit": "\"Strix Squad\", 114 ОБрТрО"
    }
   },
   {
@@ -662,6 +662,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.98291,
+     49.27231
+    ]
+   },
+   "properties": {
+    "post_id": 23254,
+    "post_date": "2024-12-07 20:26",
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.852451,
      48.397896
     ]
@@ -854,6 +870,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.98291,
+     49.27231
+    ]
+   },
+   "properties": {
+    "post_id": 23240,
+    "post_date": "2024-12-07 13:07",
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.237514,
      47.918049
     ]
@@ -863,6 +895,22 @@
     "post_date": "2024-12-07 13:00",
     "date": "~03.12.2024",
     "unit": "\"Котики\", 130 ОБТрО, 241 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.98291,
+     49.27231
+    ]
+   },
+   "properties": {
+    "post_id": 23238,
+    "post_date": "2024-12-07 12:41",
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
    }
   },
   {
@@ -959,6 +1007,22 @@
     "post_date": "2024-12-07 06:30",
     "date": "~01.12.2024",
     "unit": "\"Булава\", 3 МБ, ОПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.98291,
+     49.27231
+    ]
+   },
+   "properties": {
+    "post_id": 23221,
+    "post_date": "2024-12-06 20:15",
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
    }
   },
   {
@@ -1270,15 +1334,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     35.075026,
-     51.346704
+     37.98291,
+     49.27231
     ]
    },
    "properties": {
     "post_id": 23187,
     "post_date": "2024-12-06 06:30",
-    "date": "~02.12.2024",
-    "unit": "47 ОМБр"
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
    }
   },
   {
@@ -1759,6 +1823,22 @@
     "post_date": "2024-12-04 11:00",
     "date": "~01.12.2024",
     "unit": "68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.321295,
+     48.066796
+    ]
+   },
+   "properties": {
+    "post_id": 23095,
+    "post_date": "2024-12-04 10:42",
+    "date": "~30.09.2024",
+    "unit": "59 ОМПБр"
    }
   },
   {
@@ -8317,7 +8397,7 @@
    "properties": {
     "post_id": 22049,
     "post_date": "2024-11-06 19:02",
-    "date": "~04.11.2024",
+    "date": "14:40 06.11.2024",
     "unit": "?"
    }
   },
@@ -38438,15 +38518,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.66615,
-     48.09817
+     37.98291,
+     49.27231
     ]
    },
    "properties": {
     "post_id": 17292,
     "post_date": "2024-07-16 08:03",
-    "date": "~11.2023",
-    "unit": "53 ОМБр"
+    "date": "15.08.2024",
+    "unit": "3 ОШБр"
    }
   },
   {
