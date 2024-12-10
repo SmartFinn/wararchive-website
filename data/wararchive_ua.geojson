@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.901782,
+     48.383297
+    ]
+   },
+   "properties": {
+    "post_id": 23366,
+    "post_date": "2024-12-10 17:02",
+    "date": "~05.2024 - 08.2024",
+    "unit": "1 загін ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.925643,
+     47.471752
+    ]
+   },
+   "properties": {
+    "post_id": 23366,
+    "post_date": "2024-12-10 17:02",
+    "date": "~05.2024 - 08.2024",
+    "unit": "1 загін ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.497193,
      46.597601
     ]
