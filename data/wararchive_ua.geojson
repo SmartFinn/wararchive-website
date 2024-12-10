@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.197549,
+     49.400098
+    ]
+   },
+   "properties": {
+    "post_id": 23356,
+    "post_date": "2024-12-10 13:00",
+    "date": "~06.12.2024",
+    "unit": "\"FATUM\", 3 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.283793,
+     47.901293
+    ]
+   },
+   "properties": {
+    "post_id": 23355,
+    "post_date": "2024-12-10 12:30",
+    "date": "~11.2024",
+    "unit": "214 ОСпБ OPFOR"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.33287,
      51.094593
     ]
