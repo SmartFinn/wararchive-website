@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.190314,
+     47.90801
+    ]
+   },
+   "properties": {
+    "post_id": 23420,
+    "post_date": "2024-12-11 15:32",
+    "date": "~05.12.2024",
+    "unit": "\"Тіваз\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.190487,
      47.908145
     ]
