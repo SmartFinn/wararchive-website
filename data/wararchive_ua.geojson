@@ -294,6 +294,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.97368,
+     48.495198
+    ]
+   },
+   "properties": {
+    "post_id": 23339,
+    "post_date": "2024-12-10 08:01",
+    "date": "~10.2023",
+    "unit": "1 ШБ, 92 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.090821,
      48.18569
     ]
