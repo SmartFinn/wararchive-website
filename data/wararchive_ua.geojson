@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.160297,
+     48.212028
+    ]
+   },
+   "properties": {
+    "post_id": 23431,
+    "post_date": "2024-12-11 20:00",
+    "date": "~10.12.2024",
+    "unit": "\"Khorne group\", 116 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.241855,
+     47.73555
+    ]
+   },
+   "properties": {
+    "post_id": 23428,
+    "post_date": "2024-12-11 19:10",
+    "date": "~14.08.2023",
+    "unit": "\"Тотем\", 3 МБ, 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.9115,
      48.385164
     ]
