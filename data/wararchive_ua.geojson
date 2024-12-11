@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.254009,
+     47.901115
+    ]
+   },
+   "properties": {
+    "post_id": 23413,
+    "post_date": "2024-12-11 13:01",
+    "date": "~10.12.2024",
+    "unit": "\"Котики\", 130 ОБТрО, 241 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.23608,
      47.91515
     ]
