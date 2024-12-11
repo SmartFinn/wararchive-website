@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.38212,
+     48.267139
+    ]
+   },
+   "properties": {
+    "post_id": 23425,
+    "post_date": "2024-12-11 17:01",
+    "date": "~05.12.2024",
+    "unit": "РУБАК, 14 БрОП НГУ \"Червона Калина\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84745,
+     48.39578
+    ]
+   },
+   "properties": {
+    "post_id": 23421,
+    "post_date": "2024-12-11 16:04",
+    "date": "12.2024",
+    "unit": "ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.190314,
      47.90801
     ]
