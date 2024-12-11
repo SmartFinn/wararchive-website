@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.190487,
+     47.908145
+    ]
+   },
+   "properties": {
+    "post_id": 23419,
+    "post_date": "2024-12-11 15:00",
+    "date": "~05.12.2024",
+    "unit": "\"Trophy Hunters\", 148 ОАБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.10389,
+     51.31739
+    ]
+   },
+   "properties": {
+    "post_id": 23417,
+    "post_date": "2024-12-11 14:44",
+    "date": "~06.12.2024",
+    "unit": "47 ОМБр \"Маґура\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.585633,
      47.761941
     ]
