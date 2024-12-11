@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.23608,
+     47.91515
+    ]
+   },
+   "properties": {
+    "post_id": 23386,
+    "post_date": "2024-12-11 06:30",
+    "date": "~09.12.2024",
+    "unit": "\"Trophy Hunters\", 148 ОАБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.235096,
      47.75558
     ]
