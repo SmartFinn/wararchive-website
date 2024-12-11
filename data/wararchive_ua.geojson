@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.9115,
+     48.385164
+    ]
+   },
+   "properties": {
+    "post_id": 23427,
+    "post_date": "2024-12-11 18:02",
+    "date": "~09.12.2024",
+    "unit": "РУБпАК, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.38212,
      48.267139
     ]
