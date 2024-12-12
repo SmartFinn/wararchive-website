@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.971824,
+     51.264044
+    ]
+   },
+   "properties": {
+    "post_id": 23453,
+    "post_date": "2024-12-12 17:01",
+    "date": "~09.12.2024",
+    "unit": "РУБпАК \"Пегас\", 1 ОТБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.014458,
+     51.265381
+    ]
+   },
+   "properties": {
+    "post_id": 23453,
+    "post_date": "2024-12-12 17:01",
+    "date": "~09.12.2024",
+    "unit": "РУБпАК \"Пегас\", 1 ОТБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.757143,
      50.265863
     ]
