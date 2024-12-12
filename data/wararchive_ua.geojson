@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.879267,
+     51.322566
+    ]
+   },
+   "properties": {
+    "post_id": 23449,
+    "post_date": "2024-12-12 15:01",
+    "date": "~09.12.2024",
+    "unit": "\"Requiem group\", ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.896071,
+     51.302142
+    ]
+   },
+   "properties": {
+    "post_id": 23449,
+    "post_date": "2024-12-12 15:01",
+    "date": "~09.12.2024",
+    "unit": "\"Requiem group\", ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.896016,
+     51.337052
+    ]
+   },
+   "properties": {
+    "post_id": 23449,
+    "post_date": "2024-12-12 15:01",
+    "date": "~09.12.2024",
+    "unit": "\"Requiem group\", ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.875088,
+     51.330813
+    ]
+   },
+   "properties": {
+    "post_id": 23449,
+    "post_date": "2024-12-12 15:01",
+    "date": "~09.12.2024",
+    "unit": "\"Requiem group\", ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.036904,
      51.321823
     ]
