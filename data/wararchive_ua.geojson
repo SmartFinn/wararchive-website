@@ -342,6 +342,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.216975,
+     48.198302
+    ]
+   },
+   "properties": {
+    "post_id": 23368,
+    "post_date": "2024-12-10 18:08",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.780974,
      47.319758
     ]
@@ -831,6 +847,22 @@
     "post_date": "2024-12-09 13:02",
     "date": "~04.12.2024",
     "unit": "\"SUNSTRIKE\", 82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.02272,
+     46.687952
+    ]
+   },
+   "properties": {
+    "post_id": 23313,
+    "post_date": "2024-12-09 12:00",
+    "date": "~29.11.2023",
+    "unit": "?"
    }
   },
   {
@@ -5407,6 +5439,22 @@
     "post_date": "2024-11-20 20:01",
     "date": "~17.11.2024  ",
     "unit": "РУБпАК, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.98946,
+     49.27258
+    ]
+   },
+   "properties": {
+    "post_id": 22500,
+    "post_date": "2024-11-20 19:21",
+    "date": "~08.2024",
+    "unit": "3 ОШБр"
    }
   },
   {
