@@ -326,6 +326,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.411636,
+     50.30782
+    ]
+   },
+   "properties": {
+    "post_id": 23434,
+    "post_date": "2024-12-12 07:15",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.991076,
      49.226333
     ]
