@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.93536,
+     48.61313
+    ]
+   },
+   "properties": {
+    "post_id": 23466,
+    "post_date": "2024-12-13 09:31",
+    "date": "~03.2023",
+    "unit": "Інтернаціональний легіон"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.247639,
      51.384369
     ]
