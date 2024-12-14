@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.998772,
+     48.901352
+    ]
+   },
+   "properties": {
+    "post_id": 23497,
+    "post_date": "2024-12-14 06:30",
+    "date": "~10.12.2024",
+    "unit": "\"Horizon Group\", 81 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.282002,
      47.990719
     ]
