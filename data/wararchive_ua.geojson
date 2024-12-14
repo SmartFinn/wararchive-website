@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.09234,
+     48.18626
+    ]
+   },
+   "properties": {
+    "post_id": 23500,
+    "post_date": "2024-12-14 08:00",
+    "date": "~10.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.0902,
+     48.18498
+    ]
+   },
+   "properties": {
+    "post_id": 23500,
+    "post_date": "2024-12-14 08:00",
+    "date": "~10.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.0907,
+     48.1858
+    ]
+   },
+   "properties": {
+    "post_id": 23500,
+    "post_date": "2024-12-14 08:00",
+    "date": "~10.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.08879,
+     48.1927
+    ]
+   },
+   "properties": {
+    "post_id": 23500,
+    "post_date": "2024-12-14 08:00",
+    "date": "~10.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.13759,
+     48.2223
+    ]
+   },
+   "properties": {
+    "post_id": 23500,
+    "post_date": "2024-12-14 08:00",
+    "date": "~10.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.998772,
      48.901352
     ]
