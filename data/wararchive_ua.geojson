@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.94069,
+     48.54403
+    ]
+   },
+   "properties": {
+    "post_id": 23541,
+    "post_date": "2024-12-15 09:02",
+    "date": "~23.03.2024",
+    "unit": "24 ОШБ, 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.9034,
+     48.38179
+    ]
+   },
+   "properties": {
+    "post_id": 23538,
+    "post_date": "2024-12-15 08:30",
+    "date": "~08.2024",
+    "unit": "ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.56264,
+     48.22817
+    ]
+   },
+   "properties": {
+    "post_id": 23537,
+    "post_date": "2024-12-15 08:25",
+    "date": "06.2024",
+    "unit": "47 ОМБр \"Маґура\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      45.68513,
      43.3542
     ]
