@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.987374,
+     51.286891
+    ]
+   },
+   "properties": {
+    "post_id": 23562,
+    "post_date": "2024-12-15 15:02",
+    "date": "~12.12.2024",
+    "unit": "\"SUNSTRIKE\", 82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.840181,
      48.604568
     ]
