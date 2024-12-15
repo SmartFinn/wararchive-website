@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83924,
+     48.389342
+    ]
+   },
+   "properties": {
+    "post_id": 23577,
+    "post_date": "2024-12-15 19:00",
+    "date": "~13.12.2024",
+    "unit": "\"Black hawk\", ББПС \"VORON 100\", 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84167,
+     48.37871
+    ]
+   },
+   "properties": {
+    "post_id": 23571,
+    "post_date": "2024-12-15 18:13",
+    "date": "12.2024",
+    "unit": "93 ОМБр \"Холодний Яр\" ?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84524,
+     48.37876
+    ]
+   },
+   "properties": {
+    "post_id": 23571,
+    "post_date": "2024-12-15 18:13",
+    "date": "12.2024",
+    "unit": "93 ОМБр \"Холодний Яр\" ?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84593,
+     48.37956
+    ]
+   },
+   "properties": {
+    "post_id": 23571,
+    "post_date": "2024-12-15 18:13",
+    "date": "12.2024",
+    "unit": "93 ОМБр \"Холодний Яр\" ?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.855858,
      48.392393
     ]
