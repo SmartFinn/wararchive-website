@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.82079,
+     48.35471
+    ]
+   },
+   "properties": {
+    "post_id": 23641,
+    "post_date": "2024-12-16 18:57",
+    "date": "~09.2024",
+    "unit": "5 БСП, 12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82147,
+     48.36279
+    ]
+   },
+   "properties": {
+    "post_id": 23641,
+    "post_date": "2024-12-16 18:57",
+    "date": "~09.2024",
+    "unit": "5 БСП, 12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.81066,
+     48.36621
+    ]
+   },
+   "properties": {
+    "post_id": 23641,
+    "post_date": "2024-12-16 18:57",
+    "date": "~09.2024",
+    "unit": "5 БСП, 12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82098,
+     48.36286
+    ]
+   },
+   "properties": {
+    "post_id": 23641,
+    "post_date": "2024-12-16 18:57",
+    "date": "~09.2024",
+    "unit": "5 БСП, 12 БрСП \"Азов\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.15904,
      48.7774
     ]
