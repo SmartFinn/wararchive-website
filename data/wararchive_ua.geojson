@@ -166,6 +166,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.1222,
+     51.36244
+    ]
+   },
+   "properties": {
+    "post_id": 23557,
+    "post_date": "2024-12-15 12:27",
+    "date": "15.12.2024",
+    "unit": "414 ОП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.53145,
      47.27515
     ]
@@ -175,6 +191,22 @@
     "post_date": "2024-12-15 12:13",
     "date": null,
     "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.15849,
+     48.77751
+    ]
+   },
+   "properties": {
+    "post_id": 23549,
+    "post_date": "2024-12-15 11:01",
+    "date": "14.12.2024",
+    "unit": "10 ОГШБр"
    }
   },
   {
@@ -383,6 +415,22 @@
     "post_date": "2024-12-14 16:30",
     "date": "14.12.2024",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.231258,
+     47.932908
+    ]
+   },
+   "properties": {
+    "post_id": 23517,
+    "post_date": "2024-12-14 16:00",
+    "date": null,
+    "unit": "214 ОСпБ OPFOR"
    }
   },
   {
