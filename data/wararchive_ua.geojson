@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.326006,
+     51.356691
+    ]
+   },
+   "properties": {
+    "post_id": 23668,
+    "post_date": "2024-12-17 12:01",
+    "date": "~15.12.2024",
+    "unit": "\"UA_REG\", 8 ОП СпП ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.05433,
      48.20648
     ]
