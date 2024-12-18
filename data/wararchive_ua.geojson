@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.541,
+     46.538157
+    ]
+   },
+   "properties": {
+    "post_id": 23691,
+    "post_date": "2024-12-18 06:31",
+    "date": "~15.12.2024",
+    "unit": "ДПСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.857803,
      48.403071
     ]
