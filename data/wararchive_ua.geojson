@@ -6,6 +6,166 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.13675,
+     48.21886
+    ]
+   },
+   "properties": {
+    "post_id": 23694,
+    "post_date": "2024-12-18 08:01",
+    "date": "~15.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.13731,
+     48.21847
+    ]
+   },
+   "properties": {
+    "post_id": 23694,
+    "post_date": "2024-12-18 08:01",
+    "date": "~15.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.09206,
+     48.19232
+    ]
+   },
+   "properties": {
+    "post_id": 23694,
+    "post_date": "2024-12-18 08:01",
+    "date": "~15.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.1426,
+     48.21979
+    ]
+   },
+   "properties": {
+    "post_id": 23694,
+    "post_date": "2024-12-18 08:01",
+    "date": "~15.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.24886,
+     47.780762
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.249722,
+     47.781541
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.252418,
+     47.781306
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.252192,
+     47.780131
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.252215,
+     47.778802
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.254255,
+     47.778762
+    ]
+   },
+   "properties": {
+    "post_id": 23693,
+    "post_date": "2024-12-18 07:15",
+    "date": "18.06.2023",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.541,
      46.538157
     ]
