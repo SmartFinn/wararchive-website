@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.38861,
+     49.018
+    ]
+   },
+   "properties": {
+    "post_id": 23738,
+    "post_date": "2024-12-19 09:30",
+    "date": "~05.2022",
+    "unit": "\"Дніпро-1\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.38847,
+     49.02035
+    ]
+   },
+   "properties": {
+    "post_id": 23738,
+    "post_date": "2024-12-19 09:30",
+    "date": "~05.2022",
+    "unit": "\"Дніпро-1\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.38107,
+     49.01586
+    ]
+   },
+   "properties": {
+    "post_id": 23738,
+    "post_date": "2024-12-19 09:30",
+    "date": "~05.2022",
+    "unit": "\"Дніпро-1\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.36988,
+     49.02167
+    ]
+   },
+   "properties": {
+    "post_id": 23738,
+    "post_date": "2024-12-19 09:30",
+    "date": "~05.2022",
+    "unit": "\"Дніпро-1\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.39734,
+     49.01198
+    ]
+   },
+   "properties": {
+    "post_id": 23738,
+    "post_date": "2024-12-19 09:30",
+    "date": "~05.2022",
+    "unit": "\"Дніпро-1\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.62158,
      48.86729
     ]
