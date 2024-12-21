@@ -62,7 +62,7 @@
     "post_id": 23782,
     "post_date": "2024-12-20 15:00",
     "date": "~15.12.2024",
-    "unit": "ОП ССО \"Рейнджер\""
+    "unit": "6 ОП ССО \"Рейнджер\""
    }
   },
   {
@@ -175,6 +175,22 @@
     "post_date": "2024-12-19 18:02",
     "date": "18.12.2024",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.166544,
+     51.362749
+    ]
+   },
+   "properties": {
+    "post_id": 23754,
+    "post_date": "2024-12-19 17:02",
+    "date": "~16.12.2024",
+    "unit": "73 МЦСпО"
    }
   },
   {
@@ -184159,6 +184175,102 @@
     "post_date": "2023-03-26 14:43",
     "date": "03.2023",
     "unit": "Батальйон К-2, 54 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.969186,
+     48.577042
+    ]
+   },
+   "properties": {
+    "post_id": 552,
+    "post_date": "2023-03-25 21:19",
+    "date": "~24.03.2023",
+    "unit": "93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.967851,
+     48.576841
+    ]
+   },
+   "properties": {
+    "post_id": 552,
+    "post_date": "2023-03-25 21:19",
+    "date": "~24.03.2023",
+    "unit": "93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.773414,
+     48.092847
+    ]
+   },
+   "properties": {
+    "post_id": 551,
+    "post_date": "2023-03-25 20:39",
+    "date": "~23.03.2023",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.762727,
+     48.095264
+    ]
+   },
+   "properties": {
+    "post_id": 551,
+    "post_date": "2023-03-25 20:39",
+    "date": "~23.03.2023",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.75309,
+     48.08886
+    ]
+   },
+   "properties": {
+    "post_id": 551,
+    "post_date": "2023-03-25 20:39",
+    "date": "~23.03.2023",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.75872,
+     48.09516
+    ]
+   },
+   "properties": {
+    "post_id": 551,
+    "post_date": "2023-03-25 20:39",
+    "date": "~23.03.2023",
+    "unit": "110 ОМБр"
    }
   },
   {
