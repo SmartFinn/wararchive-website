@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.680789,
+     49.740537
+    ]
+   },
+   "properties": {
+    "post_id": 23874,
+    "post_date": "2024-12-22 12:02",
+    "date": "~19.12.2024",
+    "unit": "\"Команчі\", 40 ОАБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.67572,
      49.8442
     ]
