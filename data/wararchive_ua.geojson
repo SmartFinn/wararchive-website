@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.680789,
+     49.740537
+    ]
+   },
+   "properties": {
+    "post_id": 23882,
+    "post_date": "2024-12-22 15:01",
+    "date": "20.12.2024",
+    "unit": "ББПС \"Очі\", 120 ОРП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.142108,
+     48.112581
+    ]
+   },
+   "properties": {
+    "post_id": 23882,
+    "post_date": "2024-12-22 15:01",
+    "date": "20.12.2024",
+    "unit": "ББПС \"Очі\", 120 ОРП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.693939,
      49.763146
     ]
