@@ -6,6 +6,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.252659,
+     47.786695
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.264005,
+     47.805625
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.250572,
+     47.782553
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.294389,
+     47.758509
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.267074,
+     47.756644
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.232047,
+     47.754691
+    ]
+   },
+   "properties": {
+    "post_id": 23865,
+    "post_date": "2024-12-22 08:01",
+    "date": "~06.2024",
+    "unit": "72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.27445,
+     47.984992
+    ]
+   },
+   "properties": {
+    "post_id": 23863,
+    "post_date": "2024-12-22 07:20",
+    "date": "~12.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.272781,
+     47.984482
+    ]
+   },
+   "properties": {
+    "post_id": 23863,
+    "post_date": "2024-12-22 07:20",
+    "date": "~12.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.83725,
      48.376759
     ]
