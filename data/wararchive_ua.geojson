@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.842104,
+     48.393332
+    ]
+   },
+   "properties": {
+    "post_id": 23895,
+    "post_date": "2024-12-22 19:01",
+    "date": "~28.11.2024",
+    "unit": "ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.658835,
      48.395629
     ]
