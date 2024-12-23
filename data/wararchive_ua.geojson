@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.249536,
+     48.819342
+    ]
+   },
+   "properties": {
+    "post_id": 23948,
+    "post_date": "2024-12-23 20:02",
+    "date": "~06.2024",
+    "unit": "4 БОП \"Сила Свобода\", 4 БрОП НГУ \"Рубіж\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.866444,
      46.674355
     ]
