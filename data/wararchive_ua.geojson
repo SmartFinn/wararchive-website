@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.043988,
+     51.312611
+    ]
+   },
+   "properties": {
+    "post_id": 23962,
+    "post_date": "2024-12-24 07:15",
+    "date": "~19.12.2024",
+    "unit": "\"Шуліки\", 148 ОБТрО, 116 ОБрТрО "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.085161,
+     51.310557
+    ]
+   },
+   "properties": {
+    "post_id": 23962,
+    "post_date": "2024-12-24 07:15",
+    "date": "~19.12.2024",
+    "unit": "\"Шуліки\", 148 ОБТрО, 116 ОБрТрО "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.265817,
      47.981718
     ]
