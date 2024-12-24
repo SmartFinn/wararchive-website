@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.166178,
+     48.791439
+    ]
+   },
+   "properties": {
+    "post_id": 23977,
+    "post_date": "2024-12-24 14:01",
+    "date": "~21.12.2024",
+    "unit": "РУБПаК 10 ОГШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.79364,
      48.390349
     ]
