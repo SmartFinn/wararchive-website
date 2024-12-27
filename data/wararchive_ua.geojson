@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.139919,
+     48.112454
+    ]
+   },
+   "properties": {
+    "post_id": 24062,
+    "post_date": "2024-12-27 19:01",
+    "date": "20.12.2024",
+    "unit": "\"Hydra\", 137 ОБМП, 35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      31.5928,
      46.534347
     ]
