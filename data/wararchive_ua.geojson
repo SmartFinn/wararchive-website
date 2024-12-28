@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.84902,
+     48.9118
+    ]
+   },
+   "properties": {
+    "post_id": 24070,
+    "post_date": "2024-12-28 08:00",
+    "date": "09.2022",
+    "unit": "ЦСП НГУ \"Омега\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.957762,
      48.526666
     ]
