@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.957762,
+     48.526666
+    ]
+   },
+   "properties": {
+    "post_id": 24067,
+    "post_date": "2024-12-28 06:30",
+    "date": "26.12.2024",
+    "unit": "ББпС \"Black Raven\", 2 МБ та 3 МБ 93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.139919,
      48.112454
     ]
