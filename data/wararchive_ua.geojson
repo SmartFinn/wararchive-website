@@ -70,6 +70,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.30934,
+     47.88249
+    ]
+   },
+   "properties": {
+    "post_id": 24130,
+    "post_date": "2024-12-30 07:15",
+    "date": "~12.2024",
+    "unit": "79 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.060327,
      48.205949
     ]
@@ -167839,6 +167855,22 @@
     "post_date": "2023-07-06 19:02",
     "date": "06.2023",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.57424,
+     48.03717
+    ]
+   },
+   "properties": {
+    "post_id": 2695,
+    "post_date": "2023-07-06 18:32",
+    "date": "07.2023",
+    "unit": "59 ОМПБр"
    }
   },
   {
