@@ -6,6 +6,150 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.854714,
+     48.396904
+    ]
+   },
+   "properties": {
+    "post_id": 24266,
+    "post_date": "2025-01-03 16:02",
+    "date": "11.2024",
+    "unit": "\"Дніпро-1\", ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85933,
+     48.396893
+    ]
+   },
+   "properties": {
+    "post_id": 24266,
+    "post_date": "2025-01-03 16:02",
+    "date": "11.2024",
+    "unit": "\"Дніпро-1\", ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.843032,
+     48.390148
+    ]
+   },
+   "properties": {
+    "post_id": 24266,
+    "post_date": "2025-01-03 16:02",
+    "date": "11.2024",
+    "unit": "\"Дніпро-1\", ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.850322,
+     48.397805
+    ]
+   },
+   "properties": {
+    "post_id": 24266,
+    "post_date": "2025-01-03 16:02",
+    "date": "11.2024",
+    "unit": "\"Дніпро-1\", ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.847445,
+     48.397601
+    ]
+   },
+   "properties": {
+    "post_id": 24266,
+    "post_date": "2025-01-03 16:02",
+    "date": "11.2024",
+    "unit": "\"Дніпро-1\", ОШБр \"ЛЮТЬ\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.939433,
+     50.286452
+    ]
+   },
+   "properties": {
+    "post_id": 24265,
+    "post_date": "2025-01-03 15:04",
+    "date": "09.2024",
+    "unit": "\"Тимур\", \"Стугна\", ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.941039,
+     50.290006
+    ]
+   },
+   "properties": {
+    "post_id": 24265,
+    "post_date": "2025-01-03 15:04",
+    "date": "09.2024",
+    "unit": "\"Тимур\", \"Стугна\", ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.940567,
+     50.291261
+    ]
+   },
+   "properties": {
+    "post_id": 24265,
+    "post_date": "2025-01-03 15:04",
+    "date": "09.2024",
+    "unit": "\"Тимур\", \"Стугна\", ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.940677,
+     50.289997
+    ]
+   },
+   "properties": {
+    "post_id": 24265,
+    "post_date": "2025-01-03 15:04",
+    "date": "09.2024",
+    "unit": "\"Тимур\", \"Стугна\", ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.037423,
      48.203123
     ]
