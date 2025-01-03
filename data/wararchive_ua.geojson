@@ -6,6 +6,230 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.051838,
+     48.201288
+    ]
+   },
+   "properties": {
+    "post_id": 24253,
+    "post_date": "2025-01-03 07:04",
+    "date": "~30.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.488777,
+     46.727953
+    ]
+   },
+   "properties": {
+    "post_id": 24241,
+    "post_date": "2025-01-02 16:05",
+    "date": "~17.05.2024",
+    "unit": "40 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.231188,
+     48.215336
+    ]
+   },
+   "properties": {
+    "post_id": 24240,
+    "post_date": "2025-01-02 15:05",
+    "date": "~30.12.2024",
+    "unit": "68 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.942472,
+     51.605395
+    ]
+   },
+   "properties": {
+    "post_id": 24238,
+    "post_date": "2025-01-02 14:47",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.67994,
+     48.1972
+    ]
+   },
+   "properties": {
+    "post_id": 24235,
+    "post_date": "2025-01-02 14:06",
+    "date": "~04.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.955021,
+     49.085802
+    ]
+   },
+   "properties": {
+    "post_id": 24233,
+    "post_date": "2025-01-02 12:04",
+    "date": "~29.12.2024",
+    "unit": "60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.94081,
+     50.29599
+    ]
+   },
+   "properties": {
+    "post_id": 24230,
+    "post_date": "2025-01-02 09:05",
+    "date": "25.12.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.0498,
+     48.20383
+    ]
+   },
+   "properties": {
+    "post_id": 24229,
+    "post_date": "2025-01-02 08:03",
+    "date": "25.12.2024",
+    "unit": "425 ОШБ \"СКАЛА\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.285044,
+     48.030012
+    ]
+   },
+   "properties": {
+    "post_id": 24227,
+    "post_date": "2025-01-02 07:04",
+    "date": "~26.12.2024",
+    "unit": "414 ОПУБАС СБС \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.052337,
+     48.134912
+    ]
+   },
+   "properties": {
+    "post_id": 24227,
+    "post_date": "2025-01-02 07:04",
+    "date": "~26.12.2024",
+    "unit": "414 ОПУБАС СБС \"Птахи Мадяра\" "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.854946,
+     47.935691
+    ]
+   },
+   "properties": {
+    "post_id": 24223,
+    "post_date": "2025-01-01 20:02",
+    "date": "~07.2024",
+    "unit": "15 ОБрАР \"Чорний ліс\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.793776,
+     48.38728
+    ]
+   },
+   "properties": {
+    "post_id": 24222,
+    "post_date": "2025-01-01 19:31",
+    "date": "~30.12.2024",
+    "unit": "49 ОШБ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.081029,
+     48.201085
+    ]
+   },
+   "properties": {
+    "post_id": 24219,
+    "post_date": "2025-01-01 19:02",
+    "date": "~28.12.2024",
+    "unit": "32 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.02208,
+     49.323799
+    ]
+   },
+   "properties": {
+    "post_id": 24218,
+    "post_date": "2025-01-01 18:04",
+    "date": "~26.12.2024",
+    "unit": "\"Mosquitos\", 3 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.290305,
      48.273407
     ]
@@ -958,7 +1182,7 @@
     "post_id": 24030,
     "post_date": "2024-12-26 20:00",
     "date": "~23.12.2024",
-    "unit": "?"
+    "unit": "126 ОБр СТрО"
    }
   },
   {
