@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.339448,
+     50.391843
+    ]
+   },
+   "properties": {
+    "post_id": 24278,
+    "post_date": "2025-01-03 20:02",
+    "date": "~10.2024",
+    "unit": "15 ОБрАР \"Чорний ліс\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.028282,
      47.940044
     ]
