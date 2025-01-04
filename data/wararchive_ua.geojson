@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.04289,
+     48.19713
+    ]
+   },
+   "properties": {
+    "post_id": 24282,
+    "post_date": "2025-01-04 06:32",
+    "date": "~01.01.2025",
+    "unit": "425 ОШБ «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.339448,
      50.391843
     ]
