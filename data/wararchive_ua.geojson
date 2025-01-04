@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.834684,
+     48.40236
+    ]
+   },
+   "properties": {
+    "post_id": 24312,
+    "post_date": "2025-01-04 18:29",
+    "date": "~28.12.2024",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.077136,
+     48.234684
+    ]
+   },
+   "properties": {
+    "post_id": 24311,
+    "post_date": "2025-01-04 18:02",
+    "date": "~02.01.2024",
+    "unit": "\"Umbrella\", 32 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.204595,
      47.937549
     ]
