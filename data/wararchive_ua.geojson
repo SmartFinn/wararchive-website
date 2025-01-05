@@ -118,6 +118,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.963684,
+     49.097997
+    ]
+   },
+   "properties": {
+    "post_id": 24299,
+    "post_date": "2025-01-04 13:01",
+    "date": "~12.2024",
+    "unit": "60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      28.43502,
      59.71787
     ]
@@ -125,7 +141,7 @@
    "properties": {
     "post_id": 24297,
     "post_date": "2025-01-04 12:00",
-    "date": "04.01.2024",
+    "date": "04.01.2025",
     "unit": "?"
    }
   },
@@ -157,7 +173,7 @@
    "properties": {
     "post_id": 24294,
     "post_date": "2025-01-04 11:01",
-    "date": "03.01.2024",
+    "date": "03.01.2025",
     "unit": "38 ОБрМП"
    }
   },
