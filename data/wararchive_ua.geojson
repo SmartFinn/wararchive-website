@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.68852,
+     48.19742
+    ]
+   },
+   "properties": {
+    "post_id": 24327,
+    "post_date": "2025-01-05 08:02",
+    "date": "15.12.2023",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.795226,
+     49.502637
+    ]
+   },
+   "properties": {
+    "post_id": 24320,
+    "post_date": "2025-01-05 07:03",
+    "date": "~02.01.2025",
+    "unit": "1 БрОП \"Буревій\", БУБпАК «Ахіллес», 92 ОШБр та 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.834684,
      48.40236
     ]
