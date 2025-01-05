@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.291288,
+     51.171799
+    ]
+   },
+   "properties": {
+    "post_id": 24363,
+    "post_date": "2025-01-05 19:02",
+    "date": "~03.01.2025",
+    "unit": "\"Khorne group\", 116 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.20492,
      47.97108
     ]
