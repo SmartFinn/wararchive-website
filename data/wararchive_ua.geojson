@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.842603,
+     48.399307
+    ]
+   },
+   "properties": {
+    "post_id": 24420,
+    "post_date": "2025-01-07 19:05",
+    "date": "~05.01.2025",
+    "unit": "Зведена Бригада Департаменту патрульної поліції \"Хижак\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.295743,
      51.168884
     ]
