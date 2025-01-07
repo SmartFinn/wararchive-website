@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.3029,
+     48.14171
+    ]
+   },
+   "properties": {
+    "post_id": 24406,
+    "post_date": "2025-01-07 11:02",
+    "date": "~10.2024",
+    "unit": "«Riddick's Group», 4 ОЗСП НГУ «Омега»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30573,
+     48.13589
+    ]
+   },
+   "properties": {
+    "post_id": 24406,
+    "post_date": "2025-01-07 11:02",
+    "date": "~10.2024",
+    "unit": "«Riddick's Group», 4 ОЗСП НГУ «Омега»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.266896,
      48.224167
     ]
