@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.81409,
+     48.400471
+    ]
+   },
+   "properties": {
+    "post_id": 24438,
+    "post_date": "2025-01-08 11:59",
+    "date": "~05.01.2025",
+    "unit": "ББПС \"VORON 100\", 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.179811,
+     51.335633
+    ]
+   },
+   "properties": {
+    "post_id": 24437,
+    "post_date": "2025-01-08 11:29",
+    "date": "~05.01.2025",
+    "unit": "17 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.173471,
+     51.319052
+    ]
+   },
+   "properties": {
+    "post_id": 24437,
+    "post_date": "2025-01-08 11:29",
+    "date": "~05.01.2025",
+    "unit": "17 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.144352,
      48.225069
     ]
