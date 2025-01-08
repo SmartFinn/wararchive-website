@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.199358,
+     51.351385
+    ]
+   },
+   "properties": {
+    "post_id": 24431,
+    "post_date": "2025-01-08 07:59",
+    "date": "~04.01.2025",
+    "unit": "Підрозділ безпілотних комплексів \"SIMARGL\" 22 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.93159,
+     48.60975
+    ]
+   },
+   "properties": {
+    "post_id": 24430,
+    "post_date": "2025-01-08 07:29",
+    "date": "~07.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.494111,
      48.317296
     ]
