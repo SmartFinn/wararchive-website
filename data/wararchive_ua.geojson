@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.304466,
+     51.3318
+    ]
+   },
+   "properties": {
+    "post_id": 24433,
+    "post_date": "2025-01-08 08:59",
+    "date": "~01.2024",
+    "unit": "80 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.206799,
+     47.990063
+    ]
+   },
+   "properties": {
+    "post_id": 24432,
+    "post_date": "2025-01-08 08:29",
+    "date": "~05.01.2025",
+    "unit": "Підрозділ \"Молот\" 46 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.244344,
+     47.993068
+    ]
+   },
+   "properties": {
+    "post_id": 24432,
+    "post_date": "2025-01-08 08:29",
+    "date": "~05.01.2025",
+    "unit": "Підрозділ \"Молот\" 46 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.199358,
      51.351385
     ]
