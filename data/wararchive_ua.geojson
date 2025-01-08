@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.717942,
+     49.563301
+    ]
+   },
+   "properties": {
+    "post_id": 24446,
+    "post_date": "2025-01-08 16:01",
+    "date": "~06.01.2025",
+    "unit": "4 БОП «Хорив», 1 БрОП «Буревій» НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.306199,
+     51.157694
+    ]
+   },
+   "properties": {
+    "post_id": 24441,
+    "post_date": "2025-01-08 13:29",
+    "date": "~06.01.2025",
+    "unit": "33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.215116,
+     51.337196
+    ]
+   },
+   "properties": {
+    "post_id": 24439,
+    "post_date": "2025-01-08 12:30",
+    "date": "~07.01.2025",
+    "unit": "17 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.81409,
      48.400471
     ]
