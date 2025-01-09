@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.215226,
+     51.337599
+    ]
+   },
+   "properties": {
+    "post_id": 24465,
+    "post_date": "2025-01-09 17:08",
+    "date": "~08.01.2025",
+    "unit": "\"SIMARGL\", 22 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.188354,
      51.325192
     ]
