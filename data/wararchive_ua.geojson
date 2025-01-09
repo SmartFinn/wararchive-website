@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.97092,
+     48.59143
+    ]
+   },
+   "properties": {
+    "post_id": 24455,
+    "post_date": "2025-01-09 09:02",
+    "date": "05.2023",
+    "unit": "135 ОБТрО, 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.301326,
+     51.162086
+    ]
+   },
+   "properties": {
+    "post_id": 24452,
+    "post_date": "2025-01-09 06:39",
+    "date": "~07.01.2025",
+    "unit": "33 ОШП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.717942,
      49.563301
     ]
@@ -15,6 +47,22 @@
     "post_date": "2025-01-08 16:01",
     "date": "~06.01.2025",
     "unit": "4 БОП «Хорив», 1 БрОП «Буревій» НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.477559,
+     51.160823
+    ]
+   },
+   "properties": {
+    "post_id": 24443,
+    "post_date": "2025-01-08 14:05",
+    "date": null,
+    "unit": null
    }
   },
   {
@@ -125,7 +173,7 @@
    "properties": {
     "post_id": 24433,
     "post_date": "2025-01-08 08:59",
-    "date": "~01.2024",
+    "date": "~01.2025",
     "unit": "80 ОДШБр"
    }
   },
