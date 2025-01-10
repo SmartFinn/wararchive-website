@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.40004,
+     51.113331
+    ]
+   },
+   "properties": {
+    "post_id": 24472,
+    "post_date": "2025-01-10 07:07",
+    "date": "~01.2025",
+    "unit": "\"Хмара\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.79281,
      48.38156
     ]
