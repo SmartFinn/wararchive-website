@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.94793,
+     48.51913
+    ]
+   },
+   "properties": {
+    "post_id": 24510,
+    "post_date": "2025-01-11 08:02",
+    "date": "26.12.2024",
+    "unit": "93 ОМБр \"Холодний Яр\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.161764,
+     51.32512
+    ]
+   },
+   "properties": {
+    "post_id": 24509,
+    "post_date": "2025-01-11 07:29",
+    "date": "~05.01.2025",
+    "unit": "1 ШБ, 92 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.227429,
      51.379036
     ]
