@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.9669,
+     46.853841
+    ]
+   },
+   "properties": {
+    "post_id": 24549,
+    "post_date": "2025-01-12 12:01",
+    "date": "~10.01.2025",
+    "unit": "екіпаж \"Самосуд\", підрозділ \"Ластівка\", 11 Бр НГУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.855405,
+     49.725332
+    ]
+   },
+   "properties": {
+    "post_id": 24548,
+    "post_date": "2025-01-12 11:04",
+    "date": "~09.01.2025",
+    "unit": "14 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.841231,
      48.40978
     ]
