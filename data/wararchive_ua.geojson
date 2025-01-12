@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.169494,
+     49.645177
+    ]
+   },
+   "properties": {
+    "post_id": 24540,
+    "post_date": "2025-01-12 07:15",
+    "date": "~10.2024",
+    "unit": "45 ОАБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.919264,
+     50.288577
+    ]
+   },
+   "properties": {
+    "post_id": 24539,
+    "post_date": "2025-01-12 07:03",
+    "date": "~09.2024",
+    "unit": "снайперська група «Вар'ят», спецпідрозділ ГУР МОУ «KRAKEN»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.91853,
+     50.287577
+    ]
+   },
+   "properties": {
+    "post_id": 24539,
+    "post_date": "2025-01-12 07:03",
+    "date": "~09.2024",
+    "unit": "снайперська група «Вар'ят», спецпідрозділ ГУР МОУ «KRAKEN»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.29886,
      51.164174
     ]
