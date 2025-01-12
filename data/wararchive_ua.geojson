@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.953705,
+     51.220781
+    ]
+   },
+   "properties": {
+    "post_id": 24559,
+    "post_date": "2025-01-12 18:06",
+    "date": "~10.01.2025",
+    "unit": "\"Небесна Лють\", 67 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.356548,
      48.761736
     ]
