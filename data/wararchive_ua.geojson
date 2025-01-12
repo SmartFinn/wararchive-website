@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.16373,
+     51.344798
+    ]
+   },
+   "properties": {
+    "post_id": 24561,
+    "post_date": "2025-01-12 19:02",
+    "date": "~22.12.2024",
+    "unit": "«UA_REG», 8 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.164803,
+     51.344586
+    ]
+   },
+   "properties": {
+    "post_id": 24561,
+    "post_date": "2025-01-12 19:02",
+    "date": "~22.12.2024",
+    "unit": "«UA_REG», 8 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.163689,
+     51.343485
+    ]
+   },
+   "properties": {
+    "post_id": 24561,
+    "post_date": "2025-01-12 19:02",
+    "date": "~22.12.2024",
+    "unit": "«UA_REG», 8 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.165335,
+     51.343237
+    ]
+   },
+   "properties": {
+    "post_id": 24561,
+    "post_date": "2025-01-12 19:02",
+    "date": "~22.12.2024",
+    "unit": "«UA_REG», 8 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.953705,
      51.220781
     ]
