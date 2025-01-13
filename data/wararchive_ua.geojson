@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.854949,
+     48.607074
+    ]
+   },
+   "properties": {
+    "post_id": 24590,
+    "post_date": "2025-01-13 16:29",
+    "date": "~10.2024",
+    "unit": "ОТУ \"Луганськ\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.823539,
+     48.357316
+    ]
+   },
+   "properties": {
+    "post_id": 24590,
+    "post_date": "2025-01-13 16:29",
+    "date": "~10.2024",
+    "unit": "ОТУ \"Луганськ\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.809232,
+     48.372038
+    ]
+   },
+   "properties": {
+    "post_id": 24590,
+    "post_date": "2025-01-13 16:29",
+    "date": "~10.2024",
+    "unit": "ОТУ \"Луганськ\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.01296,
      50.31097
     ]
