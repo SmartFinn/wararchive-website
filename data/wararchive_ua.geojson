@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.01296,
+     50.31097
+    ]
+   },
+   "properties": {
+    "post_id": 24588,
+    "post_date": "2025-01-13 15:35",
+    "date": "~10.01.2025",
+    "unit": "425 ОББпС «Очі»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.65716,
      48.19138
     ]
