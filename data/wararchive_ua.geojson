@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.93317,
+     48.60984
+    ]
+   },
+   "properties": {
+    "post_id": 24676,
+    "post_date": "2025-01-15 18:02",
+    "date": "~04.2023",
+    "unit": "«NOBODY», ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.541333,
+     48.292333
+    ]
+   },
+   "properties": {
+    "post_id": 24675,
+    "post_date": "2025-01-15 17:04",
+    "date": "07:16 15.01.2025",
+    "unit": "65 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.337509,
      51.349633
     ]
