@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.92743,
+     48.60816
+    ]
+   },
+   "properties": {
+    "post_id": 24683,
+    "post_date": "2025-01-16 07:02",
+    "date": "~04.2023",
+    "unit": "«NOBODY», ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.435205,
      51.02467
     ]
