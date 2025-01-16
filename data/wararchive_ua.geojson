@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     39.435205,
+     51.02467
+    ]
+   },
+   "properties": {
+    "post_id": 24681,
+    "post_date": "2025-01-15 22:50",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.93317,
      48.60984
     ]
@@ -79,6 +95,22 @@
     "post_date": "2025-01-15 15:01",
     "date": "~13.01.2025",
     "unit": "ББС, 63 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.308182,
+     51.156638
+    ]
+   },
+   "properties": {
+    "post_id": 24662,
+    "post_date": "2025-01-15 14:06",
+    "date": "07.01.2025",
+    "unit": "61 ОМБр"
    }
   },
   {
@@ -198,6 +230,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.9382329,
+     50.2928614
+    ]
+   },
+   "properties": {
+    "post_id": 24645,
+    "post_date": "2025-01-15 07:46",
+    "date": "~12.01.2025",
+    "unit": "\"Форпост\", ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.967843,
      51.28703
     ]
@@ -205,7 +253,7 @@
    "properties": {
     "post_id": 24643,
     "post_date": "2025-01-15 06:30",
-    "date": "24.10.2024",
+    "date": "12:41 24.10.2024",
     "unit": "?"
    }
   },
