@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.96597,
+     51.23157
+    ]
+   },
+   "properties": {
+    "post_id": 24762,
+    "post_date": "2025-01-18 17:32",
+    "date": "14.01.2025",
+    "unit": "15 МПЗ «Сталевий кордон», ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.067025,
      48.176341
     ]
