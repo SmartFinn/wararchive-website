@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.531111,
+     46.632136
+    ]
+   },
+   "properties": {
+    "post_id": 24783,
+    "post_date": "2025-01-19 13:04",
+    "date": "~15.01.2025",
+    "unit": "\"Strix\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.85608,
      48.408706
     ]
