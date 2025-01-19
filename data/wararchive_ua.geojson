@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.826,
+     46.646278
+    ]
+   },
+   "properties": {
+    "post_id": 24798,
+    "post_date": "2025-01-19 19:46",
+    "date": "~09.2024",
+    "unit": "26 прикордонний загін, ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.576032,
+     46.70192
+    ]
+   },
+   "properties": {
+    "post_id": 24798,
+    "post_date": "2025-01-19 19:46",
+    "date": "~09.2024",
+    "unit": "26 прикордонний загін, ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.29852,
+     51.16503
+    ]
+   },
+   "properties": {
+    "post_id": 24797,
+    "post_date": "2025-01-19 19:29",
+    "date": "~09.01.2025",
+    "unit": "33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.852354,
+     48.399623
+    ]
+   },
+   "properties": {
+    "post_id": 24792,
+    "post_date": "2025-01-19 19:03",
+    "date": "~17.01.2025",
+    "unit": "Зведена Бригада Департаменту патрульної поліції «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.799948,
      48.377003
     ]
