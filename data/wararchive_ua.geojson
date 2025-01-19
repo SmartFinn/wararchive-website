@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.85608,
+     48.408706
+    ]
+   },
+   "properties": {
+    "post_id": 24782,
+    "post_date": "2025-01-19 12:03",
+    "date": "~17.01.2025",
+    "unit": "\"Гюрза\", 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93451,
      50.28947
     ]
