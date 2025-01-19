@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.799948,
+     48.377003
+    ]
+   },
+   "properties": {
+    "post_id": 24791,
+    "post_date": "2025-01-19 18:01",
+    "date": "~10.01.2025",
+    "unit": "2 БСП, 12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.212222,
+     51.016175
+    ]
+   },
+   "properties": {
+    "post_id": 24789,
+    "post_date": "2025-01-19 17:05",
+    "date": "~27.09.2024",
+    "unit": "ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.835469,
      48.590464
     ]
