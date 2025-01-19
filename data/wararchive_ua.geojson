@@ -102,6 +102,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.01279,
+     50.30862
+    ]
+   },
+   "properties": {
+    "post_id": 24755,
+    "post_date": "2025-01-18 12:38",
+    "date": "15.01.2025",
+    "unit": "71 ОЄБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93945,
      50.28641
     ]
@@ -557,7 +573,7 @@
    "properties": {
     "post_id": 24683,
     "post_date": "2025-01-16 07:02",
-    "date": "~04.2023",
+    "date": "~03.2023",
     "unit": "«NOBODY», ГУР МОУ"
    }
   },
