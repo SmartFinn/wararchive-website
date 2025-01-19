@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.93451,
+     50.28947
+    ]
+   },
+   "properties": {
+    "post_id": 24773,
+    "post_date": "2025-01-19 11:07",
+    "date": "28.05.2024",
+    "unit": "ШП \"Цунамі\", ОШБр \"Лють\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.15385,
      48.22789
     ]
