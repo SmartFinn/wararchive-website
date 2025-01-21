@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.731144,
+     50.422308
+    ]
+   },
+   "properties": {
+    "post_id": 24869,
+    "post_date": "2025-01-21 20:32",
+    "date": "~18.01.2025",
+    "unit": "ББС «Перун», 42 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.87666,
      47.90281
     ]
