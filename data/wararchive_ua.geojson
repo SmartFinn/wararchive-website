@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83469,
+     48.5839
+    ]
+   },
+   "properties": {
+    "post_id": 24862,
+    "post_date": "2025-01-21 16:32",
+    "date": "17.01.2025",
+    "unit": "БСП \"Донбас\", 18 Бр НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.035321,
      48.132489
     ]
