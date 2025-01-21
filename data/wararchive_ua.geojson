@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.035321,
+     48.132489
+    ]
+   },
+   "properties": {
+    "post_id": 24858,
+    "post_date": "2025-01-21 15:05",
+    "date": "01.01.2025",
+    "unit": "414 ОБрУБАС «Птахи Мадяра»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.17788,
      51.3038
     ]
