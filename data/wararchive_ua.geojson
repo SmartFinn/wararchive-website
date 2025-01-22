@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.959789,
+     49.09254
+    ]
+   },
+   "properties": {
+    "post_id": 24904,
+    "post_date": "2025-01-22 19:41",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.17787,
+     51.30355
+    ]
+   },
+   "properties": {
+    "post_id": 24903,
+    "post_date": "2025-01-22 19:31",
+    "date": "19.01.2025",
+    "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1871,
+     51.30385
+    ]
+   },
+   "properties": {
+    "post_id": 24903,
+    "post_date": "2025-01-22 19:31",
+    "date": "19.01.2025",
+    "unit": "36 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.713732,
+     47.151576
+    ]
+   },
+   "properties": {
+    "post_id": 24902,
+    "post_date": "2025-01-22 19:05",
+    "date": "~18.01.2025",
+    "unit": "\"Роніни\", 65 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.886874,
      49.408307
     ]
