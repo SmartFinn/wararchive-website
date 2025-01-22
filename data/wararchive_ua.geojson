@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.053896,
+     48.205851
+    ]
+   },
+   "properties": {
+    "post_id": 24890,
+    "post_date": "2025-01-22 13:33",
+    "date": "~19.01.2025",
+    "unit": "\"Baltic Group\", 59 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.30663,
      51.157067
     ]
