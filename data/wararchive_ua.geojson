@@ -254,7 +254,7 @@
     "post_id": 24847,
     "post_date": "2025-01-21 07:42",
     "date": "~11.2024",
-    "unit": "?"
+    "unit": "40 БрТА"
    }
   },
   {
@@ -799,6 +799,22 @@
     "post_date": "2025-01-18 11:04",
     "date": "~10.2024",
     "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.935042,
+     50.289647
+    ]
+   },
+   "properties": {
+    "post_id": 24743,
+    "post_date": "2025-01-18 09:06",
+    "date": "11.2024",
+    "unit": "?"
    }
   },
   {
@@ -80070,6 +80086,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.690406,
+     49.769201
+    ]
+   },
+   "properties": {
+    "post_id": 13882,
+    "post_date": "2024-04-17 08:04",
+    "date": "~02.2024",
+    "unit": "60 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.51513,
      47.98841
     ]
@@ -121326,7 +121358,7 @@
     "post_id": 8623,
     "post_date": "2023-12-18 09:32",
     "date": "~12.2023",
-    "unit": "?"
+    "unit": "\"Ясні Очі\", 23 ОМБр"
    }
   },
   {
@@ -144847,6 +144879,22 @@
     "post_date": "2023-10-09 11:02",
     "date": "~07.10.2023",
     "unit": "5 загін ЦСП НГУ «Омега»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.90948,
+     49.3458
+    ]
+   },
+   "properties": {
+    "post_id": 5864,
+    "post_date": "2023-10-09 10:31",
+    "date": "08-09.2023",
+    "unit": "43 ОМБр"
    }
   },
   {
