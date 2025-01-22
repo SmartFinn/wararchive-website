@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.731301,
+     47.088953
+    ]
+   },
+   "properties": {
+    "post_id": 24892,
+    "post_date": "2025-01-22 15:03",
+    "date": "~18.01.2025",
+    "unit": "\"Роніни\", 65 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.213485,
      48.427366
     ]
