@@ -502,6 +502,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.8465,
+     48.37577
+    ]
+   },
+   "properties": {
+    "post_id": 24859,
+    "post_date": "2025-01-21 15:34",
+    "date": "01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.035321,
      48.132489
     ]
@@ -185247,6 +185263,22 @@
     "post_date": "2023-05-06 08:31",
     "date": "~04.05.2023",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.88729,
+     48.68419
+    ]
+   },
+   "properties": {
+    "post_id": 1005,
+    "post_date": "2023-05-06 07:30",
+    "date": "02.04.2023",
+    "unit": "21 ОМПБ, 56 ОМПБр"
    }
   },
   {
