@@ -1,5 +1,6 @@
 import geocoder from "./geocoder.js";
 import ukraineBorders from "./ukraine_borders.js";
+import coordsPopupContent from "./coordsPopup.js";
 
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
@@ -216,3 +217,15 @@ document.querySelectorAll('.modal__close').forEach(overlay => {
 
 map.addControl(geocoder);
 map.addControl(ukraineBorders);
+
+// Add event listener for right-click
+map.on('contextmenu', function (e) {
+    const { lat, lng } = e.latlng;
+    const coordinates = `${lat.toFixed(6)},${lng.toFixed(6)}`;
+    const popupContent = coordsPopupContent(coordinates);
+
+    L.popup()
+    .setLatLng(e.latlng)
+    .setContent(popupContent)
+    .openOn(map);
+});
