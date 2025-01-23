@@ -393,6 +393,7 @@ header {
   padding: 5px;
   border-radius: 3px;
   display: inline-block;
+  user-select: all;
 }
 .popup-copy-button {
   cursor: pointer;
