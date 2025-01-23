@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.827307,
+     49.562072
+    ]
+   },
+   "properties": {
+    "post_id": 24950,
+    "post_date": "2025-01-23 19:02",
+    "date": "19.01.2025",
+    "unit": "1 БрОП \"Буревій\", БУБпАК «Ахіллес», 92 ОШБр та 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.80967,
+     49.557313
+    ]
+   },
+   "properties": {
+    "post_id": 24950,
+    "post_date": "2025-01-23 19:02",
+    "date": "19.01.2025",
+    "unit": "1 БрОП \"Буревій\", БУБпАК «Ахіллес», 92 ОШБр та 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.2748,
+     47.97983
+    ]
+   },
+   "properties": {
+    "post_id": 24945,
+    "post_date": "2025-01-23 18:37",
+    "date": "~21.01.2025",
+    "unit": "33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.853785,
+     48.608661
+    ]
+   },
+   "properties": {
+    "post_id": 24944,
+    "post_date": "2025-01-23 18:06",
+    "date": "04-09.01.2025 та 21.01.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.03882,
      47.96238
     ]
