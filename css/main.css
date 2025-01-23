@@ -415,14 +415,19 @@ header {
   display: inline-block;
   margin-top: 5px;
   color: green;
+  width: 100%;
+  text-align: center;
 }
 
 .leaflet-popup-content > div {
   display: flex;
+  flex-wrap: wrap;
+  min-width: 220px;
 }
 
 .popup-coordinates {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: calc(100% - 52px);
 }
