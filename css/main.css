@@ -385,3 +385,22 @@ header {
     right: 10px;
   }
 }
+
+.popup-coordinates {
+  font-family: monospace;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 3px;
+  display: inline-block;
+}
+.popup-copy-button {
+  cursor: pointer;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+.popup-copied-msg {
+  display: inline-block;
+  margin-top: 5px;
+  color: green;
+}
