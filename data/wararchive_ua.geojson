@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.93519,
+     48.61452
+    ]
+   },
+   "properties": {
+    "post_id": 24933,
+    "post_date": "2025-01-23 13:03",
+    "date": "~03-04.2023",
+    "unit": "Рота \"Гонор\", бат \"Вовки Да Вінчі\", 67 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.08481,
      51.31046
     ]
