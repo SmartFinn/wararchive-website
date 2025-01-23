@@ -398,9 +398,31 @@ header {
   cursor: pointer;
   margin-left: 5px;
   vertical-align: middle;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f4f4f4;
+  transition: 0.1s;
 }
+
+.popup-copy-button:hover {
+  background: #d7d7d7;
+}
+
 .popup-copied-msg {
   display: inline-block;
   margin-top: 5px;
   color: green;
+}
+
+.leaflet-popup-content > div {
+  display: flex;
+}
+
+.popup-coordinates {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
