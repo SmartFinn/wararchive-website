@@ -412,6 +412,10 @@ header {
   background: #d7d7d7;
 }
 
+.popup-copy-button:active {
+  background: #c8c8c8;
+}
+
 .popup-copied-msg {
   display: inline-block;
   margin-top: 5px;
