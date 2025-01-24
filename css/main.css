@@ -387,14 +387,18 @@ header {
 }
 
 .popup-coordinates {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 52px);
   font-family: monospace;
   background-color: #f4f4f4;
   border: 1px solid #ddd;
   padding: 5px;
   border-radius: 3px;
-  display: inline-block;
   user-select: all;
 }
+
 .popup-copy-button {
   cursor: pointer;
   margin-left: 5px;
@@ -428,11 +432,4 @@ header {
   display: flex;
   flex-wrap: wrap;
   min-width: 220px;
-}
-
-.popup-coordinates {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: calc(100% - 52px);
 }
