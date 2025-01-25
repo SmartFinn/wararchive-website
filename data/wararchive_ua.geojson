@@ -11,6 +11,22 @@
     ]
    },
    "properties": {
+    "post_id": 25019,
+    "post_date": "2025-01-25 13:33",
+    "date": "25.01.2025",
+    "unit": "117 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.50999,
+     48.30682
+    ]
+   },
+   "properties": {
     "post_id": 25013,
     "post_date": "2025-01-25 12:04",
     "date": "25.01.2025",
