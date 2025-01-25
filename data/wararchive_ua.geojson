@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.883296,
+     49.619589
+    ]
+   },
+   "properties": {
+    "post_id": 25030,
+    "post_date": "2025-01-25 17:02",
+    "date": "~19.01.2025",
+    "unit": "112 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.17617,
+     48.28004
+    ]
+   },
+   "properties": {
+    "post_id": 25029,
+    "post_date": "2025-01-25 16:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.1761,
+     48.28013
+    ]
+   },
+   "properties": {
+    "post_id": 25029,
+    "post_date": "2025-01-25 16:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.17579,
+     48.28
+    ]
+   },
+   "properties": {
+    "post_id": 25029,
+    "post_date": "2025-01-25 16:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.1752,
+     48.27948
+    ]
+   },
+   "properties": {
+    "post_id": 25029,
+    "post_date": "2025-01-25 16:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.50999,
      48.30682
     ]
