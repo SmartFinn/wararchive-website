@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.089345,
+     48.191157
+    ]
+   },
+   "properties": {
+    "post_id": 25057,
+    "post_date": "2025-01-26 16:04",
+    "date": "~19.01.2025",
+    "unit": "БУАР, 59 ОШБр СБС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.826085,
      47.853262
     ]
