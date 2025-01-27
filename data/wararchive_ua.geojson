@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.01181,
+     50.31196
+    ]
+   },
+   "properties": {
+    "post_id": 25091,
+    "post_date": "2025-01-27 14:35",
+    "date": "~23.01.2025",
+    "unit": "\"Форпост\" ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.01141,
+     50.31558
+    ]
+   },
+   "properties": {
+    "post_id": 25091,
+    "post_date": "2025-01-27 14:35",
+    "date": "~23.01.2025",
+    "unit": "\"Форпост\" ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.07681,
      51.26696
     ]
