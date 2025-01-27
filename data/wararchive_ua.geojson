@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.121131,
+     48.230978
+    ]
+   },
+   "properties": {
+    "post_id": 25092,
+    "post_date": "2025-01-27 15:03",
+    "date": "25.01.2025",
+    "unit": "\"Соколи Фокса\", 4 АДН, 47 ОАБр і 26 ОАБр та 32 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.122759,
+     48.23013
+    ]
+   },
+   "properties": {
+    "post_id": 25092,
+    "post_date": "2025-01-27 15:03",
+    "date": "25.01.2025",
+    "unit": "\"Соколи Фокса\", 4 АДН, 47 ОАБр і 26 ОАБр та 32 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.01181,
      50.31196
     ]
