@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.82886,
+     48.40638
+    ]
+   },
+   "properties": {
+    "post_id": 25078,
+    "post_date": "2025-01-27 10:36",
+    "date": "01.2025",
+    "unit": "ПВП «Дніпро-1», ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.84258,
      48.3923
     ]
