@@ -3,11 +3,11 @@ const geocoder = L.Control.geocoder({
     placeholder: 'Пошук населенного пункту...',
     errorMessage: 'Нічого не знайдено',
     geocoder: L.Control.Geocoder.nominatim({
-      geocodingQueryParams: {
-          countrycodes: 'ru,ua',
-          featureType: 'city',
-      }
-  })
-})
+        geocodingQueryParams: {
+            countrycodes: 'ru,ua',
+            featureType: 'city',
+        }
+    })
+});
 
-export default geocoder
+export default geocoder;
