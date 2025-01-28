@@ -97,45 +97,53 @@ const documentWrap = document.getElementById('wrap');
 const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
 const geojsonUrl = '/data/wararchive_ua.geojson';
 
-fetch(geojsonUrl)
-    .then(response => response.json())
-    .then(data => {
-        L.geoJSON(data, {
-            pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
-            onEachFeature: (feature, layer) => {
-                if (!feature.properties) {
-                    throw new Error('GeoJSON feature has no properties');
-                }
-                const { post_id } = feature.properties;
-
-                const popupContent = `
-                    <iframe
-                    id="telegram-post-telegram-${post_id}"
-                    src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
-                    width="100%" height=""
-                    frameborder="0" scrolling="yes"
-                    style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
-                    </iframe>
-
-                    <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
-                `;
-
-                layer.bindPopup(popupContent, {
-                    maxWidth: 360,
-                });
-                allMarkers.addLayer(layer);
-            }
-        });
-
-        // uncomment to test the error screen
-        // throw new Error('Test error');
-
+const fetchGeoJSONData = async () => {
+    try {
+        const response = await fetch(geojsonUrl);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        processGeoJSONData(data);
         map.addLayer(allMarkers);
         documentWrap.classList.add('loaded');
-    })
-    .catch(error => {
+    } catch (error) {
+        console.error('Error fetching GeoJSON data:', error);
         documentWrap.classList.add('load-failed');
+    }
+};
+
+const processGeoJSONData = (data) => {
+    L.geoJSON(data, {
+        pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
+        onEachFeature: (feature, layer) => {
+            if (!feature.properties) {
+                console.error('GeoJSON feature has no properties');
+                return;
+            }
+            const { post_id } = feature.properties;
+
+            const popupContent = `
+                <iframe
+                id="telegram-post-telegram-${post_id}"
+                src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
+                width="100%" height=""
+                frameborder="0" scrolling="yes"
+                style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
+                </iframe>
+
+                <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
+            `;
+
+            layer.bindPopup(popupContent, {
+                maxWidth: 360,
+            });
+            allMarkers.addLayer(layer);
+        }
     });
+};
+
+fetchGeoJSONData();
 
 const baseLayers = {
     "Супутникові знімки": esriTileLayer,
@@ -147,39 +155,36 @@ const overlays = {
     "Топоніми": onlyLabelsOverlay,
 };
 
-L.control.layers(baseLayers, overlays).addTo(map);
-
-map.on("dragend", updateHashLocation);
-map.on("zoomend", updateHashLocation);
-
-function parseUrlHash() {
+const parseUrlHash = () => {
     const hashParams = location.hash.slice(1).split('&');
     return hashParams.length === 0 ? {} : hashParams.reduce((acc, param) => {
         const [key, value] = param.split('=');
         acc[key] = value;
         return acc;
     }, {});
-}
+};
 
-function updateHashLocation() {
+const updateHashLocation = () => {
     const { lat, lng } = map.getCenter();
     const zoom = map.getZoom();
-    window.location.hash = `map=${zoom}/${lat.toPrecision(8)}/${lng.toPrecision(8)}`;
-}
+    window.location.hash = `map=${zoom}/${lat.toFixed(8)}/${lng.toFixed(8)}`;
+};
 
-function setViewFromHashLocation() {
+const setViewFromHashLocation = () => {
     const urlParam = parseUrlHash();
     if (urlParam.map) {
         const [zoom, lat, lng] = urlParam.map.split('/');
-        map.setView([lat, lng], zoom);
+        map.setView([parseFloat(lat), parseFloat(lng)], parseInt(zoom, 10));
     }
     if (urlParam.goto) {
-        const [lat, lng] = urlParam.goto.split(',');
-        const gotoMarker = L.marker([lat, lng], { icon: svgPointerIcon }).addTo(map);
-        gotoMarker.bindPopup(`<code>${lat}, ${lng}</code>`);
-        map.setView([lat, lng], 16); // Set a default zoom level for goto
+        const [lat, lng] = urlParam.goto.split(',').map(Number);
+        if (!isNaN(lat) && !isNaN(lng)) {
+            const gotoMarker = L.marker([lat, lng], { icon: svgPointerIcon }).addTo(map);
+            gotoMarker.bindPopup(`<code>${lat}, ${lng}</code>`);
+            map.setView([lat, lng], 16); // Встановити стандартний рівень масштабування для goto
+        }
     }
-}
+};
 
 document.addEventListener("DOMContentLoaded", setViewFromHashLocation);
 window.addEventListener('hashchange', setViewFromHashLocation);
@@ -206,26 +211,31 @@ document.querySelectorAll('.modal__overlay').forEach(overlay => {
     });
 });
 
-document.querySelectorAll('.modal__close').forEach(overlay => {
-    overlay.addEventListener('click', () => {
-        const parentElement = overlay.parentElement.parentElement;
+document.querySelectorAll('.modal__close').forEach(closeButton => {
+    closeButton.addEventListener('click', () => {
+        const parentElement = closeButton.closest('.modal');
         if (parentElement.classList.contains('open')) {
             parentElement.classList.remove('open');
         }
     });
 });
 
+L.control.layers(baseLayers, overlays).addTo(map);
+
+map.on("dragend", updateHashLocation);
+map.on("zoomend", updateHashLocation);
+
 map.addControl(geocoder);
 map.addControl(ukraineBorders);
 
 // Add event listener for right-click
-map.on('contextmenu', function (e) {
+map.on('contextmenu', (e) => {
     const { lat, lng } = e.latlng;
     const coordinates = `${lat.toFixed(6)},${lng.toFixed(6)}`;
     const popupContent = coordsPopupContent(coordinates);
 
     L.popup()
-    .setLatLng(e.latlng)
-    .setContent(popupContent)
-    .openOn(map);
+        .setLatLng(e.latlng)
+        .setContent(popupContent)
+        .openOn(map);
 });
