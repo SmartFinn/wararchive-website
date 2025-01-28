@@ -97,6 +97,54 @@ const documentWrap = document.getElementById('wrap');
 const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
 const geojsonUrl = '/data/wararchive_ua.geojson';
 
+let geoJsonData = [];
+
+// Initialize the date slider
+const initDateSlider = (options = {}) => {
+    const { min, max, start, end } = options;
+
+    const slider = document.getElementById('date-slider');
+
+    noUiSlider.create(slider, {
+        start: [start.getTime(), end.getTime()],
+        connect: true,
+        range: {
+            'min': min.getTime(),
+            'max': max.getTime()
+        },
+        tooltips: {
+            to: timestamp => new Date(timestamp).toLocaleDateString(),
+            from: timestamp => new Date(timestamp).toLocaleDateString(),
+        },
+        format: {
+            to: value => parseInt(value),
+            from: value => parseInt(value)
+        }
+    });
+
+    const startDateSpan = document.getElementById('start-date');
+    const endDateSpan = document.getElementById('end-date');
+
+    slider.noUiSlider.on('update', (values, handle) => {
+        const date = new Date(+values[handle]);
+        if (handle === 0) {
+            startDateSpan.textContent = date.toLocaleDateString();
+        } else {
+            endDateSpan.textContent = date.toLocaleDateString();
+        }
+    });
+
+    slider.noUiSlider.on('change', (values) => {
+        const start = new Date(+values[0]);
+        const end = new Date(+values[1]);
+        processGeoJSONData(geoJsonData, { startDate: start, endDate: end });
+    });
+
+    // Set initial date display
+    startDateSpan.textContent = min.toLocaleDateString();
+    endDateSpan.textContent = max.toLocaleDateString();
+};
+
 const fetchGeoJSONData = async () => {
     try {
         const response = await fetch(geojsonUrl);
@@ -104,7 +152,17 @@ const fetchGeoJSONData = async () => {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
-        processGeoJSONData(data);
+        geoJsonData = data;
+
+        // Extract dates to determine first and last post date.
+        // GeoJSON is sorted by post_date in descending order
+        const firstPostDate = new Date(data.features[data.features.length - 1].properties.post_date);
+        const lastPostDate = new Date(data.features[0].properties.post_date);
+        const startDate = new Date(lastPostDate.getTime() - 7889400000); // 3 months ago
+        const endDate = lastPostDate;
+
+        processGeoJSONData(data, { startDate: startDate, endDate: endDate });
+        initDateSlider({ min: firstPostDate, max: lastPostDate, start: startDate, end: endDate });
         map.addLayer(allMarkers);
         documentWrap.classList.add('loaded');
     } catch (error) {
@@ -113,8 +171,22 @@ const fetchGeoJSONData = async () => {
     }
 };
 
-const processGeoJSONData = (data) => {
+const processGeoJSONData = (data, options = {}) => {
+    const { startDate, endDate } = options;
+
+    if (startDate && endDate) {
+        allMarkers.clearLayers();
+    }
+
     L.geoJSON(data, {
+        filter: feature => {
+            if (startDate && endDate) {
+                if (!feature.properties || !feature.properties.post_date) return false;
+                const postDate = new Date(feature.properties.post_date);
+                return postDate >= startDate && postDate <= endDate;
+            }
+            return true;
+        },
         pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
         onEachFeature: (feature, layer) => {
             if (!feature.properties) {
@@ -141,6 +213,8 @@ const processGeoJSONData = (data) => {
             allMarkers.addLayer(layer);
         }
     });
+
+    map.addLayer(allMarkers);
 };
 
 fetchGeoJSONData();

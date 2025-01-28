@@ -23,6 +23,12 @@
         <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
                 integrity="sha256-Hk4dIpcqOSb0hZjgyvFOP+cEmDXUKKNE/tT542ZbNQg=" crossorigin="anonymous"></script>
         <script src="https://unpkg.com/leaflet-control-geocoder@3.0.0/dist/Control.Geocoder.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.8.1/nouislider.css"
+            integrity="sha512-MKxcSu/LDtbIYHBNAWUQwfB3iVoG9xeMCm32QV5hZ/9lFaQZJVaXfz9aFa0IZExWzCpm7OWvp9zq9gVip/nLMg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.8.1/nouislider.min.js"
+            integrity="sha512-g/feAizmeiVKSwvfW0Xk3ZHZqv5Zs8PEXEBKzL15pM0SevEvoX8eJ4yFWbqakvRj7vtw1Q97bLzEpG2IVWX0Mg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <link rel="stylesheet" href="/css/main.css" />
     </head>
     <body>
@@ -80,6 +86,13 @@
                         </div>
                     </div>
                 </header>
+                <div id="filter-container" class="filter-container">
+                    <h3>Фільтр за датою публікації</h3>
+                    <div id="date-slider"></div>
+                    <div class="date-values">
+                        <span id="start-date">—</span> до <span id="end-date">—</span>
+                    </div>
+                </div>
                 <div id="map"></div>
                 <div id="donate" class="modal">
                     <div class="modal__overlay">
