@@ -180,7 +180,8 @@ const setViewFromHashLocation = () => {
         const [lat, lng] = urlParam.goto.split(',').map(Number);
         if (!isNaN(lat) && !isNaN(lng)) {
             const gotoMarker = L.marker([lat, lng], { icon: svgPointerIcon }).addTo(map);
-            gotoMarker.bindPopup(`<code>${lat}, ${lng}</code>`);
+            const popupContent = coordsPopupContent(`${lat},${lng}`);
+            gotoMarker.bindPopup(popupContent);
             map.setView([lat, lng], 16); // Встановити стандартний рівень масштабування для goto
         }
     }
