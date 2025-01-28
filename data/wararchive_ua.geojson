@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.793955,
+     48.377628
+    ]
+   },
+   "properties": {
+    "post_id": 25128,
+    "post_date": "2025-01-28 14:00",
+    "date": null,
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84568,
+     48.409397
+    ]
+   },
+   "properties": {
+    "post_id": 25127,
+    "post_date": "2025-01-28 13:03",
+    "date": "~26.01.2025",
+    "unit": "БСО «Еней», ОШБр «Лють», БПОП ГУНП, Бр «Хижак» НПУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.848674,
+     48.406673
+    ]
+   },
+   "properties": {
+    "post_id": 25127,
+    "post_date": "2025-01-28 13:03",
+    "date": "~26.01.2025",
+    "unit": "БСО «Еней», ОШБр «Лють», БПОП ГУНП, Бр «Хижак» НПУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.82357,
      49.56151
     ]
