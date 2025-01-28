@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.82357,
+     49.56151
+    ]
+   },
+   "properties": {
+    "post_id": 25125,
+    "post_date": "2025-01-28 12:02",
+    "date": "06.01.2025",
+    "unit": "1 БрОП «Буревій»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.9423,
+     50.29141
+    ]
+   },
+   "properties": {
+    "post_id": 25123,
+    "post_date": "2025-01-28 11:06",
+    "date": "~09.2024",
+    "unit": "РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.939952,
      50.296866
     ]
