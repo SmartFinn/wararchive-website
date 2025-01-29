@@ -93,7 +93,7 @@
    "properties": {
     "post_id": 25128,
     "post_date": "2025-01-28 14:00",
-    "date": null,
+    "date": "01.2025",
     "unit": "12 БрСпП «Азов»"
    }
   },
@@ -166,6 +166,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.791946,
+     48.375987
+    ]
+   },
+   "properties": {
+    "post_id": 25109,
+    "post_date": "2025-01-28 08:39",
+    "date": "01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.939952,
      50.296866
     ]
@@ -173,8 +189,8 @@
    "properties": {
     "post_id": 25104,
     "post_date": "2025-01-27 19:41",
-    "date": null,
-    "unit": null
+    "date": "~12.2024",
+    "unit": ""
    }
   },
   {
