@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.56511,
+     51.104104
+    ]
+   },
+   "properties": {
+    "post_id": 25211,
+    "post_date": "2025-01-30 17:08",
+    "date": "19.01.2025 (?)",
+    "unit": "«BIKER'S TEAM», «Flying Skull» СБС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.85341,
      47.84895
     ]
