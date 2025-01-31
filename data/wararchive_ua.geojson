@@ -142,7 +142,7 @@
     "post_id": 25190,
     "post_date": "2025-01-30 07:00",
     "date": "~27.01.2025",
-    "unit": "155 ОМБр"
+    "unit": "155 ОМБр, 152 ОЄБр"
    }
   },
   {
@@ -2664,6 +2664,22 @@
     "coordinates": [
      36.93774,
      50.2967
+    ]
+   },
+   "properties": {
+    "post_id": 24745,
+    "post_date": "2025-01-18 11:04",
+    "date": "~10.2024",
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.942144,
+     50.292183
     ]
    },
    "properties": {
