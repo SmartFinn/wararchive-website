@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.1609,
+     46.477439
+    ]
+   },
+   "properties": {
+    "post_id": 25230,
+    "post_date": "2025-01-31 11:02",
+    "date": "~01.2025",
+    "unit": "«Charlie Company», 14 ОП БпАК СБС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93485,
      50.29702
     ]
