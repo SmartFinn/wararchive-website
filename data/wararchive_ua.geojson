@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.82723,
+     48.40615
+    ]
+   },
+   "properties": {
+    "post_id": 25240,
+    "post_date": "2025-01-31 17:35",
+    "date": "~26.01.2025",
+    "unit": "100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.17757,
+     51.305059
+    ]
+   },
+   "properties": {
+    "post_id": 25239,
+    "post_date": "2025-01-31 17:05",
+    "date": "~22.01.2025",
+    "unit": "1 ШБ, 92 ОШБр та 47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.808071,
      48.367289
     ]
