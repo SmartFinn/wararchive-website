@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.854487,
+     48.407643
+    ]
+   },
+   "properties": {
+    "post_id": 25257,
+    "post_date": "2025-02-01 12:02",
+    "date": "~29.01.2025",
+    "unit": "«Гюрза», ТБ, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.856437,
+     48.409439
+    ]
+   },
+   "properties": {
+    "post_id": 25257,
+    "post_date": "2025-02-01 12:02",
+    "date": "~29.01.2025",
+    "unit": "«Гюрза», ТБ, 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22619,
      48.95054
     ]
