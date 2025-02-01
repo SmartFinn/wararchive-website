@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.599222,
+     46.591713
+    ]
+   },
+   "properties": {
+    "post_id": 25259,
+    "post_date": "2025-02-01 13:30",
+    "date": "30.01.2023",
+    "unit": "РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.6,
+     46.59123
+    ]
+   },
+   "properties": {
+    "post_id": 25259,
+    "post_date": "2025-02-01 13:30",
+    "date": "30.01.2023",
+    "unit": "РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.598,
+     46.580868
+    ]
+   },
+   "properties": {
+    "post_id": 25259,
+    "post_date": "2025-02-01 13:30",
+    "date": "30.01.2023",
+    "unit": "РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.854487,
      48.407643
     ]
