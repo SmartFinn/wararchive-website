@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.644001,
+     47.540988
+    ]
+   },
+   "properties": {
+    "post_id": 25266,
+    "post_date": "2025-02-01 17:06",
+    "date": "~26.01.2025",
+    "unit": "8 загін, ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.29797,
      51.18317
     ]
