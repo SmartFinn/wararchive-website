@@ -108493,7 +108493,7 @@
    "properties": {
     "post_id": 10196,
     "post_date": "2024-01-28 11:02",
-    "date": "~26.01.2024",
+    "date": "~25.01.2024",
     "unit": "23 ОМБр"
    }
   },
@@ -178159,6 +178159,22 @@
     "post_date": "2023-06-24 10:29",
     "date": "24.06.2023",
     "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.3157101,
+     51.6431226
+    ]
+   },
+   "properties": {
+    "post_id": 2234,
+    "post_date": "2023-06-24 07:58",
+    "date": null,
+    "unit": null
    }
   },
   {
