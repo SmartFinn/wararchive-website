@@ -6,6 +6,182 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.722555,
+     46.641278
+    ]
+   },
+   "properties": {
+    "post_id": 25281,
+    "post_date": "2025-02-02 09:01",
+    "date": "~28.01.2025",
+    "unit": "124 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.2603,
+     46.476518
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.3863,
+     46.466131
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.271555,
+     46.473246
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.293555,
+     46.464729
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.2618,
+     46.476131
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.2924,
+     46.468297
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.40495,
+     46.471511
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.0828,
+     46.508572
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.446555,
+     46.483372
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.224,
+     46.477137
+    ]
+   },
+   "properties": {
+    "post_id": 25272,
+    "post_date": "2025-02-02 08:16",
+    "date": "12.2024 - 01.2025",
+    "unit": "426 ОББС МП ВМС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.644001,
      47.540988
     ]
