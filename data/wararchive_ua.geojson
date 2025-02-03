@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.0465,
+     48.25389
+    ]
+   },
+   "properties": {
+    "post_id": 25310,
+    "post_date": "2025-02-03 09:00",
+    "date": "~31.01.2025",
+    "unit": "«Попри все», 3 ОП СпП ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93264,
      50.28833
     ]
