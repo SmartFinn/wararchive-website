@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.503981,
+     50.239938
+    ]
+   },
+   "properties": {
+    "post_id": 25322,
+    "post_date": "2025-02-03 15:05",
+    "date": "~28.01.2025",
+    "unit": "13 БрОП «Хартія»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.501483,
+     50.241147
+    ]
+   },
+   "properties": {
+    "post_id": 25322,
+    "post_date": "2025-02-03 15:05",
+    "date": "~28.01.2025",
+    "unit": "13 БрОП «Хартія»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.17755,
      51.30482
     ]
