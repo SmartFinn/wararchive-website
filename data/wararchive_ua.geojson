@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.49162,
+     48.32058
+    ]
+   },
+   "properties": {
+    "post_id": 25339,
+    "post_date": "2025-02-04 14:02",
+    "date": "~02.02.2025",
+    "unit": "14 БрОП «Червона Калина» та 🐺 38 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.84072,
+     47.85169
+    ]
+   },
+   "properties": {
+    "post_id": 25338,
+    "post_date": "2025-02-04 13:05",
+    "date": "02.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.83772,
+     47.85834
+    ]
+   },
+   "properties": {
+    "post_id": 25338,
+    "post_date": "2025-02-04 13:05",
+    "date": "02.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.84563,
+     47.84926
+    ]
+   },
+   "properties": {
+    "post_id": 25338,
+    "post_date": "2025-02-04 13:05",
+    "date": "02.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.85822,
      47.84822
     ]
