@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.17927,
+     48.27219
+    ]
+   },
+   "properties": {
+    "post_id": 25382,
+    "post_date": "2025-02-05 17:37",
+    "date": "~30.01.2025.",
+    "unit": "Іноземний легіон"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.333333,
      46.769375
     ]
