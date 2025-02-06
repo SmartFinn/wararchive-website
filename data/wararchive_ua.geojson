@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.253046,
+     48.80144
+    ]
+   },
+   "properties": {
+    "post_id": 25398,
+    "post_date": "2025-02-06 12:01",
+    "date": "~10.2024",
+    "unit": "4 БОП «Сила Свободи», 🇺🇦 4 БрОП «Рубіж»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.105548,
+     47.966871
+    ]
+   },
+   "properties": {
+    "post_id": 25397,
+    "post_date": "2025-02-06 11:05",
+    "date": "~02.2025",
+    "unit": "1 БМП, 37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93941,
      50.28644
     ]
