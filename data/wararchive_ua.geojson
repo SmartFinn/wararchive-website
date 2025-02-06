@@ -182,6 +182,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.936686,
+     46.3322
+    ]
+   },
+   "properties": {
+    "post_id": 25360,
+    "post_date": "2025-02-05 06:20",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.035212,
      47.783082
     ]
