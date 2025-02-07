@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.7043,
+     49.51406
+    ]
+   },
+   "properties": {
+    "post_id": 25426,
+    "post_date": "2025-02-07 17:00",
+    "date": "07:15 05.02.2025",
+    "unit": "8 ОСБ, 78 ОДШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.68585,
+     46.673278
+    ]
+   },
+   "properties": {
+    "post_id": 25424,
+    "post_date": "2025-02-07 16:02",
+    "date": "~06.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.193431,
      47.992659
     ]
