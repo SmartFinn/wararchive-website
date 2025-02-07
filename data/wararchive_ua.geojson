@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.438941,
+     48.298309
+    ]
+   },
+   "properties": {
+    "post_id": 25436,
+    "post_date": "2025-02-07 18:59",
+    "date": "~02.02.2025.",
+    "unit": "15 БрОП «Кара-Даг», ББпС «Привид Хортиці»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30588,
+     48.15115
+    ]
+   },
+   "properties": {
+    "post_id": 25430,
+    "post_date": "2025-02-07 18:29",
+    "date": "~03.02.2025.",
+    "unit": "35 ОМСБр ЗС РФ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.846765,
      48.407435
     ]
