@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.922424,
+     48.412493
+    ]
+   },
+   "properties": {
+    "post_id": 25459,
+    "post_date": "2025-02-08 15:34",
+    "date": "08.02.2025",
+    "unit": "ББпС та R.V. 28 ОМБр, 57 ОБТрО 🇺🇦 104 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.060812,
+     48.247013
+    ]
+   },
+   "properties": {
+    "post_id": 25458,
+    "post_date": "2025-02-08 15:04",
+    "date": "~06.02.2025",
+    "unit": "ББС «MANTICORA», 155 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.06862,
      48.25137
     ]
