@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.417555,
+     46.548204
+    ]
+   },
+   "properties": {
+    "post_id": 25467,
+    "post_date": "2025-02-08 20:01",
+    "date": "~06.02.2025",
+    "unit": "73 МЦ СпП ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.804555,
+     46.662953
+    ]
+   },
+   "properties": {
+    "post_id": 25464,
+    "post_date": "2025-02-08 19:04",
+    "date": "~05.02.2025",
+    "unit": "34 ОБрБО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.337477,
      46.756128
     ]
