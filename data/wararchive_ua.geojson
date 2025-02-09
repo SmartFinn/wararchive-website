@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.797061,
+     48.360941
+    ]
+   },
+   "properties": {
+    "post_id": 25478,
+    "post_date": "2025-02-09 12:04",
+    "date": "~27.01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.794487,
+     48.375001
+    ]
+   },
+   "properties": {
+    "post_id": 25478,
+    "post_date": "2025-02-09 12:04",
+    "date": "~27.01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.825773,
+     48.361121
+    ]
+   },
+   "properties": {
+    "post_id": 25478,
+    "post_date": "2025-02-09 12:04",
+    "date": "~27.01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.815822,
+     48.366199
+    ]
+   },
+   "properties": {
+    "post_id": 25478,
+    "post_date": "2025-02-09 12:04",
+    "date": "~27.01.2025",
+    "unit": "12 БрСпП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.160905,
      51.308687
     ]
