@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.88233,
+     51.350468
+    ]
+   },
+   "properties": {
+    "post_id": 25486,
+    "post_date": "2025-02-09 19:06",
+    "date": "~05.02.2025",
+    "unit": "«Requiem Group», 🇺🇦 ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.1042,
      46.743719
     ]
