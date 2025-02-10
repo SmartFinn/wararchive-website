@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.922424,
+     48.412493
+    ]
+   },
+   "properties": {
+    "post_id": 25501,
+    "post_date": "2025-02-10 14:34",
+    "date": "08.02.2025",
+    "unit": "ББпС та R.V. 28 ОМБр, 57 ОБТрО 🇺🇦 104 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.009975,
      48.105781
     ]
