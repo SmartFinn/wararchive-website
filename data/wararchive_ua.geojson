@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83017,
+     48.59146
+    ]
+   },
+   "properties": {
+    "post_id": 25505,
+    "post_date": "2025-02-10 15:36",
+    "date": "~02.2025",
+    "unit": "18 Бр НГУ, 🇺🇦 БСП «Донбас»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.74253,
+     46.630323
+    ]
+   },
+   "properties": {
+    "post_id": 25503,
+    "post_date": "2025-02-10 15:34",
+    "date": "~02.2025",
+    "unit": "40 БрТА "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.922424,
      48.412493
     ]
