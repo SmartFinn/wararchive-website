@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.840778,
+     48.398322
+    ]
+   },
+   "properties": {
+    "post_id": 25544,
+    "post_date": "2025-02-11 18:04",
+    "date": "~12.01.2025",
+    "unit": "Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.958897,
      49.075745
     ]
