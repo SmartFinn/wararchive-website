@@ -134,6 +134,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.103513,
+     48.24128
+    ]
+   },
+   "properties": {
+    "post_id": 25537,
+    "post_date": "2025-02-11 12:59",
+    "date": "~12.2024-01.2025",
+    "unit": "батальйон «Шаман» ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.839706,
      48.393186
     ]
@@ -333,7 +349,7 @@
    "properties": {
     "post_id": 25503,
     "post_date": "2025-02-10 15:34",
-    "date": "~02.2025",
+    "date": "~16:00 06.02.2025",
     "unit": "40 БрТА "
    }
   },
@@ -696,6 +712,22 @@
     "coordinates": [
      37.060812,
      48.247013
+    ]
+   },
+   "properties": {
+    "post_id": 25458,
+    "post_date": "2025-02-08 15:04",
+    "date": "~06.02.2025",
+    "unit": "ББС «MANTICORA», 155 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.05592,
+     48.24895
     ]
    },
    "properties": {
