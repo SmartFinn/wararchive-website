@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.34402,
+     51.18094
+    ]
+   },
+   "properties": {
+    "post_id": 25569,
+    "post_date": "2025-02-12 17:36",
+    "date": "06.02.2025",
+    "unit": "82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.34495,
+     51.15694
+    ]
+   },
+   "properties": {
+    "post_id": 25569,
+    "post_date": "2025-02-12 17:36",
+    "date": "06.02.2025",
+    "unit": "82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.35695,
+     51.14847
+    ]
+   },
+   "properties": {
+    "post_id": 25569,
+    "post_date": "2025-02-12 17:36",
+    "date": "06.02.2025",
+    "unit": "82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.37403,
+     51.14756
+    ]
+   },
+   "properties": {
+    "post_id": 25569,
+    "post_date": "2025-02-12 17:36",
+    "date": "06.02.2025",
+    "unit": "82 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85181,
+     48.60818
+    ]
+   },
+   "properties": {
+    "post_id": 25568,
+    "post_date": "2025-02-12 17:13",
+    "date": "~31.05.2024",
+    "unit": "56 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.83702,
      48.58331
     ]
