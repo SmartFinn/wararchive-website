@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.58558,
+     51.120303
+    ]
+   },
+   "properties": {
+    "post_id": 25574,
+    "post_date": "2025-02-12 19:32",
+    "date": "~02.2025",
+    "unit": "8 ОП СпП, 🐺 «UA_REG» та 🇺🇦 140 ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.455825,
+     51.105119
+    ]
+   },
+   "properties": {
+    "post_id": 25574,
+    "post_date": "2025-02-12 19:32",
+    "date": "~02.2025",
+    "unit": "8 ОП СпП, 🐺 «UA_REG» та 🇺🇦 140 ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.490387,
+     48.330994
+    ]
+   },
+   "properties": {
+    "post_id": 25573,
+    "post_date": "2025-02-12 19:08",
+    "date": "~10.02.2025",
+    "unit": "1 ОТБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.118265,
      48.233909
     ]
