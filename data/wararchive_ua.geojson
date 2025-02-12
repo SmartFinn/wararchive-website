@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.97522,
+     48.60017
+    ]
+   },
+   "properties": {
+    "post_id": 25564,
+    "post_date": "2025-02-12 15:04",
+    "date": "~2023",
+    "unit": "93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.9671,
      48.56176
     ]
