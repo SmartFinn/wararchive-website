@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.50314,
+     47.94146
+    ]
+   },
+   "properties": {
+    "post_id": 25604,
+    "post_date": "2025-02-13 16:37",
+    "date": "~04.2023",
+    "unit": "79 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.084003,
+     47.965646
+    ]
+   },
+   "properties": {
+    "post_id": 25603,
+    "post_date": "2025-02-13 16:04",
+    "date": "~09.02.2025",
+    "unit": "414 ОБрУБАС «Птахи Мадяра»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.11948,
      51.25115
     ]
