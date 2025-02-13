@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.87933,
+     51.24229
+    ]
+   },
+   "properties": {
+    "post_id": 25615,
+    "post_date": "2025-02-13 20:29",
+    "date": "~08.2024",
+    "unit": "«ELEPHANT TEAM», 🇺🇦 ДПСУ (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.239809,
      48.840273
     ]
