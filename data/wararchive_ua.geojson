@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.05527,
+     48.01926
+    ]
+   },
+   "properties": {
+    "post_id": 25584,
+    "post_date": "2025-02-13 06:59",
+    "date": "~08.02.2025.",
+    "unit": "46 ОАеМБр,🔪«Злюки Бобри»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.58558,
      51.120303
     ]
