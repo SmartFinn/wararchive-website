@@ -662,6 +662,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.93972,
+     50.29738
+    ]
+   },
+   "properties": {
+    "post_id": 25543,
+    "post_date": "2025-02-11 17:06",
+    "date": "~05.2024",
+    "unit": "13 БрОП «Хартія»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.958897,
      49.075745
     ]
