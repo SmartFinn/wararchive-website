@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.292952,
+     48.240831
+    ]
+   },
+   "properties": {
+    "post_id": 25631,
+    "post_date": "2025-02-14 12:02",
+    "date": "~11.02.2025",
+    "unit": "25 ОПДБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.698554,
+     48.20361
+    ]
+   },
+   "properties": {
+    "post_id": 25630,
+    "post_date": "2025-02-14 11:04",
+    "date": "10.10.2023",
+    "unit": "5 ОЗСП «Омега»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.097562,
      51.390229
     ]
