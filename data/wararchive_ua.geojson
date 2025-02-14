@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.940877,
+     48.35398
+    ]
+   },
+   "properties": {
+    "post_id": 25637,
+    "post_date": "2025-02-14 14:01",
+    "date": "~11.02.2025",
+    "unit": "100 ОМБр, «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.362128,
      47.524091
     ]
