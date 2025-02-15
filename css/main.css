@@ -397,6 +397,14 @@ header {
   .date-values {
     font-size: 14px;
   }
+
+  .filter-label-middle {
+    display: none;
+  }
+
+  .filter-label-bottom {
+    display: block !important;
+  }
 }
 
 .popup-coordinates {
@@ -471,6 +479,10 @@ header {
   font-size: 16px;
   font-variant: small-caps;
   text-align: center;
+}
+
+.filter-label-bottom {
+  display: none;
 }
 
 #date-slider {
