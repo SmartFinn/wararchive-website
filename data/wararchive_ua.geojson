@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.305982,
+     50.305305
+    ]
+   },
+   "properties": {
+    "post_id": 25646,
+    "post_date": "2025-02-14 20:01",
+    "date": "~01-02.2025",
+    "unit": "полк Калиновського, батальйон «Волат»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.22919,
      48.2149
     ]
