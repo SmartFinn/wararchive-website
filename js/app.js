@@ -97,6 +97,45 @@ const documentWrap = document.getElementById('wrap');
 const map = L.map('map', { layers: [esriTileLayer, onlyLabelsOverlay] }).setView([48.44, 35.11], 6);
 const geojsonUrl = '/data/wararchive_ua.geojson';
 
+let geoJsonData = [];
+
+// Initialize the date slider
+const initDateSlider = (options = {}) => {
+    const { min, max, start, end } = options;
+
+    const slider = document.getElementById('date-slider');
+
+    noUiSlider.create(slider, {
+        start: [start.getTime(), end.getTime()],
+        connect: true,
+        range: {
+            'min': min.getTime(),
+            'max': max.getTime()
+        },
+        tooltips: {
+            to: timestamp => new Date(timestamp).toLocaleDateString(),
+            from: timestamp => new Date(timestamp).toLocaleDateString(),
+        },
+        format: {
+            to: value => parseInt(value),
+            from: value => parseInt(value)
+        }
+    });
+
+    const startDateSpan = document.getElementById('start-date');
+    const endDateSpan = document.getElementById('end-date');
+
+    // Set initial date display
+    startDateSpan.textContent = min.toLocaleDateString();
+    endDateSpan.textContent = max.toLocaleDateString();
+
+    slider.noUiSlider.on('change', (values) => {
+        const start = new Date(+values[0]);
+        const end = new Date(+values[1]);
+        processGeoJSONData(geoJsonData, { startDate: start, endDate: end });
+    });
+};
+
 const fetchGeoJSONData = async () => {
     try {
         const response = await fetch(geojsonUrl);
@@ -104,7 +143,17 @@ const fetchGeoJSONData = async () => {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
-        processGeoJSONData(data);
+        geoJsonData = data;
+
+        // Extract dates to determine first and last post date.
+        // GeoJSON is sorted by post_date in descending order
+        const firstPostDate = new Date(data.features[data.features.length - 1].properties.post_date);
+        const lastPostDate = new Date(data.features[0].properties.post_date);
+        const startDate = new Date(lastPostDate.getTime() - 7889400000); // 3 months ago
+        const endDate = lastPostDate;
+
+        processGeoJSONData(data, { startDate: startDate, endDate: endDate });
+        initDateSlider({ min: firstPostDate, max: lastPostDate, start: startDate, end: endDate });
         map.addLayer(allMarkers);
         documentWrap.classList.add('loaded');
     } catch (error) {
@@ -113,34 +162,58 @@ const fetchGeoJSONData = async () => {
     }
 };
 
-const processGeoJSONData = (data) => {
-    L.geoJSON(data, {
-        pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
-        onEachFeature: (feature, layer) => {
-            if (!feature.properties) {
-                console.error('GeoJSON feature has no properties');
-                return;
-            }
-            const { post_id } = feature.properties;
+const processGeoJSONData = (data, options = {}) => {
+    const { startDate, endDate } = options;
 
-            const popupContent = `
-                <iframe
-                id="telegram-post-telegram-${post_id}"
-                src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
-                width="100%" height=""
-                frameborder="0" scrolling="yes"
-                style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
-                </iframe>
+    // Show filtering spinner
+    document.getElementById('filter-container').classList.add('filtering-in-progress');
 
-                <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
-            `;
-
-            layer.bindPopup(popupContent, {
-                maxWidth: 360,
-            });
-            allMarkers.addLayer(layer);
+    setTimeout(() => {
+        if (startDate && endDate) {
+            allMarkers.clearLayers();
         }
-    });
+
+        L.geoJSON(data, {
+            filter: feature => {
+                if (startDate && endDate) {
+                    if (!feature.properties || !feature.properties.post_date) return false;
+                    const postDate = new Date(feature.properties.post_date);
+                    return postDate >= startDate && postDate <= endDate;
+                }
+                return true;
+            },
+            pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
+            onEachFeature: (feature, layer) => {
+                if (!feature.properties) {
+                    console.error('GeoJSON feature has no properties');
+                    return;
+                }
+                const { post_id } = feature.properties;
+
+                const popupContent = `
+                    <iframe
+                    id="telegram-post-telegram-${post_id}"
+                    src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
+                    width="100%" height=""
+                    frameborder="0" scrolling="yes"
+                    style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
+                    </iframe>
+
+                    <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
+                `;
+
+                layer.bindPopup(popupContent, {
+                    maxWidth: 360,
+                });
+                allMarkers.addLayer(layer);
+            }
+        });
+
+        map.addLayer(allMarkers);
+
+        // Hide filtering spinner
+        document.getElementById('filter-container').classList.remove('filtering-in-progress');
+    }, 50);
 };
 
 fetchGeoJSONData();

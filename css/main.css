@@ -3,8 +3,13 @@
   --color-fg: #ecf6e2;
   --color-telegram: #1d98dc;
   --color-telegram-hover: #1880b9;
+  --color-accent-slider: #9cb97e;
   --color-xcom: #000000;
   --color-xcom-hover: #333333;
+  --font-sans-family: Roboto, system-ui, "Segoe UI", Oxygen, Ubuntu,
+    Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
+  --font-mono-family: Monaco, 'Roboto Mono', 'Adwaita Mono',
+    'Andale Mono', Consolas, monospace;
 }
 
 @media (prefers-color-scheme: light) {
@@ -25,13 +30,12 @@ body {
 }
 
 body {
-  font-family: Roboto, system-ui, "Segoe UI", Oxygen, Ubuntu,
-    Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
+  font-family: var(--font-sans-family);
   font-weight: 400;
 }
 
 code {
-  font-family: Monaco, 'Ubuntu Mono', 'Andale Mono', Consolas, monospace;
+  font-family: var(--font-mono-family);
 }
 
 .container {
@@ -384,6 +388,15 @@ header {
     top: 10px;
     right: 10px;
   }
+
+  .filter-container {
+    width: 90%;
+    padding: 10px 15px;
+  }
+
+  .date-values {
+    font-size: 14px;
+  }
 }
 
 .popup-coordinates {
@@ -432,4 +445,128 @@ header {
   display: flex;
   flex-wrap: wrap;
   min-width: 220px;
+}
+
+.filter-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 800px;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-container label {
+  font-size: 16px;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+#date-slider {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.date-values {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#start-date, #end-date {
+  font-family: var(--font-mono-family);
+  font-weight: bold;
+}
+
+/* Стилізація noUiSlider */
+#date-slider .noUi-connect {
+  background-color: var(--color-accent-slider);
+}
+
+#date-slider .noUi-handle {
+  border-radius: 20%;
+  background-color: var(--color-bg);
+  border: 1px solid var(--color-fg);
+  box-shadow: none;
+  cursor: pointer;
+}
+
+#date-slider .noUi-handle:before,
+#date-slider .noUi-handle:after {
+  background-color: var(--color-fg);
+}
+
+#date-slider .noUi-handle:focus {
+  outline: none;
+}
+
+.filter-container .filtering-overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.filter-container .filtering-spinner {
+  width: 30px;
+  height: 30px;
+  border: 5px solid rgba(0, 0, 0, 0.15);
+  border-radius: 50%;
+  border-top-color: #ef5350;
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Показуємо оверлей коли активний клас */
+.filter-container.filtering-in-progress .filtering-overlay {
+  display: flex;
+}
+
+/* Додаємо візуальну індикацію, що слайдер в процесі */
+.filter-container.filtering-in-progress .noUi-connect {
+  background: repeating-linear-gradient(45deg,
+    #f44336,
+    #f44336 10px,
+    #ef5350 10px,
+    #ef5350 20px);
+  background-size: 28px 28px;
+  animation: move-stripes 1s linear infinite;
+}
+
+@keyframes move-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 28px 0;
+  }
+}
+
+/* Змінюємо курсор на очікуючий під час фільтрації */
+.filter-container.filtering-in-progress {
+  cursor: wait;
 }
