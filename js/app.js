@@ -165,47 +165,55 @@ const fetchGeoJSONData = async () => {
 const processGeoJSONData = (data, options = {}) => {
     const { startDate, endDate } = options;
 
-    if (startDate && endDate) {
-        allMarkers.clearLayers();
-    }
+    // Show filtering spinner
+    document.getElementById('filter-container').classList.add('filtering-in-progress');
 
-    L.geoJSON(data, {
-        filter: feature => {
-            if (startDate && endDate) {
-                if (!feature.properties || !feature.properties.post_date) return false;
-                const postDate = new Date(feature.properties.post_date);
-                return postDate >= startDate && postDate <= endDate;
-            }
-            return true;
-        },
-        pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
-        onEachFeature: (feature, layer) => {
-            if (!feature.properties) {
-                console.error('GeoJSON feature has no properties');
-                return;
-            }
-            const { post_id } = feature.properties;
-
-            const popupContent = `
-                <iframe
-                id="telegram-post-telegram-${post_id}"
-                src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
-                width="100%" height=""
-                frameborder="0" scrolling="yes"
-                style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
-                </iframe>
-
-                <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
-            `;
-
-            layer.bindPopup(popupContent, {
-                maxWidth: 360,
-            });
-            allMarkers.addLayer(layer);
+    setTimeout(() => {
+        if (startDate && endDate) {
+            allMarkers.clearLayers();
         }
-    });
 
-    map.addLayer(allMarkers);
+        L.geoJSON(data, {
+            filter: feature => {
+                if (startDate && endDate) {
+                    if (!feature.properties || !feature.properties.post_date) return false;
+                    const postDate = new Date(feature.properties.post_date);
+                    return postDate >= startDate && postDate <= endDate;
+                }
+                return true;
+            },
+            pointToLayer: (feature, latlng) => L.marker(latlng, { icon: svgMarkerIcon }),
+            onEachFeature: (feature, layer) => {
+                if (!feature.properties) {
+                    console.error('GeoJSON feature has no properties');
+                    return;
+                }
+                const { post_id } = feature.properties;
+
+                const popupContent = `
+                    <iframe
+                    id="telegram-post-telegram-${post_id}"
+                    src="https://t.me/WarArchive_ua/${post_id}?embed=1&amp;userpic=false"
+                    width="100%" height=""
+                    frameborder="0" scrolling="yes"
+                    style="color-scheme: light dark; border: medium; min-height: 350px; min-width: 320px; width: 100%;">
+                    </iframe>
+
+                    <a href="tg://resolve?domain=WarArchive_ua&post=${post_id}" class="goto-post-button"><span>Відкрити</span></a>
+                `;
+
+                layer.bindPopup(popupContent, {
+                    maxWidth: 360,
+                });
+                allMarkers.addLayer(layer);
+            }
+        });
+
+        map.addLayer(allMarkers);
+
+        // Hide filtering spinner
+        document.getElementById('filter-container').classList.remove('filtering-in-progress');
+    }, 50);
 };
 
 fetchGeoJSONData();

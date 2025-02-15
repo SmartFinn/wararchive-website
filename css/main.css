@@ -3,6 +3,7 @@
   --color-fg: #ecf6e2;
   --color-telegram: #1d98dc;
   --color-telegram-hover: #1880b9;
+  --color-accent-slider: #9cb97e;
   --color-xcom: #000000;
   --color-xcom-hover: #333333;
   --font-sans-family: Roboto, system-ui, "Segoe UI", Oxygen, Ubuntu,
@@ -490,7 +491,7 @@ header {
 
 /* Стилізація noUiSlider */
 #date-slider .noUi-connect {
-  background-color: #9cb97e;
+  background-color: var(--color-accent-slider);
 }
 
 #date-slider .noUi-handle {
@@ -501,6 +502,71 @@ header {
   cursor: pointer;
 }
 
+#date-slider .noUi-handle:before,
+#date-slider .noUi-handle:after {
+  background-color: var(--color-fg);
+}
+
 #date-slider .noUi-handle:focus {
   outline: none;
+}
+
+.filter-container .filtering-overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.filter-container .filtering-spinner {
+  width: 30px;
+  height: 30px;
+  border: 5px solid rgba(0, 0, 0, 0.15);
+  border-radius: 50%;
+  border-top-color: #ef5350;
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Показуємо оверлей коли активний клас */
+.filter-container.filtering-in-progress .filtering-overlay {
+  display: flex;
+}
+
+/* Додаємо візуальну індикацію, що слайдер в процесі */
+.filter-container.filtering-in-progress .noUi-connect {
+  background: repeating-linear-gradient(45deg,
+    #f44336,
+    #f44336 10px,
+    #ef5350 10px,
+    #ef5350 20px);
+  background-size: 28px 28px;
+  animation: move-stripes 1s linear infinite;
+}
+
+@keyframes move-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 28px 0;
+  }
+}
+
+/* Змінюємо курсор на очікуючий під час фільтрації */
+.filter-container.filtering-in-progress {
+  cursor: wait;
 }
