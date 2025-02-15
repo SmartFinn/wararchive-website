@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.29982,
+     48.088598
+    ]
+   },
+   "properties": {
+    "post_id": 25667,
+    "post_date": "2025-02-15 17:05",
+    "date": "10.02.2025 ",
+    "unit": "35 ОБрМП, 🇺🇦 «Аеронавти»,"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.121216,
      51.257763
     ]
