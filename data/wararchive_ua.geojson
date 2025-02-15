@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.3717,
+     48.15018
+    ]
+   },
+   "properties": {
+    "post_id": 25652,
+    "post_date": "2025-02-15 09:06",
+    "date": "09.2024",
+    "unit": "15 БрОП «Кара-Даг»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.305982,
      50.305305
     ]
