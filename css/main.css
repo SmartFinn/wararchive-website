@@ -393,10 +393,6 @@ header {
     padding: 10px 15px;
   }
 
-  #filter-container label {
-    font-size: 14px;
-  }
-
   .date-values {
     font-size: 14px;
   }
@@ -452,9 +448,11 @@ header {
 
 .filter-container {
   position: fixed;
+  left: 0;
+  right: 0;
   bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   max-width: 800px;
   background-color: var(--color-bg);
@@ -492,11 +490,11 @@ header {
 
 /* Стилізація noUiSlider */
 #date-slider .noUi-connect {
-  background-color: #4a441b;
+  background-color: #9cb97e;
 }
 
 #date-slider .noUi-handle {
-  border-radius: 50%;
+  border-radius: 20%;
   background-color: var(--color-bg);
   border: 1px solid var(--color-fg);
   box-shadow: none;
@@ -505,9 +503,4 @@ header {
 
 #date-slider .noUi-handle:focus {
   outline: none;
-}
-
-#date-slider .noUi-handle:before,
-#date-slider .noUi-handle:after {
-  display: none;
 }
