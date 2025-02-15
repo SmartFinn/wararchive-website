@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.936976,
+     47.803506
+    ]
+   },
+   "properties": {
+    "post_id": 25664,
+    "post_date": "2025-02-15 15:05",
+    "date": "~12.02.2025",
+    "unit": "413 ОББС «Рейд» СБС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22918,
      48.87862
     ]
