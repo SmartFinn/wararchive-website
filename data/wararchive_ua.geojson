@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.722233,
+     46.642437
+    ]
+   },
+   "properties": {
+    "post_id": 25677,
+    "post_date": "2025-02-15 20:24",
+    "date": "15.02.2025",
+    "unit": "11 Бр НГУ, ББС «Ластівка», екіпаж «Самосуд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4095,
+     46.474611
+    ]
+   },
+   "properties": {
+    "post_id": 25675,
+    "post_date": "2025-02-15 20:04",
+    "date": "~12.02.2025",
+    "unit": "40 ОБрБО, 2 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4093,
+     46.473307
+    ]
+   },
+   "properties": {
+    "post_id": 25675,
+    "post_date": "2025-02-15 20:04",
+    "date": "~12.02.2025",
+    "unit": "40 ОБрБО, 2 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.409828,
+     46.472099
+    ]
+   },
+   "properties": {
+    "post_id": 25675,
+    "post_date": "2025-02-15 20:04",
+    "date": "~12.02.2025",
+    "unit": "40 ОБрБО, 2 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.41,
+     46.473235
+    ]
+   },
+   "properties": {
+    "post_id": 25675,
+    "post_date": "2025-02-15 20:04",
+    "date": "~12.02.2025",
+    "unit": "40 ОБрБО, 2 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4091,
+     46.473362
+    ]
+   },
+   "properties": {
+    "post_id": 25675,
+    "post_date": "2025-02-15 20:04",
+    "date": "~12.02.2025",
+    "unit": "40 ОБрБО, 2 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.29982,
      48.088598
     ]
