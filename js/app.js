@@ -125,24 +125,15 @@ const initDateSlider = (options = {}) => {
     const startDateSpan = document.getElementById('start-date');
     const endDateSpan = document.getElementById('end-date');
 
-    slider.noUiSlider.on('update', (values, handle) => {
-        const date = new Date(+values[handle]);
-        if (handle === 0) {
-            startDateSpan.textContent = date.toLocaleDateString();
-        } else {
-            endDateSpan.textContent = date.toLocaleDateString();
-        }
-    });
+    // Set initial date display
+    startDateSpan.textContent = min.toLocaleDateString();
+    endDateSpan.textContent = max.toLocaleDateString();
 
     slider.noUiSlider.on('change', (values) => {
         const start = new Date(+values[0]);
         const end = new Date(+values[1]);
         processGeoJSONData(geoJsonData, { startDate: start, endDate: end });
     });
-
-    // Set initial date display
-    startDateSpan.textContent = min.toLocaleDateString();
-    endDateSpan.textContent = max.toLocaleDateString();
 };
 
 const fetchGeoJSONData = async () => {
