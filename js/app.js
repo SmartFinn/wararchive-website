@@ -2,16 +2,18 @@ import geocoder from "./geocoder.js";
 import ukraineBorders from "./ukraine_borders.js";
 import coordsPopupContent from "./coordsPopup.js";
 
-const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}{r}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
-    detectRetina: true,
     minZoom: 3,
     maxZoom: 18
 });
 
-const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
+const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://carto.com/about-carto/">CARTO</a>',
-    detectRetina: true
+    subdomains: 'abcd',
+    minZoom: 0,
+    maxZoom: 18,
+    ext: 'png'
 });
 
 const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
