@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.1973,
+     51.30478
+    ]
+   },
+   "properties": {
+    "post_id": 25740,
+    "post_date": "2025-02-17 21:03",
+    "date": "~15.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.774882,
+     46.626406
+    ]
+   },
+   "properties": {
+    "post_id": 25734,
+    "post_date": "2025-02-17 20:04",
+    "date": "~02.2025",
+    "unit": "40 БрТА «Привид Києва»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.86282,
      47.88695
     ]
