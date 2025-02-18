@@ -86,8 +86,88 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.85011,
+     47.85804
+    ]
+   },
+   "properties": {
+    "post_id": 25725,
+    "post_date": "2025-02-17 14:03",
+    "date": "~15.02.2025",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.81521,
+     47.87428
+    ]
+   },
+   "properties": {
+    "post_id": 25725,
+    "post_date": "2025-02-17 14:03",
+    "date": "~15.02.2025",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.82338,
+     47.89342
+    ]
+   },
+   "properties": {
+    "post_id": 25725,
+    "post_date": "2025-02-17 14:03",
+    "date": "~15.02.2025",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.86599,
      47.84765
+    ]
+   },
+   "properties": {
+    "post_id": 25725,
+    "post_date": "2025-02-17 14:03",
+    "date": "~15.02.2025",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.86299,
+     47.87988
+    ]
+   },
+   "properties": {
+    "post_id": 25725,
+    "post_date": "2025-02-17 14:03",
+    "date": "~15.02.2025",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.86282,
+     47.88695
     ]
    },
    "properties": {
@@ -141,7 +221,7 @@
    "properties": {
     "post_id": 25716,
     "post_date": "2025-02-17 08:00",
-    "date": "02.2025",
+    "date": "~18.01.2025",
     "unit": "3 ОП СпП ССО"
    }
   },
