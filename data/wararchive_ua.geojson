@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.15823,
+     51.26073
+    ]
+   },
+   "properties": {
+    "post_id": 25938,
+    "post_date": "2025-02-24 20:34",
+    "date": "22.02.2025.",
+    "unit": "«Chimera»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.1389,
      48.2271
     ]
