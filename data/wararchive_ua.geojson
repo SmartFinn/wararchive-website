@@ -6,6 +6,1302 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.23792,
+     48.91419
+    ]
+   },
+   "properties": {
+    "post_id": 25917,
+    "post_date": "2025-02-23 20:33",
+    "date": "~21.02.2025.",
+    "unit": "7 ОМСБР ЗС РФ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.25455,
+     48.147658
+    ]
+   },
+   "properties": {
+    "post_id": 25916,
+    "post_date": "2025-02-23 20:00",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.389923,
+     48.125506
+    ]
+   },
+   "properties": {
+    "post_id": 25916,
+    "post_date": "2025-02-23 20:00",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.101976,
+     48.86891
+    ]
+   },
+   "properties": {
+    "post_id": 25913,
+    "post_date": "2025-02-23 19:06",
+    "date": "~06.02.2025",
+    "unit": "54 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.18045,
+     51.31621
+    ]
+   },
+   "properties": {
+    "post_id": 25910,
+    "post_date": "2025-02-23 17:30",
+    "date": "02.2025",
+    "unit": "47 ОМБр «Маґура»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1847,
+     51.31382
+    ]
+   },
+   "properties": {
+    "post_id": 25910,
+    "post_date": "2025-02-23 17:30",
+    "date": "02.2025",
+    "unit": "47 ОМБр «Маґура»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.19618,
+     51.31119
+    ]
+   },
+   "properties": {
+    "post_id": 25910,
+    "post_date": "2025-02-23 17:30",
+    "date": "02.2025",
+    "unit": "47 ОМБр «Маґура»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.05638,
+     48.019345
+    ]
+   },
+   "properties": {
+    "post_id": 25908,
+    "post_date": "2025-02-23 17:04",
+    "date": "14.02.2025",
+    "unit": "79 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.072649,
+     50.762285
+    ]
+   },
+   "properties": {
+    "post_id": 25901,
+    "post_date": "2025-02-23 13:10",
+    "date": "~02.2025",
+    "unit": "ОБрБпА «ГРОМ „Каскад”»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.802958,
+     46.546025
+    ]
+   },
+   "properties": {
+    "post_id": 25899,
+    "post_date": "2025-02-23 12:03",
+    "date": "~17.02.2025",
+    "unit": "426 ОББС МП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.88989,
+     48.67949
+    ]
+   },
+   "properties": {
+    "post_id": 25894,
+    "post_date": "2025-02-23 08:00",
+    "date": "~20.02.2025.",
+    "unit": "ССО «ГЕНІЙ», 🇺🇦 30 ОМБр, 1 СБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.458111,
+     46.458555
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.453,
+     46.454961
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.439555,
+     46.422937
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.233666,
+     46.476962
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.409777,
+     46.471739
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.452777,
+     46.454441
+    ]
+   },
+   "properties": {
+    "post_id": 25889,
+    "post_date": "2025-02-22 20:03",
+    "date": "~17.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.354307,
+     51.140189
+    ]
+   },
+   "properties": {
+    "post_id": 25886,
+    "post_date": "2025-02-22 17:35",
+    "date": "~20.02.2025",
+    "unit": "82 ОДШБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.88218,
+     48.4004
+    ]
+   },
+   "properties": {
+    "post_id": 25884,
+    "post_date": "2025-02-22 16:38",
+    "date": "02.2025",
+    "unit": "93 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1821,
+     51.3299
+    ]
+   },
+   "properties": {
+    "post_id": 25883,
+    "post_date": "2025-02-22 16:05",
+    "date": "~20.02.2025",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.1833,
+     51.32366
+    ]
+   },
+   "properties": {
+    "post_id": 25878,
+    "post_date": "2025-02-22 14:05",
+    "date": "~19.02.2025",
+    "unit": "47 ОМБр, 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.69257,
+     48.19883
+    ]
+   },
+   "properties": {
+    "post_id": 25876,
+    "post_date": "2025-02-22 13:02",
+    "date": "~15.02.2024",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.812398,
+     49.516235
+    ]
+   },
+   "properties": {
+    "post_id": 25875,
+    "post_date": "2025-02-22 12:02",
+    "date": "~17.02.2025",
+    "unit": "1 БрОП «Буревій»,🇺🇦429 ОПБпС «Ахіллес» та 🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.055529,
+     47.986293
+    ]
+   },
+   "properties": {
+    "post_id": 25872,
+    "post_date": "2025-02-22 11:02",
+    "date": "~20.02.2025",
+    "unit": "71 ОЄБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.6806,
+     48.19653
+    ]
+   },
+   "properties": {
+    "post_id": 25871,
+    "post_date": "2025-02-22 10:36",
+    "date": "25.02.2024",
+    "unit": "47 ОМБр «Маґура»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.94582,
+     50.29292
+    ]
+   },
+   "properties": {
+    "post_id": 25869,
+    "post_date": "2025-02-22 09:04",
+    "date": "~06.2024",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.69132,
+     51.05719
+    ]
+   },
+   "properties": {
+    "post_id": 25864,
+    "post_date": "2025-02-21 20:15",
+    "date": "~13.02.2025",
+    "unit": "8 ОП СпП, 🐺 «UA_REG»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.427191,
+     51.193583
+    ]
+   },
+   "properties": {
+    "post_id": 25862,
+    "post_date": "2025-02-21 19:06",
+    "date": "~19.02.2025",
+    "unit": "61 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.418066,
+     51.209104
+    ]
+   },
+   "properties": {
+    "post_id": 25862,
+    "post_date": "2025-02-21 19:06",
+    "date": "~19.02.2025",
+    "unit": "61 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.10614,
+     47.97223
+    ]
+   },
+   "properties": {
+    "post_id": 25856,
+    "post_date": "2025-02-21 15:59",
+    "date": "15.02.2025",
+    "unit": "37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.09736,
+     47.99316
+    ]
+   },
+   "properties": {
+    "post_id": 25856,
+    "post_date": "2025-02-21 15:59",
+    "date": "15.02.2025",
+    "unit": "37 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.17776,
+     51.3034
+    ]
+   },
+   "properties": {
+    "post_id": 25852,
+    "post_date": "2025-02-21 13:03",
+    "date": "~18.02.2025",
+    "unit": "80 ОДШБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84132,
+     48.40874
+    ]
+   },
+   "properties": {
+    "post_id": 25845,
+    "post_date": "2025-02-21 08:59",
+    "date": "04.02.2025",
+    "unit": "КОРД"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.370777,
+     46.74684
+    ]
+   },
+   "properties": {
+    "post_id": 25837,
+    "post_date": "2025-02-20 19:03",
+    "date": "12.01.2025",
+    "unit": "126 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.043,
+     48.26076
+    ]
+   },
+   "properties": {
+    "post_id": 25836,
+    "post_date": "2025-02-20 18:30",
+    "date": "01.2025",
+    "unit": "3 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.31845,
+     51.16204
+    ]
+   },
+   "properties": {
+    "post_id": 25835,
+    "post_date": "2025-02-20 18:03",
+    "date": "06.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.32893,
+     51.16228
+    ]
+   },
+   "properties": {
+    "post_id": 25835,
+    "post_date": "2025-02-20 18:03",
+    "date": "06.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.33671,
+     51.15998
+    ]
+   },
+   "properties": {
+    "post_id": 25835,
+    "post_date": "2025-02-20 18:03",
+    "date": "06.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.34423,
+     51.18076
+    ]
+   },
+   "properties": {
+    "post_id": 25835,
+    "post_date": "2025-02-20 18:03",
+    "date": "06.02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.38984,
+     51.02106
+    ]
+   },
+   "properties": {
+    "post_id": 25829,
+    "post_date": "2025-02-20 16:03",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.958375,
+     51.231018
+    ]
+   },
+   "properties": {
+    "post_id": 25829,
+    "post_date": "2025-02-20 16:03",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.958375,
+     51.231018
+    ]
+   },
+   "properties": {
+    "post_id": 25828,
+    "post_date": "2025-02-20 15:51",
+    "date": "~15.02.2025",
+    "unit": "78 ОДШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.865465,
+     48.393453
+    ]
+   },
+   "properties": {
+    "post_id": 25827,
+    "post_date": "2025-02-20 14:59",
+    "date": "~17.02.2025",
+    "unit": "Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.991681,
+     48.101889
+    ]
+   },
+   "properties": {
+    "post_id": 25826,
+    "post_date": "2025-02-20 14:02",
+    "date": "~16.02.2025",
+    "unit": "225 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.998801,
+     48.104052
+    ]
+   },
+   "properties": {
+    "post_id": 25826,
+    "post_date": "2025-02-20 14:02",
+    "date": "~16.02.2025",
+    "unit": "225 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.004077,
+     48.10458
+    ]
+   },
+   "properties": {
+    "post_id": 25826,
+    "post_date": "2025-02-20 14:02",
+    "date": "~16.02.2025",
+    "unit": "225 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.794181,
+     48.389362
+    ]
+   },
+   "properties": {
+    "post_id": 25825,
+    "post_date": "2025-02-20 12:59",
+    "date": "~01-02.2025",
+    "unit": "12 БрСпП «Азов»,🇺🇦ГРСПн «Нептун»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.794088,
+     48.388762
+    ]
+   },
+   "properties": {
+    "post_id": 25825,
+    "post_date": "2025-02-20 12:59",
+    "date": "~01-02.2025",
+    "unit": "12 БрСпП «Азов»,🇺🇦ГРСПн «Нептун»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.63571,
+     47.10494
+    ]
+   },
+   "properties": {
+    "post_id": 25820,
+    "post_date": "2025-02-20 09:06",
+    "date": "04.2022",
+    "unit": "ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8317,
+     48.3515
+    ]
+   },
+   "properties": {
+    "post_id": 25814,
+    "post_date": "2025-02-19 20:36",
+    "date": "02.2025",
+    "unit": "12 БрСпП «Азов»,🇺🇦2 БСП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.477128,
+     47.497997
+    ]
+   },
+   "properties": {
+    "post_id": 25813,
+    "post_date": "2025-02-19 20:04",
+    "date": "~17.02.2025",
+    "unit": "128 ОГШБр, 2 ГШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.17873,
+     48.25609
+    ]
+   },
+   "properties": {
+    "post_id": 25812,
+    "post_date": "2025-02-19 19:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.17873,
+     48.25609
+    ]
+   },
+   "properties": {
+    "post_id": 25812,
+    "post_date": "2025-02-19 19:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.810478,
+     49.512929
+    ]
+   },
+   "properties": {
+    "post_id": 25810,
+    "post_date": "2025-02-19 19:04",
+    "date": "~17.02.2025",
+    "unit": "77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.809663,
+     49.512539
+    ]
+   },
+   "properties": {
+    "post_id": 25810,
+    "post_date": "2025-02-19 19:04",
+    "date": "~17.02.2025",
+    "unit": "77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.803472,
+     49.492706
+    ]
+   },
+   "properties": {
+    "post_id": 25810,
+    "post_date": "2025-02-19 19:04",
+    "date": "~17.02.2025",
+    "unit": "77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.807496,
+     49.511159
+    ]
+   },
+   "properties": {
+    "post_id": 25810,
+    "post_date": "2025-02-19 19:04",
+    "date": "~17.02.2025",
+    "unit": "77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.07744,
+     48.25871
+    ]
+   },
+   "properties": {
+    "post_id": 25806,
+    "post_date": "2025-02-19 17:02",
+    "date": "~16.02.2025",
+    "unit": "155 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.07568,
+     48.24403
+    ]
+   },
+   "properties": {
+    "post_id": 25806,
+    "post_date": "2025-02-19 17:02",
+    "date": "~16.02.2025",
+    "unit": "155 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.07461,
+     48.24891
+    ]
+   },
+   "properties": {
+    "post_id": 25806,
+    "post_date": "2025-02-19 17:02",
+    "date": "~16.02.2025",
+    "unit": "155 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.262529,
+     48.05986
+    ]
+   },
+   "properties": {
+    "post_id": 25804,
+    "post_date": "2025-02-19 16:04",
+    "date": "~16.02.2025",
+    "unit": "35 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.01198,
+     48.14765
+    ]
+   },
+   "properties": {
+    "post_id": 25802,
+    "post_date": "2025-02-19 15:02",
+    "date": "02.2025",
+    "unit": "59 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.89926,
+     48.38517
+    ]
+   },
+   "properties": {
+    "post_id": 25801,
+    "post_date": "2025-02-19 14:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.89926,
+     48.38517
+    ]
+   },
+   "properties": {
+    "post_id": 25801,
+    "post_date": "2025-02-19 14:29",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.17588,
+     51.30954
+    ]
+   },
+   "properties": {
+    "post_id": 25799,
+    "post_date": "2025-02-19 14:06",
+    "date": "~17.02.2025",
+    "unit": "47 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.87525,
+     48.39999
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85367,
+     48.40363
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8823,
+     48.39978
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8547,
+     48.40408
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85342,
+     48.40134
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8543,
+     48.39466
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.88337,
+     48.40048
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85567,
+     48.40439
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.86534,
+     48.40785
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8615,
+     48.40428
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85603,
+     48.3966
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85722,
+     48.3934
+    ]
+   },
+   "properties": {
+    "post_id": 25798,
+    "post_date": "2025-02-19 13:02",
+    "date": "~17.02.2025",
+    "unit": "28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.33299,
+     47.55049
+    ]
+   },
+   "properties": {
+    "post_id": 25795,
+    "post_date": "2025-02-19 11:31",
+    "date": "17.02.2025.",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.816891,
+     47.897339
+    ]
+   },
+   "properties": {
+    "post_id": 25793,
+    "post_date": "2025-02-19 10:59",
+    "date": "~15.02.2025.",
+    "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84889,
+     48.39702
+    ]
+   },
+   "properties": {
+    "post_id": 25790,
+    "post_date": "2025-02-19 09:01",
+    "date": "~11.2024",
+    "unit": "ТГр «Афіна», 🇺🇦 Міжнародний легіон ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.93401,
+     48.6128
+    ]
+   },
+   "properties": {
+    "post_id": 25788,
+    "post_date": "2025-02-19 08:03",
+    "date": "~04.2023",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.83747,
      47.87673
     ]
@@ -70,6 +1366,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.798509,
+     50.246467
+    ]
+   },
+   "properties": {
+    "post_id": 25749,
+    "post_date": "2025-02-18 11:01",
+    "date": "~09.12.2024",
+    "unit": "Батальйон «Материк», 3 рота"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.234983,
      47.751407
     ]
@@ -127,6 +1439,22 @@
     "post_date": "2025-02-17 19:39",
     "date": "~15.02.2025",
     "unit": "110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.09318,
+     47.52628
+    ]
+   },
+   "properties": {
+    "post_id": 25732,
+    "post_date": "2025-02-17 19:07",
+    "date": "~06.2024",
+    "unit": "15 ОБрАР «Чорний ліс»"
    }
   },
   {
