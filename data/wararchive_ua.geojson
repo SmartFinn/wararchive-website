@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.111828,
+     48.234667
+    ]
+   },
+   "properties": {
+    "post_id": 26019,
+    "post_date": "2025-02-27 20:30",
+    "date": "~24.02.2025.",
+    "unit": "32 ОМБр, ББпС «Umbrella»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.97607,
      48.13974
     ]
