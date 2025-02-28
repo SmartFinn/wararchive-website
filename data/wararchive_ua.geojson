@@ -70,6 +70,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.069868,
+     48.259922
+    ]
+   },
+   "properties": {
+    "post_id": 26004,
+    "post_date": "2025-02-27 13:00",
+    "date": "~20.02.2025",
+    "unit": "425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.808909,
      49.511404
     ]
@@ -78,7 +94,7 @@
     "post_id": 26001,
     "post_date": "2025-02-27 11:02",
     "date": "~16.02.2025",
-    "unit": "8 ОП СпП"
+    "unit": "8 ОП СпП, 3 ЗСП"
    }
   },
   {
