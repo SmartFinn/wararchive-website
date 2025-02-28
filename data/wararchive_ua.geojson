@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.5369,
+     46.538624
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5279,
+     46.532505
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5276,
+     46.532551
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5281,
+     46.536559
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.525444,
+     46.532213
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.096666,
      46.385431
     ]
