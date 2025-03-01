@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.796666,
+     46.575028
+    ]
+   },
+   "properties": {
+    "post_id": 26071,
+    "post_date": "2025-03-01 20:04",
+    "date": "~20.02.2025",
+    "unit": "ДПСУ, 26 прикордонний загін"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.67374,
+     48.06645
+    ]
+   },
+   "properties": {
+    "post_id": 26066,
+    "post_date": "2025-03-01 19:35",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.67374,
+     48.06645
+    ]
+   },
+   "properties": {
+    "post_id": 26066,
+    "post_date": "2025-03-01 19:35",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.83897,
+     48.40069
+    ]
+   },
+   "properties": {
+    "post_id": 26065,
+    "post_date": "2025-03-01 19:06",
+    "date": "~15.02.2025",
+    "unit": "100 ОМБр, «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.84561,
+     48.39692
+    ]
+   },
+   "properties": {
+    "post_id": 26065,
+    "post_date": "2025-03-01 19:06",
+    "date": "~15.02.2025",
+    "unit": "100 ОМБр, «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.844529,
+     48.399826
+    ]
+   },
+   "properties": {
+    "post_id": 26065,
+    "post_date": "2025-03-01 19:06",
+    "date": "~15.02.2025",
+    "unit": "100 ОМБр, «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.803802,
      48.424766
     ]
