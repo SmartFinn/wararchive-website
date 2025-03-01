@@ -70,6 +70,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.504555,
+     46.522449
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.503555,
+     46.520511
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.5279,
      46.532505
     ]
@@ -88,6 +120,22 @@
     "coordinates": [
      32.5276,
      46.532551
+    ]
+   },
+   "properties": {
+    "post_id": 26028,
+    "post_date": "2025-02-28 12:45",
+    "date": "~15.02.2025",
+    "unit": "ГУР МОУ, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.524188,
+     46.529662
     ]
    },
    "properties": {
@@ -142,7 +190,23 @@
     "post_id": 26024,
     "post_date": "2025-02-28 09:08",
     "date": "~22:00 26.02.2025",
-    "unit": "ГУР МО"
+    "unit": "ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.796839,
+     48.39015
+    ]
+   },
+   "properties": {
+    "post_id": 26023,
+    "post_date": "2025-02-28 08:00",
+    "date": "~25.02.2025",
+    "unit": "12 БрСпП «Азов»,🇺🇦1 БСП, ВРСП"
    }
   },
   {
@@ -230,8 +294,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.069868,
-     48.259922
+     37.0758731,
+     48.2650846
     ]
    },
    "properties": {
