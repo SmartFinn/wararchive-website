@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.333549,
+     48.151806
+    ]
+   },
+   "properties": {
+    "post_id": 26091,
+    "post_date": "2025-03-02 11:01",
+    "date": "28.02.2025",
+    "unit": "412 ОП БпС «NEMESIS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.98217,
+     48.106
+    ]
+   },
+   "properties": {
+    "post_id": 26078,
+    "post_date": "2025-03-02 07:33",
+    "date": "23-24.02.2025",
+    "unit": "91 ОПТБ, «Вогняні Крила»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.46568,
+     47.5064
+    ]
+   },
+   "properties": {
+    "post_id": 26073,
+    "post_date": "2025-03-01 20:31",
+    "date": "~25.02.2025",
+    "unit": "128 ОГШБр, 2 ГШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.45744,
+     47.50615
+    ]
+   },
+   "properties": {
+    "post_id": 26073,
+    "post_date": "2025-03-01 20:31",
+    "date": "~25.02.2025",
+    "unit": "128 ОГШБр, 2 ГШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      31.796666,
      46.575028
     ]
@@ -221,7 +285,7 @@
    "properties": {
     "post_id": 26051,
     "post_date": "2025-03-01 09:01",
-    "date": "~20.02.2025",
+    "date": "~09.02.2025",
     "unit": "101 ОБрО ГШ, 😀 4 БО"
    }
   },
@@ -255,6 +319,22 @@
     "post_date": "2025-02-28 17:09",
     "date": "~23.02.2025",
     "unit": "54 ОМБр, «Залізна Кара»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.95296,
+     49.13378
+    ]
+   },
+   "properties": {
+    "post_id": 26035,
+    "post_date": "2025-02-28 15:06",
+    "date": "~25.02.2025",
+    "unit": "66 ОМБр та 🇺🇦 ОПБр,🇺🇦4 МБ"
    }
   },
   {
