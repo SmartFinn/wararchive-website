@@ -150,22 +150,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     35.435798,
-     48.717802
-    ]
-   },
-   "properties": {
-    "post_id": 26096,
-    "post_date": "2025-03-02 14:10",
-    "date": null,
-    "unit": null
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      37.34209561201737,
      48.14304320592461
     ]
@@ -207,6 +191,22 @@
     "post_date": "2025-03-02 14:00",
     "date": "~25.02.2025.",
     "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.020484,
+     48.227168
+    ]
+   },
+   "properties": {
+    "post_id": 26093,
+    "post_date": "2025-03-02 13:00",
+    "date": "~28.02.2025",
+    "unit": "425 ОШП «СКАЛА»"
    }
   },
   {
