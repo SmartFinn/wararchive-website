@@ -6,6 +6,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.28015,
+     50.33442
+    ]
+   },
+   "properties": {
+    "post_id": 26131,
+    "post_date": "2025-03-03 19:29",
+    "date": "~27.02.2025.",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.705444,
+     46.625114
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.713444,
+     46.615626
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.715999,
+     46.611035
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.722222,
+     46.603943
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.724666,
+     46.612229
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.721666,
+     46.618623
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.717222,
+     46.623892
+    ]
+   },
+   "properties": {
+    "post_id": 26130,
+    "post_date": "2025-03-03 19:04",
+    "date": "01.03.2025",
+    "unit": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.261944,
      48.006551
     ]
