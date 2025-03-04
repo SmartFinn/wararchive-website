@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.9284,
+     50.30664
+    ]
+   },
+   "properties": {
+    "post_id": 26137,
+    "post_date": "2025-03-04 09:05",
+    "date": "02.2025",
+    "unit": "57 ОМПБр, ББпС «Мурчики»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.93056,
+     50.30374
+    ]
+   },
+   "properties": {
+    "post_id": 26137,
+    "post_date": "2025-03-04 09:05",
+    "date": "02.2025",
+    "unit": "57 ОМПБр, ББпС «Мурчики»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.93156,
+     50.30502
+    ]
+   },
+   "properties": {
+    "post_id": 26137,
+    "post_date": "2025-03-04 09:05",
+    "date": "02.2025",
+    "unit": "57 ОМПБр, ББпС «Мурчики»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.24893,
      47.77627
     ]
