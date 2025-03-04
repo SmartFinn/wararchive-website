@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.011425,
+     48.239345
+    ]
+   },
+   "properties": {
+    "post_id": 26143,
+    "post_date": "2025-03-04 13:06",
+    "date": "01.03.2025",
+    "unit": "144 центр ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.004863,
+     48.239938
+    ]
+   },
+   "properties": {
+    "post_id": 26143,
+    "post_date": "2025-03-04 13:06",
+    "date": "01.03.2025",
+    "unit": "144 центр ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.2608,
      46.750671
     ]
