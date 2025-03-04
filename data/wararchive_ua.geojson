@@ -182,6 +182,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.197536,
+     51.304922
+    ]
+   },
+   "properties": {
+    "post_id": 26115,
+    "post_date": "2025-03-03 11:00",
+    "date": "~28.02.2025",
+    "unit": "47 ОМБр, 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.68751,
+     51.14933
+    ]
+   },
+   "properties": {
+    "post_id": 26111,
+    "post_date": "2025-03-03 07:03",
+    "date": "~26.02.2025",
+    "unit": "ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.6889,
      46.614702
     ]
