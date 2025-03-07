@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.337123,
+     51.096822
+    ]
+   },
+   "properties": {
+    "post_id": 26207,
+    "post_date": "2025-03-07 12:03",
+    "date": "~02.03.2025",
+    "unit": "129 ОБрТрО,🇺🇦РУБпАК «RUGBY TEAM»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.38341,
      47.76039
     ]
