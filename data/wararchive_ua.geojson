@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.97276,
+     49.08568
+    ]
+   },
+   "properties": {
+    "post_id": 26220,
+    "post_date": "2025-03-07 18:02",
+    "date": "07.03.2025",
+    "unit": "60 ОМБр, 🔥 ББпС «VIDARR»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5756,
+     48.33051
+    ]
+   },
+   "properties": {
+    "post_id": 26219,
+    "post_date": "2025-03-07 17:31",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.83257,
      48.59419
     ]
