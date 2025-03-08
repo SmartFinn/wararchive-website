@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.001518,
+     48.238844
+    ]
+   },
+   "properties": {
+    "post_id": 26249,
+    "post_date": "2025-03-08 11:02",
+    "date": "~05.03.2025",
+    "unit": "Гр СпП «WASP»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.738793,
      46.622836
     ]
