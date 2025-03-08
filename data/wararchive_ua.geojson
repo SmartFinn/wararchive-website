@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.296541,
+     51.231855
+    ]
+   },
+   "properties": {
+    "post_id": 26263,
+    "post_date": "2025-03-08 20:35",
+    "date": "08.03.2025",
+    "unit": "ДШВ ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.970743,
      48.13145
     ]
