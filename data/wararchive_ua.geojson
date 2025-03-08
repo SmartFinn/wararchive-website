@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.059163,
+     51.203568
+    ]
+   },
+   "properties": {
+    "post_id": 26257,
+    "post_date": "2025-03-08 16:02",
+    "date": "~06.03.2025",
+    "unit": "ДПСУ, РУБпАК «Прайм» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.049698,
+     48.137353
+    ]
+   },
+   "properties": {
+    "post_id": 26254,
+    "post_date": "2025-03-08 15:06",
+    "date": "~05.03.2025",
+    "unit": "59 ОШБр БпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.971077,
+     48.131385
+    ]
+   },
+   "properties": {
+    "post_id": 26254,
+    "post_date": "2025-03-08 15:06",
+    "date": "~05.03.2025",
+    "unit": "59 ОШБр БпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.183096,
      50.727744
     ]
