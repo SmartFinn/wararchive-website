@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.958375,
+     51.231018
+    ]
+   },
+   "properties": {
+    "post_id": 26283,
+    "post_date": "2025-03-09 16:01",
+    "date": "~03.03.2025",
+    "unit": "78 ОДШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.276603,
      51.281326
     ]
