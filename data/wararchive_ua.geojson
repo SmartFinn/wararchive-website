@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.804397,
+     47.479907
+    ]
+   },
+   "properties": {
+    "post_id": 26278,
+    "post_date": "2025-03-09 13:01",
+    "date": "~06.03.2025",
+    "unit": "65 ОМБр, 🎏 РУБпАК «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.801033,
+     47.465658
+    ]
+   },
+   "properties": {
+    "post_id": 26278,
+    "post_date": "2025-03-09 13:01",
+    "date": "~06.03.2025",
+    "unit": "65 ОМБр, 🎏 РУБпАК «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.278023,
      48.215678
     ]
