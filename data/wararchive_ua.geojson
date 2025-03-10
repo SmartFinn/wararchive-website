@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.25889,
+     51.26007
+    ]
+   },
+   "properties": {
+    "post_id": 26321,
+    "post_date": "2025-03-10 17:05",
+    "date": "~06.03.2025",
+    "unit": "40 БрТА «Привид Києва» (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.94576,
      50.29281
     ]
