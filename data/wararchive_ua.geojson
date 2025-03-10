@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.840976,
+     48.40744
+    ]
+   },
+   "properties": {
+    "post_id": 26324,
+    "post_date": "2025-03-10 19:37",
+    "date": "~23.02.2025",
+    "unit": "ОШБр «Лють», 🇺🇦 ШП «Луганськ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.003031,
      48.105986
     ]
