@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.379474,
+     47.524711
+    ]
+   },
+   "properties": {
+    "post_id": 26344,
+    "post_date": "2025-03-11 13:00",
+    "date": "~08.03.2025",
+    "unit": "128 ОБрТрО «Дике Поле», 233 ОБТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.378321,
+     47.524633
+    ]
+   },
+   "properties": {
+    "post_id": 26344,
+    "post_date": "2025-03-11 13:00",
+    "date": "~08.03.2025",
+    "unit": "128 ОБрТрО «Дике Поле», 233 ОБТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.364561,
+     47.526986
+    ]
+   },
+   "properties": {
+    "post_id": 26344,
+    "post_date": "2025-03-11 13:00",
+    "date": "~08.03.2025",
+    "unit": "128 ОБрТрО «Дике Поле», 233 ОБТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.367643,
+     47.523717
+    ]
+   },
+   "properties": {
+    "post_id": 26344,
+    "post_date": "2025-03-11 13:00",
+    "date": "~08.03.2025",
+    "unit": "128 ОБрТрО «Дике Поле», 233 ОБТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.270952,
      51.129877
     ]
