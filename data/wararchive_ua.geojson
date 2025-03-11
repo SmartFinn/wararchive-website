@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.93753,
+     48.4
+    ]
+   },
+   "properties": {
+    "post_id": 26352,
+    "post_date": "2025-03-11 20:01",
+    "date": "~09.03.2025",
+    "unit": "ОП БпС «Фенікс» ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.93689,
+     48.40008
+    ]
+   },
+   "properties": {
+    "post_id": 26352,
+    "post_date": "2025-03-11 20:01",
+    "date": "~09.03.2025",
+    "unit": "ОП БпС «Фенікс» ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.21965,
      48.84078
     ]
