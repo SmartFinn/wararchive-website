@@ -86,6 +86,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.196066,
+     48.353641
+    ]
+   },
+   "properties": {
+    "post_id": 26295,
+    "post_date": "2025-03-09 19:00",
+    "date": "~07.03.2025",
+    "unit": "БДК та ⚔️ 155 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.146622,
      48.221863
     ]
@@ -1398,8 +1414,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.011425,
-     48.239345
+     37.00654,
+     48.239752
     ]
    },
    "properties": {
