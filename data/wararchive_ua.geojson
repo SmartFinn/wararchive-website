@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.27705,
+     51.12387
+    ]
+   },
+   "properties": {
+    "post_id": 26364,
+    "post_date": "2025-03-12 13:04",
+    "date": "~09.03.2025",
+    "unit": "129 ОБрТрО, 248 ОБТрО, РУБпАК «The Ravens»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.966663,
      49.104825
     ]
