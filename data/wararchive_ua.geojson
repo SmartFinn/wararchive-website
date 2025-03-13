@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.02076,
+     48.72629
+    ]
+   },
+   "properties": {
+    "post_id": 26410,
+    "post_date": "2025-03-13 16:02",
+    "date": "09.03.2025",
+    "unit": "30 ОМБр, команда «В'ялий»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.02116,
+     48.73185
+    ]
+   },
+   "properties": {
+    "post_id": 26410,
+    "post_date": "2025-03-13 16:02",
+    "date": "09.03.2025",
+    "unit": "30 ОМБр, команда «В'ялий»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.99763,
+     48.73926
+    ]
+   },
+   "properties": {
+    "post_id": 26410,
+    "post_date": "2025-03-13 16:02",
+    "date": "09.03.2025",
+    "unit": "30 ОМБр, команда «В'ялий»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.084184,
      51.194917
     ]
