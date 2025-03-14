@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.0033,
+     48.74151
+    ]
+   },
+   "properties": {
+    "post_id": 26439,
+    "post_date": "2025-03-14 18:33",
+    "date": "~10.03.2025",
+    "unit": "30 ОМБр, команда «В'ялий»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.0251139,
      48.1993391
     ]
