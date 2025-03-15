@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.47593,
+     50.48758
+    ]
+   },
+   "properties": {
+    "post_id": 26458,
+    "post_date": "2025-03-15 14:04",
+    "date": "~09.2024",
+    "unit": "92 ОШБр,🇺🇦БУБпАК «Ахіллес» та «FlightClub 92»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.822477,
      48.593509
     ]
