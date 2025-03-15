@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.13673,
+     48.21676
+    ]
+   },
+   "properties": {
+    "post_id": 26452,
+    "post_date": "2025-03-15 08:00",
+    "date": "~12.03.2025",
+    "unit": "155 ОМБр, РР та 🇺🇦 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.116542,
+     48.235299
+    ]
+   },
+   "properties": {
+    "post_id": 26450,
+    "post_date": "2025-03-15 07:04",
+    "date": "~12.03.2025.",
+    "unit": "47 ОАБр, 4 АДн, «Соколи Фокса»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.766754,
      50.30261
     ]
