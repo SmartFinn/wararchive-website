@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.705113,
+     47.853965
+    ]
+   },
+   "properties": {
+    "post_id": 26516,
+    "post_date": "2025-03-17 15:59",
+    "date": "~15.03.2025",
+    "unit": "17 Бр «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.005652,
      48.143788
     ]
