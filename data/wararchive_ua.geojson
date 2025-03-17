@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.576888,
+     46.523912
+    ]
+   },
+   "properties": {
+    "post_id": 26518,
+    "post_date": "2025-03-17 17:29",
+    "date": "~13.03.2025",
+    "unit": "ЗСП «Paragon Company» ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.705113,
      47.853965
     ]
