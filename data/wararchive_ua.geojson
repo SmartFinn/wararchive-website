@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.884155,
+     51.425525
+    ]
+   },
+   "properties": {
+    "post_id": 26507,
+    "post_date": "2025-03-17 10:59",
+    "date": "~16.03.2025",
+    "unit": "47 ОМБр «Маґура», РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.885569,
+     51.427068
+    ]
+   },
+   "properties": {
+    "post_id": 26507,
+    "post_date": "2025-03-17 10:59",
+    "date": "~16.03.2025",
+    "unit": "47 ОМБр «Маґура», РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.885154,
+     51.425592
+    ]
+   },
+   "properties": {
+    "post_id": 26507,
+    "post_date": "2025-03-17 10:59",
+    "date": "~16.03.2025",
+    "unit": "47 ОМБр «Маґура», РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.51238,
      47.12203
     ]
