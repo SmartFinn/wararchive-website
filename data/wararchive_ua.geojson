@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.005652,
+     48.143788
+    ]
+   },
+   "properties": {
+    "post_id": 26515,
+    "post_date": "2025-03-17 14:59",
+    "date": "~01.02.2025.",
+    "unit": "91 ОПТБ, РУБпАК «Вогняні Крила»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22948,
      48.83999
     ]
