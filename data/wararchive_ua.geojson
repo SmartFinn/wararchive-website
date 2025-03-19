@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.427554,
+     47.506922
+    ]
+   },
+   "properties": {
+    "post_id": 26561,
+    "post_date": "2025-03-19 13:02",
+    "date": "~17.03.2025",
+    "unit": "128 ОБрТрО «Дике Поле»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.07965,
+     51.1797
+    ]
+   },
+   "properties": {
+    "post_id": 26560,
+    "post_date": "2025-03-19 12:03",
+    "date": "~14.03.2025",
+    "unit": "47 ОМБр «Маґура», 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.99318,
      48.25952
     ]
