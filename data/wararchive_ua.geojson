@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.95778,
+     49.11094
+    ]
+   },
+   "properties": {
+    "post_id": 26582,
+    "post_date": "2025-03-19 20:01",
+    "date": "~17.03.2025",
+    "unit": "63 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.689005,
+     47.838853
+    ]
+   },
+   "properties": {
+    "post_id": 26581,
+    "post_date": "2025-03-19 19:31",
+    "date": "13.03.2025.",
+    "unit": "17 Бр «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.98763,
      49.058799
     ]
