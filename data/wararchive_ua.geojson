@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.677735,
+     49.520682
+    ]
+   },
+   "properties": {
+    "post_id": 26572,
+    "post_date": "2025-03-19 15:02",
+    "date": "12.2024",
+    "unit": "спецпідрозділ «‎Стугна» 🔰 ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.104785,
      48.228031
     ]
