@@ -86,6 +86,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.248013,
+     48.923631
+    ]
+   },
+   "properties": {
+    "post_id": 26534,
+    "post_date": "2025-03-18 14:06",
+    "date": "~14.03.2025",
+    "unit": "81 ОАеМБр, 🇺🇦 1 ОАеМБ,"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.106583,
      51.227
     ]
