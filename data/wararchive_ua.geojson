@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.85524,
+     48.58978
+    ]
+   },
+   "properties": {
+    "post_id": 26602,
+    "post_date": "2025-03-20 15:01",
+    "date": "03.2025",
+    "unit": "24 ОМБр та 🇺🇦 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.87189,
+     48.5731
+    ]
+   },
+   "properties": {
+    "post_id": 26602,
+    "post_date": "2025-03-20 15:01",
+    "date": "03.2025",
+    "unit": "24 ОМБр та 🇺🇦 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.697818,
+     49.895582
+    ]
+   },
+   "properties": {
+    "post_id": 26600,
+    "post_date": "2025-03-20 14:20",
+    "date": "~17.03.2025",
+    "unit": "5 Бр «Скіф»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.697811,
+     49.896001
+    ]
+   },
+   "properties": {
+    "post_id": 26600,
+    "post_date": "2025-03-20 14:20",
+    "date": "~17.03.2025",
+    "unit": "5 Бр «Скіф»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.698149,
+     49.896363
+    ]
+   },
+   "properties": {
+    "post_id": 26600,
+    "post_date": "2025-03-20 14:20",
+    "date": "~17.03.2025",
+    "unit": "5 Бр «Скіф»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.698724,
+     49.895724
+    ]
+   },
+   "properties": {
+    "post_id": 26600,
+    "post_date": "2025-03-20 14:20",
+    "date": "~17.03.2025",
+    "unit": "5 Бр «Скіф»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22385,
      48.84327
     ]
