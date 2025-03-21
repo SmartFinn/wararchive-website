@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.88394,
+     49.62449
+    ]
+   },
+   "properties": {
+    "post_id": 26637,
+    "post_date": "2025-03-21 20:00",
+    "date": "~19.03.2025",
+    "unit": "43 ОМБр та🇺🇦429 ОП БпС «Ахіллес»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.061141,
+     48.247547
+    ]
+   },
+   "properties": {
+    "post_id": 26636,
+    "post_date": "2025-03-21 19:06",
+    "date": "~18.03.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.406005,
      47.345401
     ]
