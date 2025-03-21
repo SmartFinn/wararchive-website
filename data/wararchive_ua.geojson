@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.57605,
+     50.88408
+    ]
+   },
+   "properties": {
+    "post_id": 26624,
+    "post_date": "2025-03-21 12:00",
+    "date": "20.03.2025",
+    "unit": "414 ОБрУБАС «Птахи Мадяра», «Klima-Team» та 🇺🇦 ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.64465,
+     50.90303
+    ]
+   },
+   "properties": {
+    "post_id": 26624,
+    "post_date": "2025-03-21 12:00",
+    "date": "20.03.2025",
+    "unit": "414 ОБрУБАС «Птахи Мадяра», «Klima-Team» та 🇺🇦 ССО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.140324,
      51.172859
     ]
