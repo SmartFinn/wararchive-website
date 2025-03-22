@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.143008,
+     48.224744
+    ]
+   },
+   "properties": {
+    "post_id": 26661,
+    "post_date": "2025-03-22 18:32",
+    "date": "~20.03.2025.",
+    "unit": "93 ОМБр, ББпС «Black Raven»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.616941,
      49.803605
     ]
