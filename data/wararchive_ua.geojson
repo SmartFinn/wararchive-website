@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.03673,
+     48.02135
+    ]
+   },
+   "properties": {
+    "post_id": 26663,
+    "post_date": "2025-03-22 19:34",
+    "date": "~20.03.2025.",
+    "unit": "33 ОМБр, БУАР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.400143,
+     50.879446
+    ]
+   },
+   "properties": {
+    "post_id": 26662,
+    "post_date": "2025-03-22 19:04",
+    "date": "~19.03.2025",
+    "unit": "33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.143008,
      48.224744
     ]
