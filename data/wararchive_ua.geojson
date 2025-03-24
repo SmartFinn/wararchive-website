@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83668,
+     48.39664
+    ]
+   },
+   "properties": {
+    "post_id": 26710,
+    "post_date": "2025-03-24 14:00",
+    "date": "03.2025",
+    "unit": "🇺🇦 МЛ ГУР МОУ,🇺🇦ТГр «Афіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85455,
+     48.39796
+    ]
+   },
+   "properties": {
+    "post_id": 26710,
+    "post_date": "2025-03-24 14:00",
+    "date": "03.2025",
+    "unit": "🇺🇦 МЛ ГУР МОУ,🇺🇦ТГр «Афіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.83916,
+     48.39693
+    ]
+   },
+   "properties": {
+    "post_id": 26710,
+    "post_date": "2025-03-24 14:00",
+    "date": "03.2025",
+    "unit": "🇺🇦 МЛ ГУР МОУ,🇺🇦ТГр «Афіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.508399,
      48.338427
     ]
