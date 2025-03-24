@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.145133,
+     48.222011
+    ]
+   },
+   "properties": {
+    "post_id": 26715,
+    "post_date": "2025-03-24 18:04",
+    "date": "02-03.2025",
+    "unit": "⚔️ 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.144222,
+     48.225105
+    ]
+   },
+   "properties": {
+    "post_id": 26715,
+    "post_date": "2025-03-24 18:04",
+    "date": "02-03.2025",
+    "unit": "⚔️ 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.138628,
+     48.224113
+    ]
+   },
+   "properties": {
+    "post_id": 26715,
+    "post_date": "2025-03-24 18:04",
+    "date": "02-03.2025",
+    "unit": "⚔️ 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.491094,
      50.851674
     ]
