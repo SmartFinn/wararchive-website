@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.23623,
+     48.81963
+    ]
+   },
+   "properties": {
+    "post_id": 26725,
+    "post_date": "2025-03-25 09:31",
+    "date": "10.01.2025",
+    "unit": "🇺🇦 4 БрОП «Рубіж»,🇺🇦4 БОП «Сила Свободи»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.23716,
+     48.80823
+    ]
+   },
+   "properties": {
+    "post_id": 26725,
+    "post_date": "2025-03-25 09:31",
+    "date": "10.01.2025",
+    "unit": "🇺🇦 4 БрОП «Рубіж»,🇺🇦4 БОП «Сила Свободи»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.55312,
+     47.104
+    ]
+   },
+   "properties": {
+    "post_id": 26724,
+    "post_date": "2025-03-25 09:03",
+    "date": "22.03.2022",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.35027,
      51.12783
     ]
