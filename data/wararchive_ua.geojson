@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.10225,
+     48.52191
+    ]
+   },
+   "properties": {
+    "post_id": 26740,
+    "post_date": "2025-03-25 15:31",
+    "date": "~24.03.2025",
+    "unit": "🇺🇦 14 ОП БпАК та 🇺🇦 ППБАС «Фенікс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.047705,
+     48.030167
+    ]
+   },
+   "properties": {
+    "post_id": 26739,
+    "post_date": "2025-03-25 15:03",
+    "date": "~22.03.2025",
+    "unit": "🇺🇦 46 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.06222,
      48.249884
     ]
