@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.275891,
+     51.281849
+    ]
+   },
+   "properties": {
+    "post_id": 26746,
+    "post_date": "2025-03-25 17:00",
+    "date": "~22.03.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.48788,
+     47.52809
+    ]
+   },
+   "properties": {
+    "post_id": 26745,
+    "post_date": "2025-03-25 16:39",
+    "date": "03.2025",
+    "unit": "🇺🇦 128 ОГШБр, ББС «Оріон»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.48045,
+     47.53773
+    ]
+   },
+   "properties": {
+    "post_id": 26745,
+    "post_date": "2025-03-25 16:39",
+    "date": "03.2025",
+    "unit": "🇺🇦 128 ОГШБр, ББС «Оріон»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.48841,
+     47.52779
+    ]
+   },
+   "properties": {
+    "post_id": 26745,
+    "post_date": "2025-03-25 16:39",
+    "date": "03.2025",
+    "unit": "🇺🇦 128 ОГШБр, ББС «Оріон»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.10225,
      48.52191
     ]
