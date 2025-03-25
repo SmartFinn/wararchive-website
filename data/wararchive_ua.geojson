@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.06222,
+     48.249884
+    ]
+   },
+   "properties": {
+    "post_id": 26737,
+    "post_date": "2025-03-25 14:02",
+    "date": "~22.03.2025",
+    "unit": "🇺🇦 25 ОПДБр, 🇺🇦 3 ПДБ, екіпаж «Pepsi»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.487696,
      47.527958
     ]
