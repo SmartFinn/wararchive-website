@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.81567,
+     48.37109
+    ]
+   },
+   "properties": {
+    "post_id": 26774,
+    "post_date": "2025-03-26 19:32",
+    "date": "03.2025",
+    "unit": "🔰12 БрСпП «Азов»,🇺🇦ТБ."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.88981,
      49.6279
     ]
