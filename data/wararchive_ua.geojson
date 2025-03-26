@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.88981,
+     49.6279
+    ]
+   },
+   "properties": {
+    "post_id": 26773,
+    "post_date": "2025-03-26 19:00",
+    "date": "~19.03.2025",
+    "unit": "🏹 112 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.88396,
+     49.62444
+    ]
+   },
+   "properties": {
+    "post_id": 26773,
+    "post_date": "2025-03-26 19:00",
+    "date": "~19.03.2025",
+    "unit": "🏹 112 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.9099,
+     49.63509
+    ]
+   },
+   "properties": {
+    "post_id": 26773,
+    "post_date": "2025-03-26 19:00",
+    "date": "~19.03.2025",
+    "unit": "🏹 112 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.122107,
+     48.19213
+    ]
+   },
+   "properties": {
+    "post_id": 26771,
+    "post_date": "2025-03-26 18:05",
+    "date": "~24.03.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.12183,
+     48.193301
+    ]
+   },
+   "properties": {
+    "post_id": 26771,
+    "post_date": "2025-03-26 18:05",
+    "date": "~24.03.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.02286,
      48.07368
     ]
