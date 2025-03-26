@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.5093,
+     49.98715
+    ]
+   },
+   "properties": {
+    "post_id": 26767,
+    "post_date": "2025-03-26 15:03",
+    "date": "25.03.2022",
+    "unit": "🐙 СП «KRAKEN»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.061254,
      48.247276
     ]
