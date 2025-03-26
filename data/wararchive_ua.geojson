@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.061254,
+     48.247276
+    ]
+   },
+   "properties": {
+    "post_id": 26766,
+    "post_date": "2025-03-26 14:00",
+    "date": "~22.03.2025",
+    "unit": "🇺🇦 3 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.857964,
      48.413673
     ]
