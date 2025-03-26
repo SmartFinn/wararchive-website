@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.55084,
+     47.09819
+    ]
+   },
+   "properties": {
+    "post_id": 26760,
+    "post_date": "2025-03-26 09:03",
+    "date": "03.2022",
+    "unit": "🇺🇦 НПУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82833,
+     48.59164
+    ]
+   },
+   "properties": {
+    "post_id": 26759,
+    "post_date": "2025-03-26 08:03",
+    "date": "03.2025",
+    "unit": "🇺🇦 4 ОЗСП «Омега», «Riddick's Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82807,
+     48.59179
+    ]
+   },
+   "properties": {
+    "post_id": 26759,
+    "post_date": "2025-03-26 08:03",
+    "date": "03.2025",
+    "unit": "🇺🇦 4 ОЗСП «Омега», «Riddick's Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82665,
+     48.59209
+    ]
+   },
+   "properties": {
+    "post_id": 26759,
+    "post_date": "2025-03-26 08:03",
+    "date": "03.2025",
+    "unit": "🇺🇦 4 ОЗСП «Омега», «Riddick's Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.82633,
+     48.59194
+    ]
+   },
+   "properties": {
+    "post_id": 26759,
+    "post_date": "2025-03-26 08:03",
+    "date": "03.2025",
+    "unit": "🇺🇦 4 ОЗСП «Омега», «Riddick's Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.85269,
      48.40061
     ]
