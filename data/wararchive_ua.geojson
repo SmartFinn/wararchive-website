@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.865,
+     49.14832
+    ]
+   },
+   "properties": {
+    "post_id": 26783,
+    "post_date": "2025-03-27 11:00",
+    "date": "~26.03.2025",
+    "unit": "🦁 60 ОМБр, 🔥 ББпС «VIDARR»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.65969,
      49.66106
     ]
