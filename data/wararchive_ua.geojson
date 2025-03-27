@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.01087,
+     48.23898
+    ]
+   },
+   "properties": {
+    "post_id": 26800,
+    "post_date": "2025-03-27 20:34",
+    "date": "03.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.04112,
+     48.21332
+    ]
+   },
+   "properties": {
+    "post_id": 26800,
+    "post_date": "2025-03-27 20:34",
+    "date": "03.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.0556,
      47.98477
     ]
