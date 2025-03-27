@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.42249,
+     47.5108
+    ]
+   },
+   "properties": {
+    "post_id": 26794,
+    "post_date": "2025-03-27 17:37",
+    "date": "26.03.2025",
+    "unit": "🇺🇦 422 ОБ БпС «LUFTWAFFE», 🦅 рота «LUFTWAFFE OLD» та 🇺🇦 128 ОГШБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.267756,
+     51.128466
+    ]
+   },
+   "properties": {
+    "post_id": 26789,
+    "post_date": "2025-03-27 17:04",
+    "date": "~20.03.2025",
+    "unit": "🇺🇦"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.271104,
      48.223266
     ]
