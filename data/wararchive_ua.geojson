@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.80622,
+     45.84475
+    ]
+   },
+   "properties": {
+    "post_id": 26811,
+    "post_date": "2025-03-28 12:01",
+    "date": "23.12.2024 - ~03.2025",
+    "unit": "🦉 СП «Prymary»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.79506,
+     45.54695
+    ]
+   },
+   "properties": {
+    "post_id": 26811,
+    "post_date": "2025-03-28 12:01",
+    "date": "23.12.2024 - ~03.2025",
+    "unit": "🦉 СП «Prymary»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4964,
+     45.346991
+    ]
+   },
+   "properties": {
+    "post_id": 26811,
+    "post_date": "2025-03-28 12:01",
+    "date": "23.12.2024 - ~03.2025",
+    "unit": "🦉 СП «Prymary»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.0617,
      48.05214
     ]
