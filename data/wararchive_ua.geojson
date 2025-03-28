@@ -7862,6 +7862,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.26753,
+     48.90797
+    ]
+   },
+   "properties": {
+    "post_id": 25772,
+    "post_date": "2025-02-18 19:11",
+    "date": "2024",
+    "unit": "81 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.33846,
      48.24258
     ]
@@ -8543,22 +8559,6 @@
     "post_date": "2025-02-15 13:01",
     "date": "~02.2025",
     "unit": "118 ОБрТрО, «Spear» (Group B)"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     37.3717,
-     48.15018
-    ]
-   },
-   "properties": {
-    "post_id": 25652,
-    "post_date": "2025-02-15 09:06",
-    "date": "09.2024",
-    "unit": "15 БрОП «Кара-Даг»"
    }
   },
   {
