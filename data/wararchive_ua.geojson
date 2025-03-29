@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.03316,
+     48.19007
+    ]
+   },
+   "properties": {
+    "post_id": 26847,
+    "post_date": "2025-03-29 19:34",
+    "date": "23.03.2025",
+    "unit": "🇺🇦 59 ОШБр БпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.8045,
+     46.66298
+    ]
+   },
+   "properties": {
+    "post_id": 26845,
+    "post_date": "2025-03-29 19:06",
+    "date": "~10.03.2025",
+    "unit": "🇺🇦 «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.03278,
      48.11827
     ]
