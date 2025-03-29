@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.03278,
+     48.11827
+    ]
+   },
+   "properties": {
+    "post_id": 26844,
+    "post_date": "2025-03-29 18:30",
+    "date": "27.03.2025",
+    "unit": "🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.03357,
+     48.11586
+    ]
+   },
+   "properties": {
+    "post_id": 26844,
+    "post_date": "2025-03-29 18:30",
+    "date": "27.03.2025",
+    "unit": "🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.23317,
      48.81055
     ]
