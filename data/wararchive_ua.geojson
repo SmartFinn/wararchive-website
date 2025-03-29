@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.94961,
+     49.5243
+    ]
+   },
+   "properties": {
+    "post_id": 26832,
+    "post_date": "2025-03-29 11:00",
+    "date": "~09-11.2022",
+    "unit": "🐙 СП «KRAKEN», 🇺🇦 «Special Assault Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.127676,
      48.225217
     ]
