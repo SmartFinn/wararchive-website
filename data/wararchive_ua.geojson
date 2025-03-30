@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.06184,
+     48.25987
+    ]
+   },
+   "properties": {
+    "post_id": 26875,
+    "post_date": "2025-03-30 18:33",
+    "date": "~27.03.2025",
+    "unit": "🇺🇦 3 ОП СпП, «ПоприВсе»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.023892,
      48.196779
     ]
