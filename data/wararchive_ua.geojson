@@ -6,6 +6,166 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.9888,
+     48.11567
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.994354,
+     48.118937
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.9864,
+     48.11707
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.93417,
+     48.12884
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.92749,
+     48.12697
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.97777,
+     48.11623
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.97635,
+     48.11622
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.97222,
+     48.0886
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.033,
+     48.11521
+    ]
+   },
+   "properties": {
+    "post_id": 26861,
+    "post_date": "2025-03-30 12:00",
+    "date": "27.03.2025.",
+    "unit": "🇺🇦 «Shadow», 🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.085946,
+     48.588251
+    ]
+   },
+   "properties": {
+    "post_id": 26860,
+    "post_date": "2025-03-30 11:04",
+    "date": "~14.10.2022",
+    "unit": "🇺🇦 93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.041175,
      48.002323
     ]
