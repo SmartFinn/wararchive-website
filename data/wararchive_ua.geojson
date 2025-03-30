@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.88064,
+     48.54224
+    ]
+   },
+   "properties": {
+    "post_id": 26868,
+    "post_date": "2025-03-30 16:02",
+    "date": "~27.03.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «PHOENIX» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.8026,
+     46.652724
+    ]
+   },
+   "properties": {
+    "post_id": 26865,
+    "post_date": "2025-03-30 15:03",
+    "date": "~03.03.2025",
+    "unit": "🇺🇦 «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.00541,
      48.73743
     ]
