@@ -278,6 +278,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.838399,
+     47.85607
+    ]
+   },
+   "properties": {
+    "post_id": 26818,
+    "post_date": "2025-03-28 16:04",
+    "date": "~03.2025",
+    "unit": "🇺🇦 419 ОББпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.141073,
      51.18055
     ]
