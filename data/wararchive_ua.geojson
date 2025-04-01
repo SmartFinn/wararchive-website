@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.94431,
+     50.30404
+    ]
+   },
+   "properties": {
+    "post_id": 26947,
+    "post_date": "2025-04-01 18:38",
+    "date": "~03.2025",
+    "unit": "🇺🇦 82 ОДШБр, РУБпАК «Wild Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.235919,
      48.887027
     ]
