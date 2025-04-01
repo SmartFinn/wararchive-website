@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.28624,
+     47.795334
+    ]
+   },
+   "properties": {
+    "post_id": 26917,
+    "post_date": "2025-04-01 10:01",
+    "date": "28.03.2025",
+    "unit": "🇺🇦 413 ОББС «РЕЙД»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.33408,
      47.578576
     ]
