@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.35657,
+     51.1037
+    ]
+   },
+   "properties": {
+    "post_id": 26937,
+    "post_date": "2025-04-01 15:02",
+    "date": "~29.03.2025",
+    "unit": "🇺🇦 129 ОБрТрО,🇺🇦РУБпАК «RUGBY TEAM»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.817999,
+     46.638839
+    ]
+   },
+   "properties": {
+    "post_id": 26935,
+    "post_date": "2025-04-01 14:31",
+    "date": "~01.03.2025",
+    "unit": "⚔️ 118 ОМБр, «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.262958,
      51.215785
     ]
