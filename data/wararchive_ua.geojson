@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.833333,
+     46.649756
+    ]
+   },
+   "properties": {
+    "post_id": 26966,
+    "post_date": "2025-04-02 12:01",
+    "date": "~22.02.2025",
+    "unit": "⚔️ 118 ОМБр, «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.73101,
+     47.89769
+    ]
+   },
+   "properties": {
+    "post_id": 26965,
+    "post_date": "2025-04-02 11:33",
+    "date": "~30.03.2025",
+    "unit": "ПО БПЛА «SICARIO»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.223181,
+     48.856502
+    ]
+   },
+   "properties": {
+    "post_id": 26964,
+    "post_date": "2025-04-02 11:03",
+    "date": "~30.03.2025",
+    "unit": "🇺🇦 54 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.1974,
      45.4478
     ]
