@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.4654,
+     47.54009
+    ]
+   },
+   "properties": {
+    "post_id": 26959,
+    "post_date": "2025-04-02 08:30",
+    "date": "~29.03.2025",
+    "unit": "🇺🇦 128 ОГШБр, ББС «Оріон»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.23445,
      50.53268
     ]
