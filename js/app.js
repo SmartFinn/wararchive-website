@@ -5,14 +5,16 @@ import coordsPopupContent from "./coordsPopup.js";
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}{r}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
     minZoom: 3,
-    maxZoom: 18
+    maxZoom: 20,
+    maxNativeZoom: 18,
+    ext: 'png'
 });
 
 const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://carto.com/about-carto/">CARTO</a>',
     subdomains: 'abcd',
     minZoom: 0,
-    maxZoom: 18,
+    maxZoom: 20,
     ext: 'png'
 });
 
