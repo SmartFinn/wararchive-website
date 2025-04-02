@@ -38,6 +38,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.963443,
+     50.295932
+    ]
+   },
+   "properties": {
+    "post_id": 26947,
+    "post_date": "2025-04-01 18:38",
+    "date": "~03.2025",
+    "unit": "🇺🇦 82 ОДШБр, РУБпАК «Wild Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.235919,
      48.887027
     ]
@@ -143,6 +159,22 @@
     "post_date": "2025-04-01 14:31",
     "date": "~01.03.2025",
     "unit": "⚔️ 118 ОМБр, «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.669247,
+     48.084608
+    ]
+   },
+   "properties": {
+    "post_id": 26924,
+    "post_date": "2025-04-01 13:00",
+    "date": null,
+    "unit": null
    }
   },
   {
