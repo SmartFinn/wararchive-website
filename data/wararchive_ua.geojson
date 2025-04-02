@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.729167,
+     47.832063
+    ]
+   },
+   "properties": {
+    "post_id": 26976,
+    "post_date": "2025-04-02 17:02",
+    "date": "~31.03.2025",
+    "unit": "🇺🇦 ОПБр, 3 МБ та 🇺🇦 31 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.96858,
+     48.11609
+    ]
+   },
+   "properties": {
+    "post_id": 26975,
+    "post_date": "2025-04-02 16:32",
+    "date": "31.03.2025",
+    "unit": "🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.96845,
+     48.090759
+    ]
+   },
+   "properties": {
+    "post_id": 26975,
+    "post_date": "2025-04-02 16:32",
+    "date": "31.03.2025",
+    "unit": "🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.969165,
+     48.09034
+    ]
+   },
+   "properties": {
+    "post_id": 26975,
+    "post_date": "2025-04-02 16:32",
+    "date": "31.03.2025",
+    "unit": "🇺🇦 72 ОМБр, 🇺🇦 ББпС «БУЛАВА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.065881,
      51.305052
     ]
