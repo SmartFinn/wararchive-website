@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.1974,
+     45.4478
+    ]
+   },
+   "properties": {
+    "post_id": 26962,
+    "post_date": "2025-04-02 10:00",
+    "date": "~03.2025",
+    "unit": "🦉 СП «Prymary»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.43773,
+     47.80269
+    ]
+   },
+   "properties": {
+    "post_id": 26961,
+    "post_date": "2025-04-02 09:35",
+    "date": "~02.2024",
+    "unit": "🪇 ПО БПЛА «SICARIO» та 🇺🇦 72 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.4654,
      47.54009
     ]
