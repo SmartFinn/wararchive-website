@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     30.065881,
+     51.305052
+    ]
+   },
+   "properties": {
+    "post_id": 26974,
+    "post_date": "2025-04-02 16:00",
+    "date": "~02-06.2022",
+    "unit": "🐺8 ОП СпП,🇺🇦«Lucas Squad Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.211268,
+     50.592801
+    ]
+   },
+   "properties": {
+    "post_id": 26974,
+    "post_date": "2025-04-02 16:00",
+    "date": "~02-06.2022",
+    "unit": "🐺8 ОП СпП,🇺🇦«Lucas Squad Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.7176,
+     46.625447
+    ]
+   },
+   "properties": {
+    "post_id": 26972,
+    "post_date": "2025-04-02 15:03",
+    "date": "01.04.2025",
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.716,
+     46.625313
+    ]
+   },
+   "properties": {
+    "post_id": 26972,
+    "post_date": "2025-04-02 15:03",
+    "date": "01.04.2025",
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.049905,
      48.137483
     ]
