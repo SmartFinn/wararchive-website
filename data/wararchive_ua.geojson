@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.809192,
+     49.779221
+    ]
+   },
+   "properties": {
+    "post_id": 26984,
+    "post_date": "2025-04-02 18:30",
+    "date": "~29.03.2025",
+    "unit": "🇺🇦429 ОП БпС «Ахіллес»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.809028,
+     49.779138
+    ]
+   },
+   "properties": {
+    "post_id": 26984,
+    "post_date": "2025-04-02 18:30",
+    "date": "~29.03.2025",
+    "unit": "🇺🇦429 ОП БпС «Ахіллес»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.794694,
+     49.843791
+    ]
+   },
+   "properties": {
+    "post_id": 26984,
+    "post_date": "2025-04-02 18:30",
+    "date": "~29.03.2025",
+    "unit": "🇺🇦429 ОП БпС «Ахіллес»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.80091,
      47.88899
     ]
