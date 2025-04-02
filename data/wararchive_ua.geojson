@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.80091,
+     47.88899
+    ]
+   },
+   "properties": {
+    "post_id": 26983,
+    "post_date": "2025-04-02 18:01",
+    "date": "~29.03.2025",
+    "unit": "⚔️ 110 ОМБр, 🇺🇦 ББС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.729167,
      47.832063
     ]
