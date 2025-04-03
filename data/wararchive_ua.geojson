@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.13971,
+     48.19025
+    ]
+   },
+   "properties": {
+    "post_id": 27003,
+    "post_date": "2025-04-03 13:02",
+    "date": "~01.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.884384,
+     48.529843
+    ]
+   },
+   "properties": {
+    "post_id": 27002,
+    "post_date": "2025-04-03 12:32",
+    "date": "~02.2023",
+    "unit": "🔰3 ОШБр,🇺🇦1 ШБ, СП «HATRED» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.882876,
+     48.530887
+    ]
+   },
+   "properties": {
+    "post_id": 27002,
+    "post_date": "2025-04-03 12:32",
+    "date": "~02.2023",
+    "unit": "🔰3 ОШБр,🇺🇦1 ШБ, СП «HATRED» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.88246,
      48.39919
     ]
