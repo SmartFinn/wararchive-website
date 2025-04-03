@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.998965,
+     48.240764
+    ]
+   },
+   "properties": {
+    "post_id": 26991,
+    "post_date": "2025-04-03 07:00",
+    "date": "~31.03.2025",
+    "unit": "🇺🇦 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.135999,
+     48.191082
+    ]
+   },
+   "properties": {
+    "post_id": 26990,
+    "post_date": "2025-04-03 06:35",
+    "date": "~01.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.22277,
      48.04373
     ]
