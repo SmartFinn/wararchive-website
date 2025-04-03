@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.809333,
+     46.636901
+    ]
+   },
+   "properties": {
+    "post_id": 27018,
+    "post_date": "2025-04-03 18:02",
+    "date": "~19.02.2025",
+    "unit": "⚔️ 118 ОМБр, «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.808555,
+     46.636349
+    ]
+   },
+   "properties": {
+    "post_id": 27018,
+    "post_date": "2025-04-03 18:02",
+    "date": "~19.02.2025",
+    "unit": "⚔️ 118 ОМБр, «Списи Одіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.930598,
+     49.373496
+    ]
+   },
+   "properties": {
+    "post_id": 27017,
+    "post_date": "2025-04-03 17:30",
+    "date": "~21.03.2025",
+    "unit": "3 АК,🔰3 ОШБр,🇺🇦1 ШБ,🇺🇦2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.927875,
+     49.372364
+    ]
+   },
+   "properties": {
+    "post_id": 27017,
+    "post_date": "2025-04-03 17:30",
+    "date": "~21.03.2025",
+    "unit": "3 АК,🔰3 ОШБр,🇺🇦1 ШБ,🇺🇦2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.928821,
+     49.373086
+    ]
+   },
+   "properties": {
+    "post_id": 27017,
+    "post_date": "2025-04-03 17:30",
+    "date": "~21.03.2025",
+    "unit": "3 АК,🔰3 ОШБр,🇺🇦1 ШБ,🇺🇦2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.934529,
+     49.374383
+    ]
+   },
+   "properties": {
+    "post_id": 27017,
+    "post_date": "2025-04-03 17:30",
+    "date": "~21.03.2025",
+    "unit": "3 АК,🔰3 ОШБр,🇺🇦1 ШБ,🇺🇦2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.931856,
+     49.37329
+    ]
+   },
+   "properties": {
+    "post_id": 27017,
+    "post_date": "2025-04-03 17:30",
+    "date": "~21.03.2025",
+    "unit": "3 АК,🔰3 ОШБр,🇺🇦1 ШБ,🇺🇦2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93798,
      50.2933
     ]
