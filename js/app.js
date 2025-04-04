@@ -13,7 +13,7 @@ const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/s
 const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://carto.com/about-carto/">CARTO</a>',
     subdomains: 'abcd',
-    minZoom: 0,
+    minZoom: 3,
     maxZoom: 20,
     ext: 'png'
 });
