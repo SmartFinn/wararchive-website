@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.9248,
+     46.555256
+    ]
+   },
+   "properties": {
+    "post_id": 27035,
+    "post_date": "2025-04-04 11:55",
+    "date": "~01.04.2025",
+    "unit": "ВП РФ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22432,
      48.76059
     ]
