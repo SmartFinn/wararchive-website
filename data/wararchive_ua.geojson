@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.22432,
+     48.76059
+    ]
+   },
+   "properties": {
+    "post_id": 27028,
+    "post_date": "2025-04-04 08:04",
+    "date": "~03.2024",
+    "unit": "🇺🇦 10 ОГШБр «Едельвейс» (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.62811,
      48.11572
     ]
