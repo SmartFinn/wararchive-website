@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     40.64601,
+     51.12172
+    ]
+   },
+   "properties": {
+    "post_id": 27051,
+    "post_date": "2025-04-04 20:03",
+    "date": "24.06.2023",
+    "unit": "ПВК «Вагнер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.848739,
      48.357481
     ]
@@ -174,7 +190,7 @@
     "post_id": 27035,
     "post_date": "2025-04-04 11:55",
     "date": "~01.04.2025",
-    "unit": "ВП РФ"
+    "unit": "?"
    }
   },
   {
