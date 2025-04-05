@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.96941,
+     48.50108
+    ]
+   },
+   "properties": {
+    "post_id": 27074,
+    "post_date": "2025-04-05 12:00",
+    "date": "~13-15.09.2023",
+    "unit": "👍Полк Калиновського, ПБ «Волат» та🔰3 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.997966,
+     49.038377
+    ]
+   },
+   "properties": {
+    "post_id": 27072,
+    "post_date": "2025-04-05 11:30",
+    "date": "~03.04.2025",
+    "unit": "🇺🇦 63 ОМБр, 106 МБ, ББС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.34542,
      47.53254
     ]
