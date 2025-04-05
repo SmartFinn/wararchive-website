@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.34542,
+     47.53254
+    ]
+   },
+   "properties": {
+    "post_id": 27070,
+    "post_date": "2025-04-05 10:59",
+    "date": "~02.2025",
+    "unit": "🐙 СП «KRAKEN», 🇺🇦 «SPARTA UA»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.76403,
+     50.41638
+    ]
+   },
+   "properties": {
+    "post_id": 27067,
+    "post_date": "2025-04-05 10:30",
+    "date": "01.03.2022",
+    "unit": "🇺🇦 8 ОП СпП, 🐺 «UA_REG»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.037117,
      48.715039
     ]
