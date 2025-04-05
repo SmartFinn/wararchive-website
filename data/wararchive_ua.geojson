@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83339,
+     49.97494
+    ]
+   },
+   "properties": {
+    "post_id": 27094,
+    "post_date": "2025-04-05 19:34",
+    "date": "~03.04.2025.",
+    "unit": "🇺🇦ОП БпС «Фенікс» ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.961929,
      48.528938
     ]
