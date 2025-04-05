@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.262056,
+     51.09529
+    ]
+   },
+   "properties": {
+    "post_id": 27077,
+    "post_date": "2025-04-05 14:02",
+    "date": "~02.04.2025",
+    "unit": "🇺🇦"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.261887,
+     51.094116
+    ]
+   },
+   "properties": {
+    "post_id": 27077,
+    "post_date": "2025-04-05 14:02",
+    "date": "~02.04.2025",
+    "unit": "🇺🇦"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.041665,
+     48.213366
+    ]
+   },
+   "properties": {
+    "post_id": 27076,
+    "post_date": "2025-04-05 13:10",
+    "date": "~03.04.2025",
+    "unit": "🇺🇦 2 ОЗСП «Омега», 🇺🇦 «Гострі Картузи»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.96941,
      48.50108
     ]
