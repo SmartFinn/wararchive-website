@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.71356,
+     49.56673
+    ]
+   },
+   "properties": {
+    "post_id": 27147,
+    "post_date": "2025-04-07 18:31",
+    "date": "31.03.-06.04.2025.",
+    "unit": "🇺🇦1 БрОП «Буревій»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.824662,
+     47.446411
+    ]
+   },
+   "properties": {
+    "post_id": 27145,
+    "post_date": "2025-04-07 18:08",
+    "date": "~04.04.2025",
+    "unit": "⚔️ 65 ОМБр «Великий Луг»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.874583,
      49.641762
     ]
