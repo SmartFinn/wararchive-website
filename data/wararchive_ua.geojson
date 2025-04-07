@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.016611,
+     48.19694
+    ]
+   },
+   "properties": {
+    "post_id": 27129,
+    "post_date": "2025-04-07 08:01",
+    "date": "04.04.2025",
+    "unit": "🇺🇦 9 ОБрБпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.876391,
      49.671346
     ]
