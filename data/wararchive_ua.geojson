@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.395128,
+     50.946925
+    ]
+   },
+   "properties": {
+    "post_id": 27134,
+    "post_date": "2025-04-07 13:00",
+    "date": "~07.04.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.358301,
+     50.954193
+    ]
+   },
+   "properties": {
+    "post_id": 27134,
+    "post_date": "2025-04-07 13:00",
+    "date": "~07.04.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.394473,
+     50.945869
+    ]
+   },
+   "properties": {
+    "post_id": 27134,
+    "post_date": "2025-04-07 13:00",
+    "date": "~07.04.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.35774,
+     50.95255
+    ]
+   },
+   "properties": {
+    "post_id": 27134,
+    "post_date": "2025-04-07 13:00",
+    "date": "~07.04.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🦉 ББС «СТРІКС»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.919574,
      48.506633
     ]
