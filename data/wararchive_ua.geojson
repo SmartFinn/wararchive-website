@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.876391,
+     49.671346
+    ]
+   },
+   "properties": {
+    "post_id": 27125,
+    "post_date": "2025-04-07 07:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.870726,
+     49.67043
+    ]
+   },
+   "properties": {
+    "post_id": 27125,
+    "post_date": "2025-04-07 07:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.876702,
+     49.677338
+    ]
+   },
+   "properties": {
+    "post_id": 27125,
+    "post_date": "2025-04-07 07:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.873231,
+     49.671245
+    ]
+   },
+   "properties": {
+    "post_id": 27125,
+    "post_date": "2025-04-07 07:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8738,
+     49.671245
+    ]
+   },
+   "properties": {
+    "post_id": 27125,
+    "post_date": "2025-04-07 07:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦РУГ «ГОРА» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.235855,
      48.863091
     ]
