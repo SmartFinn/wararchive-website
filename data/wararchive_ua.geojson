@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.640571,
+     47.106617
+    ]
+   },
+   "properties": {
+    "post_id": 27154,
+    "post_date": "2025-04-08 08:03",
+    "date": "~04.2022",
+    "unit": "«Ахмат»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.964437,
      49.118781
     ]
