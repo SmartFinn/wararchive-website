@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.39177,
+     50.946099
+    ]
+   },
+   "properties": {
+    "post_id": 27189,
+    "post_date": "2025-04-09 19:02",
+    "date": "~05.04.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.388835,
+     50.942352
+    ]
+   },
+   "properties": {
+    "post_id": 27189,
+    "post_date": "2025-04-09 19:02",
+    "date": "~05.04.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.395189,
+     50.946947
+    ]
+   },
+   "properties": {
+    "post_id": 27189,
+    "post_date": "2025-04-09 19:02",
+    "date": "~05.04.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.393651,
+     50.947757
+    ]
+   },
+   "properties": {
+    "post_id": 27189,
+    "post_date": "2025-04-09 19:02",
+    "date": "~05.04.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.243937,
+     52.36988
+    ]
+   },
+   "properties": {
+    "post_id": 27188,
+    "post_date": "2025-04-09 18:04",
+    "date": "~06.04.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.840353,
      48.398128
     ]
