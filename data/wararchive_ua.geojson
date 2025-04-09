@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.840353,
+     48.398128
+    ]
+   },
+   "properties": {
+    "post_id": 27185,
+    "post_date": "2025-04-09 16:00",
+    "date": "~11-12.2024",
+    "unit": "🇺🇦 ТГ «Реванш», «Advanced Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.300061,
      48.156022
     ]
