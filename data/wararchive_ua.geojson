@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.085381,
+     51.177473
+    ]
+   },
+   "properties": {
+    "post_id": 27206,
+    "post_date": "2025-04-10 11:01",
+    "date": "~08-09.04.2025",
+    "unit": "3️⃣ 36 ОБрМП, ББС «ВАРТОВІ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.860225,
      47.886982
     ]
