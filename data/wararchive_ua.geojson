@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.83641,
+     48.585288
+    ]
+   },
+   "properties": {
+    "post_id": 27214,
+    "post_date": "2025-04-10 18:02",
+    "date": "04.2025",
+    "unit": "⚔️ 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.143652,
+     48.225144
+    ]
+   },
+   "properties": {
+    "post_id": 27213,
+    "post_date": "2025-04-10 17:03",
+    "date": "~03.2025",
+    "unit": "🔥 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.142243,
+     48.222555
+    ]
+   },
+   "properties": {
+    "post_id": 27213,
+    "post_date": "2025-04-10 17:03",
+    "date": "~03.2025",
+    "unit": "🔥 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.805628,
      48.420598
     ]
