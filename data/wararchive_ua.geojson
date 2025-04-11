@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.03216,
+     51.320151
+    ]
+   },
+   "properties": {
+    "post_id": 27228,
+    "post_date": "2025-04-11 13:05",
+    "date": "~12-14.08.2024",
+    "unit": "🪖 2 ІЛОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.851108,
      48.911701
     ]
