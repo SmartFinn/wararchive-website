@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.716748,
+     47.862528
+    ]
+   },
+   "properties": {
+    "post_id": 27300,
+    "post_date": "2025-04-13 18:34",
+    "date": "~11.04.2025",
+    "unit": "🐎 110 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.990446,
+     48.474095
+    ]
+   },
+   "properties": {
+    "post_id": 27299,
+    "post_date": "2025-04-13 18:05",
+    "date": "~07.2024",
+    "unit": "🇺🇦 28 ОМБр, «Гюрза»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.842622,
      49.499796
     ]
