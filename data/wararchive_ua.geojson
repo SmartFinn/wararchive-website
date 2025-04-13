@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.021608,
+     50.335984
+    ]
+   },
+   "properties": {
+    "post_id": 27301,
+    "post_date": "2025-04-13 19:05",
+    "date": "13.04.2025",
+    "unit": "🇺🇦 ДПСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.716748,
      47.862528
     ]
