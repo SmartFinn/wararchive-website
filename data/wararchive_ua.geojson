@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.842622,
+     49.499796
+    ]
+   },
+   "properties": {
+    "post_id": 27298,
+    "post_date": "2025-04-13 17:37",
+    "date": "~11.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.823825,
+     49.497009
+    ]
+   },
+   "properties": {
+    "post_id": 27298,
+    "post_date": "2025-04-13 17:37",
+    "date": "~11.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.807775,
+     49.511222
+    ]
+   },
+   "properties": {
+    "post_id": 27298,
+    "post_date": "2025-04-13 17:37",
+    "date": "~11.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.21999,
+     51.17423
+    ]
+   },
+   "properties": {
+    "post_id": 27297,
+    "post_date": "2025-04-13 17:03",
+    "date": "~02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.842047,
      48.39815
     ]
