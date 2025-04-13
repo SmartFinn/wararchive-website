@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.542987,
+     47.09709
+    ]
+   },
+   "properties": {
+    "post_id": 27279,
+    "post_date": "2025-04-13 07:01",
+    "date": "03.2022",
+    "unit": "🇺🇦 НПУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.99271,
      48.077638
     ]
