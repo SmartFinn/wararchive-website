@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.248365,
+     48.896218
+    ]
+   },
+   "properties": {
+    "post_id": 27313,
+    "post_date": "2025-04-14 11:01",
+    "date": "~12.04.2025",
+    "unit": "🇺🇦 81 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.731887,
+     47.884319
+    ]
+   },
+   "properties": {
+    "post_id": 27312,
+    "post_date": "2025-04-14 10:17",
+    "date": "~13.04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.793773,
      48.375331
     ]
