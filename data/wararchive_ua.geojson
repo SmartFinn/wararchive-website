@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.856105,
+     48.40793
+    ]
+   },
+   "properties": {
+    "post_id": 27309,
+    "post_date": "2025-04-14 07:01",
+    "date": "~01.2025",
+    "unit": "🇺🇦 28 ОМБр, ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.021608,
      50.335984
     ]
