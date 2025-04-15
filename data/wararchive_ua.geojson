@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.508502,
+     47.528975
+    ]
+   },
+   "properties": {
+    "post_id": 27344,
+    "post_date": "2025-04-15 15:00",
+    "date": "~10.04.2025",
+    "unit": "👍 Полк Калиновського"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.04909,
      48.2612
     ]
