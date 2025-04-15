@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.04909,
+     48.2612
+    ]
+   },
+   "properties": {
+    "post_id": 27340,
+    "post_date": "2025-04-15 11:30",
+    "date": "~11.04.2025",
+    "unit": "💣 47 ОАБр, 4 АДн, «Соколи Фокса»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.04293,
      48.20388
     ]
