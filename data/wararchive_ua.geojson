@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.872647,
+     48.545477
+    ]
+   },
+   "properties": {
+    "post_id": 27356,
+    "post_date": "2025-04-15 19:31",
+    "date": "~14.05.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «PHOENIX» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.114826,
+     48.232681
+    ]
+   },
+   "properties": {
+    "post_id": 27355,
+    "post_date": "2025-04-15 19:03",
+    "date": "04.2025",
+    "unit": "🇺🇦 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.880505,
      48.543106
     ]
