@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.880505,
+     48.543106
+    ]
+   },
+   "properties": {
+    "post_id": 27350,
+    "post_date": "2025-04-15 18:00",
+    "date": "12.04.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «PHOENIX» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.918845,
+     48.560015
+    ]
+   },
+   "properties": {
+    "post_id": 27350,
+    "post_date": "2025-04-15 18:00",
+    "date": "12.04.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «PHOENIX» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.889963,
+     48.541
+    ]
+   },
+   "properties": {
+    "post_id": 27350,
+    "post_date": "2025-04-15 18:00",
+    "date": "12.04.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «PHOENIX» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.564603,
+     51.011954
+    ]
+   },
+   "properties": {
+    "post_id": 27348,
+    "post_date": "2025-04-15 17:03",
+    "date": "~10.04.2025",
+    "unit": "🇺🇦 413 ОББС «РЕЙД» та 🇺🇦 78 ОДШП, ЗЗБпС «Джміль»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.408992,
      50.929878
     ]
