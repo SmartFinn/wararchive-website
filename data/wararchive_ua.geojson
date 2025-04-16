@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.942027,
+     50.291324
+    ]
+   },
+   "properties": {
+    "post_id": 27373,
+    "post_date": "2025-04-16 16:35",
+    "date": "~09.2024",
+    "unit": "🇺🇦 ЗСП «Paragon Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.770983,
      47.817809
     ]
