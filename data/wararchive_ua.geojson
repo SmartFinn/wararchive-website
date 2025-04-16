@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.837263,
+     48.379559
+    ]
+   },
+   "properties": {
+    "post_id": 27369,
+    "post_date": "2025-04-16 14:30",
+    "date": "~20.10.2024",
+    "unit": "🇺🇦12 БрСпП «Азов», РРСП, ЗРСП «PIRATES»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.281223,
      51.191072
     ]
