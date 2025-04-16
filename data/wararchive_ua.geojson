@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.770983,
+     47.817809
+    ]
+   },
+   "properties": {
+    "post_id": 27372,
+    "post_date": "2025-04-16 16:00",
+    "date": "13.04.2025",
+    "unit": "🇺🇦17 Бр «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.73532,
+     47.841902
+    ]
+   },
+   "properties": {
+    "post_id": 27372,
+    "post_date": "2025-04-16 16:00",
+    "date": "13.04.2025",
+    "unit": "🇺🇦17 Бр «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.768837,
+     47.836882
+    ]
+   },
+   "properties": {
+    "post_id": 27372,
+    "post_date": "2025-04-16 16:00",
+    "date": "13.04.2025",
+    "unit": "🇺🇦17 Бр «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.841544,
+     48.397172
+    ]
+   },
+   "properties": {
+    "post_id": 27371,
+    "post_date": "2025-04-16 15:32",
+    "date": "~12.04.2025",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.840304,
+     48.399805
+    ]
+   },
+   "properties": {
+    "post_id": 27371,
+    "post_date": "2025-04-16 15:32",
+    "date": "~12.04.2025",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.837263,
      48.379559
     ]
