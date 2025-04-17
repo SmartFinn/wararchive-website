@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.818361,
+     47.46957
+    ]
+   },
+   "properties": {
+    "post_id": 27389,
+    "post_date": "2025-04-17 14:30",
+    "date": "16.04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.936359,
+     47.523169
+    ]
+   },
+   "properties": {
+    "post_id": 27389,
+    "post_date": "2025-04-17 14:30",
+    "date": "16.04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.306839,
+     48.146381
+    ]
+   },
+   "properties": {
+    "post_id": 27388,
+    "post_date": "2025-04-17 14:05",
+    "date": "~14.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.244032,
      52.369817
     ]
