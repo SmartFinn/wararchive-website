@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.417919,
+     50.99206
+    ]
+   },
+   "properties": {
+    "post_id": 27405,
+    "post_date": "2025-04-18 11:01",
+    "date": "~04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.00657,
+     48.14363
+    ]
+   },
+   "properties": {
+    "post_id": 27404,
+    "post_date": "2025-04-18 10:03",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, 🇺🇦 108 ОШБ «Вовки Да Вінчі»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.938288,
      50.296283
     ]
