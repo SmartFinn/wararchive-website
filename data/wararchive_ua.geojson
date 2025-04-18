@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.568157,
+     49.784264
+    ]
+   },
+   "properties": {
+    "post_id": 27412,
+    "post_date": "2025-04-18 16:30",
+    "date": "~13.04.2025",
+    "unit": "🇺🇦 15 БрОП «Кара-Даг», 3 БОП, ВРСП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.936561,
      49.611947
     ]
