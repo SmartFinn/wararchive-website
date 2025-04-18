@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.936561,
+     49.611947
+    ]
+   },
+   "properties": {
+    "post_id": 27410,
+    "post_date": "2025-04-18 15:02",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.932794,
+     49.61187
+    ]
+   },
+   "properties": {
+    "post_id": 27410,
+    "post_date": "2025-04-18 15:02",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.808934,
+     49.487504
+    ]
+   },
+   "properties": {
+    "post_id": 27410,
+    "post_date": "2025-04-18 15:02",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 77 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.483626,
+     48.316818
+    ]
+   },
+   "properties": {
+    "post_id": 27409,
+    "post_date": "2025-04-18 14:33",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.484276,
+     48.314544
+    ]
+   },
+   "properties": {
+    "post_id": 27409,
+    "post_date": "2025-04-18 14:33",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.532185,
+     48.312716
+    ]
+   },
+   "properties": {
+    "post_id": 27409,
+    "post_date": "2025-04-18 14:33",
+    "date": "~15.04.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.197083,
      51.112323
     ]
