@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.061799,
+     48.26007
+    ]
+   },
+   "properties": {
+    "post_id": 27434,
+    "post_date": "2025-04-19 14:30",
+    "date": "04.2025",
+    "unit": "🇺🇦 3 ОП СпП "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.7679,
+     46.633579
+    ]
+   },
+   "properties": {
+    "post_id": 27431,
+    "post_date": "2025-04-19 14:08",
+    "date": "04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.7677,
+     46.636351
+    ]
+   },
+   "properties": {
+    "post_id": 27431,
+    "post_date": "2025-04-19 14:08",
+    "date": "04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.519,
      46.524137
     ]
