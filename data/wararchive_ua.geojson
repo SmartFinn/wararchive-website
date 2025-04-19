@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.184843,
+     49.032804
+    ]
+   },
+   "properties": {
+    "post_id": 27428,
+    "post_date": "2025-04-19 12:00",
+    "date": "~16.04.2025",
+    "unit": "🇺🇦 53 ОМБр,🇺🇦ББпС «SIGNUM»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.739017,
+     48.139821
+    ]
+   },
+   "properties": {
+    "post_id": 27427,
+    "post_date": "2025-04-19 11:22",
+    "date": "~14.04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.013737,
      48.248767
     ]
