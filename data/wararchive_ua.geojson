@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.519,
+     46.524137
+    ]
+   },
+   "properties": {
+    "post_id": 27429,
+    "post_date": "2025-04-19 13:00",
+    "date": "~04.2025",
+    "unit": "🦉 ГУР МОУ, 🇺🇦 РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5089,
+     46.526439
+    ]
+   },
+   "properties": {
+    "post_id": 27429,
+    "post_date": "2025-04-19 13:00",
+    "date": "~04.2025",
+    "unit": "🦉 ГУР МОУ, 🇺🇦 РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5052,
+     46.522814
+    ]
+   },
+   "properties": {
+    "post_id": 27429,
+    "post_date": "2025-04-19 13:00",
+    "date": "~04.2025",
+    "unit": "🦉 ГУР МОУ, 🇺🇦 РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5031,
+     46.520454
+    ]
+   },
+   "properties": {
+    "post_id": 27429,
+    "post_date": "2025-04-19 13:00",
+    "date": "~04.2025",
+    "unit": "🦉 ГУР МОУ, 🇺🇦 РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.184843,
      49.032804
     ]
