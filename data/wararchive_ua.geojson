@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.013737,
+     48.248767
+    ]
+   },
+   "properties": {
+    "post_id": 27426,
+    "post_date": "2025-04-19 10:34",
+    "date": "~01-02.04.2025",
+    "unit": "⚔️ 152 ОЄБр, ББС, «Асмодей»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.431045,
      50.258649
     ]
