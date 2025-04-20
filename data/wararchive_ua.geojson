@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.168395,
+     51.153778
+    ]
+   },
+   "properties": {
+    "post_id": 27468,
+    "post_date": "2025-04-20 10:03",
+    "date": "~14-18.04.2025",
+    "unit": "🇺🇦 80 ОДШБр, РУБпАК «Китайці»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.797016,
      49.451046
     ]
