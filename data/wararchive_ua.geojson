@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.982276,
+     48.592768
+    ]
+   },
+   "properties": {
+    "post_id": 27471,
+    "post_date": "2025-04-20 13:04",
+    "date": "04.2023",
+    "unit": "🇺🇦 МЛ, «Med Team Alpha»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.773279,
      47.819134
     ]
