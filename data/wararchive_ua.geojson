@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.883187,
+     48.591696
+    ]
+   },
+   "properties": {
+    "post_id": 27474,
+    "post_date": "2025-04-20 15:02",
+    "date": "~06.2024",
+    "unit": "🇺🇦 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.02509,
+     48.073868
+    ]
+   },
+   "properties": {
+    "post_id": 27472,
+    "post_date": "2025-04-20 14:03",
+    "date": "~15.04.2025",
+    "unit": "⚓️ 35 ОБрМП, 1️⃣ 137 ОБМП, 🇺🇦 «HYDRA»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.982276,
      48.592768
     ]
