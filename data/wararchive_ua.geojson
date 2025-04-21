@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.21918,
+     48.9227
+    ]
+   },
+   "properties": {
+    "post_id": 27496,
+    "post_date": "2025-04-21 15:03",
+    "date": "~10.04.2025",
+    "unit": "🇺🇦 81 ОАеМБр, 90 ОАеМБ, ПБпАК «Apachi»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.96476,
      49.05108
     ]
