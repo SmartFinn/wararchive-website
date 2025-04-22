@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.886288,
+     48.642281
+    ]
+   },
+   "properties": {
+    "post_id": 27518,
+    "post_date": "2025-04-22 12:02",
+    "date": "~06-08.2023",
+    "unit": "🇺🇦 8 ОП СпП, 🐺 «UA_REG»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.804333,
+     46.663259
+    ]
+   },
+   "properties": {
+    "post_id": 27516,
+    "post_date": "2025-04-22 11:08",
+    "date": "~18.04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.260987,
      51.090896
     ]
