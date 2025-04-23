@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.794261,
+     48.375448
+    ]
+   },
+   "properties": {
+    "post_id": 27553,
+    "post_date": "2025-04-23 11:00",
+    "date": "~01.2025",
+    "unit": "⚒️ БПОП Донеччини"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.935255,
+     48.57337
+    ]
+   },
+   "properties": {
+    "post_id": 27552,
+    "post_date": "2025-04-23 10:04",
+    "date": "24.03.2025",
+    "unit": "🇺🇦 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.91178,
      49.370889
     ]
