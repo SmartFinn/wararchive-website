@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.91178,
+     49.370889
+    ]
+   },
+   "properties": {
+    "post_id": 27549,
+    "post_date": "2025-04-23 07:01",
+    "date": "~19.04.2025",
+    "unit": "🔰3 ОШБр,🇺🇦2 МБ,🇺🇦3 МР «Karakurt Colony»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.471549,
      48.616049
     ]
