@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.87579,
+     48.395559
+    ]
+   },
+   "properties": {
+    "post_id": 27620,
+    "post_date": "2025-04-25 18:00",
+    "date": "04.2025",
+    "unit": "👮 ОШБр «Лють», 🇺🇦 ПВП «Дніпро-1»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.853794,
+     48.402877
+    ]
+   },
+   "properties": {
+    "post_id": 27620,
+    "post_date": "2025-04-25 18:00",
+    "date": "04.2025",
+    "unit": "👮 ОШБр «Лють», 🇺🇦 ПВП «Дніпро-1»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85386,
+     48.398209
+    ]
+   },
+   "properties": {
+    "post_id": 27620,
+    "post_date": "2025-04-25 18:00",
+    "date": "04.2025",
+    "unit": "👮 ОШБр «Лють», 🇺🇦 ПВП «Дніпро-1»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.9369,
      47.18441
     ]
