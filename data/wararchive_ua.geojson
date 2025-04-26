@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.559611,
+     48.103522
+    ]
+   },
+   "properties": {
+    "post_id": 27629,
+    "post_date": "2025-04-26 10:00",
+    "date": "~30.04.2024",
+    "unit": "🇺🇦 78 ОДШП, «Kayfariki Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.750383,
      47.866732
     ]
