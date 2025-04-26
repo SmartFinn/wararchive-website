@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.021072,
+     48.161219
+    ]
+   },
+   "properties": {
+    "post_id": 27649,
+    "post_date": "2025-04-26 18:33",
+    "date": "21.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.025782,
+     48.141814
+    ]
+   },
+   "properties": {
+    "post_id": 27649,
+    "post_date": "2025-04-26 18:33",
+    "date": "21.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.794444,
+     46.529132
+    ]
+   },
+   "properties": {
+    "post_id": 27646,
+    "post_date": "2025-04-26 18:05",
+    "date": "~24.04.2025",
+    "unit": "🇺🇦 801 ОЗБ ПДСЗ, РУР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.794555,
+     46.52935
+    ]
+   },
+   "properties": {
+    "post_id": 27646,
+    "post_date": "2025-04-26 18:05",
+    "date": "~24.04.2025",
+    "unit": "🇺🇦 801 ОЗБ ПДСЗ, РУР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.7942,
+     46.529272
+    ]
+   },
+   "properties": {
+    "post_id": 27646,
+    "post_date": "2025-04-26 18:05",
+    "date": "~24.04.2025",
+    "unit": "🇺🇦 801 ОЗБ ПДСЗ, РУР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.981855,
      49.095336
     ]
