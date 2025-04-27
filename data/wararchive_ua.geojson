@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.966873,
+     48.316909
+    ]
+   },
+   "properties": {
+    "post_id": 27671,
+    "post_date": "2025-04-27 16:01",
+    "date": "~24.04.2025",
+    "unit": "👮 ОШБр «Лють», ⚡️ ШП «Цунамі» та «Punisher Sword»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.965695,
+     48.322226
+    ]
+   },
+   "properties": {
+    "post_id": 27671,
+    "post_date": "2025-04-27 16:01",
+    "date": "~24.04.2025",
+    "unit": "👮 ОШБр «Лють», ⚡️ ШП «Цунамі» та «Punisher Sword»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.27817,
      51.277005
     ]
