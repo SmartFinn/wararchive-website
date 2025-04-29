@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.850884,
+     48.3963
+    ]
+   },
+   "properties": {
+    "post_id": 27710,
+    "post_date": "2025-04-29 10:00",
+    "date": "~10-11.2024",
+    "unit": "🇺🇦 МЛ, 🇺🇦 ТГ «Афіна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.964048,
      48.575871
     ]
