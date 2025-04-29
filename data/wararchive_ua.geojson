@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.7552,
+     46.488242
+    ]
+   },
+   "properties": {
+    "post_id": 27714,
+    "post_date": "2025-04-29 14:00",
+    "date": "~29.04.2025",
+    "unit": "🇺🇦 801 ОЗБ ПДСЗ, РУР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.374214,
      50.942999
     ]
