@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.374214,
+     50.942999
+    ]
+   },
+   "properties": {
+    "post_id": 27712,
+    "post_date": "2025-04-29 12:00",
+    "date": "~23.04.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.850884,
      48.3963
     ]
