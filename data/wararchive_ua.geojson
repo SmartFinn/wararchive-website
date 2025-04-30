@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.012703,
+     48.142344
+    ]
+   },
+   "properties": {
+    "post_id": 27757,
+    "post_date": "2025-04-30 15:00",
+    "date": "~28.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.035223,
+     48.138106
+    ]
+   },
+   "properties": {
+    "post_id": 27757,
+    "post_date": "2025-04-30 15:00",
+    "date": "~28.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.046982,
+     48.156639
+    ]
+   },
+   "properties": {
+    "post_id": 27757,
+    "post_date": "2025-04-30 15:00",
+    "date": "~28.04.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.848512,
+     49.682007
+    ]
+   },
+   "properties": {
+    "post_id": 27756,
+    "post_date": "2025-04-30 14:30",
+    "date": "~26.04.2025",
+    "unit": "⚔️ 43 ОМБр, 🙎‍♀️ ББС «Небесна Мара»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.029049,
      47.974521
     ]
