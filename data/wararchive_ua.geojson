@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.940921,
+     50.291534
+    ]
+   },
+   "properties": {
+    "post_id": 27759,
+    "post_date": "2025-04-30 16:03",
+    "date": "~09.2024",
+    "unit": "🇺🇦 ЗСП «Paragon Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.943972,
+     50.291918
+    ]
+   },
+   "properties": {
+    "post_id": 27759,
+    "post_date": "2025-04-30 16:03",
+    "date": "~09.2024",
+    "unit": "🇺🇦 ЗСП «Paragon Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.848512,
+     49.682007
+    ]
+   },
+   "properties": {
+    "post_id": 27759,
+    "post_date": "2025-04-30 16:03",
+    "date": "~09.2024",
+    "unit": "🇺🇦 ЗСП «Paragon Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.012703,
      48.142344
     ]
