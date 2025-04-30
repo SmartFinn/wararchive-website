@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.579749,
+     47.524091
+    ]
+   },
+   "properties": {
+    "post_id": 27746,
+    "post_date": "2025-04-30 08:00",
+    "date": "28.04.2025",
+    "unit": "🇺🇦 128 ОГШБр, 2 СБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.173196,
      48.226309
     ]
