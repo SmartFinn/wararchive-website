@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.850788,
+     48.401496
+    ]
+   },
+   "properties": {
+    "post_id": 27780,
+    "post_date": "2025-05-01 13:59",
+    "date": "~03.2025",
+    "unit": "🇺🇦 СППОП КОРД"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.0512,
+     46.771077
+    ]
+   },
+   "properties": {
+    "post_id": 27779,
+    "post_date": "2025-05-01 13:03",
+    "date": "~04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.0557,
+     46.772279
+    ]
+   },
+   "properties": {
+    "post_id": 27779,
+    "post_date": "2025-05-01 13:03",
+    "date": "~04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.059999,
+     46.775071
+    ]
+   },
+   "properties": {
+    "post_id": 27779,
+    "post_date": "2025-05-01 13:03",
+    "date": "~04.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.734888,
      46.625111
     ]
