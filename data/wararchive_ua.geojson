@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.840919,
+     48.638539
+    ]
+   },
+   "properties": {
+    "post_id": 27781,
+    "post_date": "2025-05-01 14:30",
+    "date": "~28.04.2025",
+    "unit": "🇺🇦 56 ОМПБр, 23 ОМПБ «Хортиця»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.850788,
      48.401496
     ]
