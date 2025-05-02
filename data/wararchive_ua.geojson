@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.953267,
+     47.47214
+    ]
+   },
+   "properties": {
+    "post_id": 27828,
+    "post_date": "2025-05-02 19:04",
+    "date": "13.12.2023",
+    "unit": "🇺🇦 78 ОДШП «Ґерць», «Stalker Squad»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.953156,
      47.475177
     ]
