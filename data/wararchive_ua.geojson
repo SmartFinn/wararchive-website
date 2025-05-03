@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.927123,
+     48.609577
+    ]
+   },
+   "properties": {
+    "post_id": 27869,
+    "post_date": "2025-05-03 18:05",
+    "date": "~01.05.2025",
+    "unit": "🇺🇦 427 ОП БпС «РАРОГ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.358145,
      47.530709
     ]
