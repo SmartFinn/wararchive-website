@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.851623,
+     49.384971
+    ]
+   },
+   "properties": {
+    "post_id": 27852,
+    "post_date": "2025-05-03 13:00",
+    "date": "~04.2025",
+    "unit": "🇺🇦 ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.020895,
+     51.156793
+    ]
+   },
+   "properties": {
+    "post_id": 27851,
+    "post_date": "2025-05-03 12:30",
+    "date": "25.04.2025",
+    "unit": "3️⃣ 36 ОБрМП, ББС «ВАРТОВІ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.055227,
+     51.154471
+    ]
+   },
+   "properties": {
+    "post_id": 27851,
+    "post_date": "2025-05-03 12:30",
+    "date": "25.04.2025",
+    "unit": "3️⃣ 36 ОБрМП, ББС «ВАРТОВІ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.023754,
      48.0928
     ]
