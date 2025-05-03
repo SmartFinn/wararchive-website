@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.358145,
+     47.530709
+    ]
+   },
+   "properties": {
+    "post_id": 27861,
+    "post_date": "2025-05-03 15:02",
+    "date": "~30.04.2025",
+    "unit": "🇺🇦 422 ОБ БпС «LUFTWAFFE», УГ «Armagedron», TEAM BOMBERMAN"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.707178,
      47.844317
     ]
