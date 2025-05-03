@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.023754,
+     48.0928
+    ]
+   },
+   "properties": {
+    "post_id": 27848,
+    "post_date": "2025-05-03 11:30",
+    "date": "24.04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «WORMBUSTERS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.007103,
+     48.089934
+    ]
+   },
+   "properties": {
+    "post_id": 27848,
+    "post_date": "2025-05-03 11:30",
+    "date": "24.04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «WORMBUSTERS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.998134,
+     48.089568
+    ]
+   },
+   "properties": {
+    "post_id": 27848,
+    "post_date": "2025-05-03 11:30",
+    "date": "24.04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «WORMBUSTERS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.972218,
+     48.088601
+    ]
+   },
+   "properties": {
+    "post_id": 27848,
+    "post_date": "2025-05-03 11:30",
+    "date": "24.04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «WORMBUSTERS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.029827,
      48.115368
     ]
