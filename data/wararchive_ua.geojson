@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.704507,
+     48.167821
+    ]
+   },
+   "properties": {
+    "post_id": 27889,
+    "post_date": "2025-05-04 08:01",
+    "date": "~12.2023",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.270837,
+     50.565525
+    ]
+   },
+   "properties": {
+    "post_id": 27879,
+    "post_date": "2025-05-04 07:32",
+    "date": "03.03.2022",
+    "unit": "🇺🇦 СП «Шаманбат» (?) та 😇 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.045984,
      48.009377
     ]
