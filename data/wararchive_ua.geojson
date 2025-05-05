@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.7427,
+     46.501026
+    ]
+   },
+   "properties": {
+    "post_id": 27926,
+    "post_date": "2025-05-05 15:01",
+    "date": "~02.05.2025",
+    "unit": "🇺🇦 ВМС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.892237,
+     49.648608
+    ]
+   },
+   "properties": {
+    "post_id": 27925,
+    "post_date": "2025-05-05 14:30",
+    "date": "~03.05.2025",
+    "unit": "⚔️ 43 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.875409,
+     49.649424
+    ]
+   },
+   "properties": {
+    "post_id": 27925,
+    "post_date": "2025-05-05 14:30",
+    "date": "~03.05.2025",
+    "unit": "⚔️ 43 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.89768,
+     49.642276
+    ]
+   },
+   "properties": {
+    "post_id": 27925,
+    "post_date": "2025-05-05 14:30",
+    "date": "~03.05.2025",
+    "unit": "⚔️ 43 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.36212,
      48.262984
     ]
