@@ -6,6 +6,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.790458,
+     48.375351
+    ]
+   },
+   "properties": {
+    "post_id": 27935,
+    "post_date": "2025-05-05 18:01",
+    "date": "~18.04.2025",
+    "unit": "🇺🇦12 БрСпП «Азов» та 🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.786981,
+     48.378553
+    ]
+   },
+   "properties": {
+    "post_id": 27935,
+    "post_date": "2025-05-05 18:01",
+    "date": "~18.04.2025",
+    "unit": "🇺🇦12 БрСпП «Азов» та 🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.784069,
+     48.381708
+    ]
+   },
+   "properties": {
+    "post_id": 27935,
+    "post_date": "2025-05-05 18:01",
+    "date": "~18.04.2025",
+    "unit": "🇺🇦12 БрСпП «Азов» та 🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.790356,
+     48.387691
+    ]
+   },
+   "properties": {
+    "post_id": 27935,
+    "post_date": "2025-05-05 18:01",
+    "date": "~18.04.2025",
+    "unit": "🇺🇦12 БрСпП «Азов» та 🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.688415,
+     47.78586
+    ]
+   },
+   "properties": {
+    "post_id": 27934,
+    "post_date": "2025-05-05 17:03",
+    "date": "03.05.2025",
+    "unit": "🇺🇦 31 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.686758,
+     47.845958
+    ]
+   },
+   "properties": {
+    "post_id": 27934,
+    "post_date": "2025-05-05 17:03",
+    "date": "03.05.2025",
+    "unit": "🇺🇦 31 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.687714,
+     47.876375
+    ]
+   },
+   "properties": {
+    "post_id": 27934,
+    "post_date": "2025-05-05 17:03",
+    "date": "03.05.2025",
+    "unit": "🇺🇦 31 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.689192,
+     47.83982
+    ]
+   },
+   "properties": {
+    "post_id": 27934,
+    "post_date": "2025-05-05 17:03",
+    "date": "03.05.2025",
+    "unit": "🇺🇦 31 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.212531,
      48.924036
     ]
