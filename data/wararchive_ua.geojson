@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.679211,
+     48.196449
+    ]
+   },
+   "properties": {
+    "post_id": 27913,
+    "post_date": "2025-05-05 08:03",
+    "date": "~30.11.2023",
+    "unit": "🐲 47 ОМБр «Маґура»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.506054,
      48.335384
     ]
