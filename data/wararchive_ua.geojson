@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.181353,
+     48.741326
+    ]
+   },
+   "properties": {
+    "post_id": 27951,
+    "post_date": "2025-05-06 10:03",
+    "date": "~03.05.2025",
+    "unit": "⛰ 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.199098,
+     48.736872
+    ]
+   },
+   "properties": {
+    "post_id": 27951,
+    "post_date": "2025-05-06 10:03",
+    "date": "~03.05.2025",
+    "unit": "⛰ 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.174202,
+     48.74457
+    ]
+   },
+   "properties": {
+    "post_id": 27951,
+    "post_date": "2025-05-06 10:03",
+    "date": "~03.05.2025",
+    "unit": "⛰ 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.156333,
+     48.756376
+    ]
+   },
+   "properties": {
+    "post_id": 27951,
+    "post_date": "2025-05-06 10:03",
+    "date": "~03.05.2025",
+    "unit": "⛰ 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.874959,
      48.398437
     ]
