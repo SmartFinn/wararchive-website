@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.874959,
+     48.398437
+    ]
+   },
+   "properties": {
+    "post_id": 27941,
+    "post_date": "2025-05-06 08:00",
+    "date": "~04.05.2025",
+    "unit": "👮 ОШБр «Лють», ⚡️ ШП «Цунамі»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.790458,
      48.375351
     ]
