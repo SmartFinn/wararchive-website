@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.44919,
+     47.865224
+    ]
+   },
+   "properties": {
+    "post_id": 27970,
+    "post_date": "2025-05-06 16:00",
+    "date": "~05-06.2024",
+    "unit": "🇺🇦 ПС ЗСУ та «UTAC team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.829809,
      48.5868
     ]
