@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.754333,
+     47.464194
+    ]
+   },
+   "properties": {
+    "post_id": 28006,
+    "post_date": "2025-05-07 16:01",
+    "date": "~04.2025",
+    "unit": "🇺🇦 65 ОМБр «Великий Луг»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.261221,
      51.090821
     ]
