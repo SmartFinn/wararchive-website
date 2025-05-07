@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.825488,
+     48.326775
+    ]
+   },
+   "properties": {
+    "post_id": 28009,
+    "post_date": "2025-05-07 19:00",
+    "date": "~05.05.2025",
+    "unit": "🇺🇦 411 ОП БпАК «Яструби»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.81456,
      47.80181
     ]
