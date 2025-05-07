@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.444639,
+     51.471861
+    ]
+   },
+   "properties": {
+    "post_id": 28002,
+    "post_date": "2025-05-07 13:00",
+    "date": "06.05.2025",
+    "unit": "🇺🇦 4 ОП СпП «Рейнджер», РУБпАК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.829651,
      48.407123
     ]
