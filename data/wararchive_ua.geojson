@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.468839,
+     47.54452
+    ]
+   },
+   "properties": {
+    "post_id": 28037,
+    "post_date": "2025-05-08 16:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 СП «Артан», «Артан X»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.469288,
+     47.544144
+    ]
+   },
+   "properties": {
+    "post_id": 28037,
+    "post_date": "2025-05-08 16:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 СП «Артан», «Артан X»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.468669,
+     47.543975
+    ]
+   },
+   "properties": {
+    "post_id": 28037,
+    "post_date": "2025-05-08 16:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 СП «Артан», «Артан X»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.22165,
      48.839357
     ]
