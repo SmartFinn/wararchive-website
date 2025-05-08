@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.821636,
+     49.595024
+    ]
+   },
+   "properties": {
+    "post_id": 28031,
+    "post_date": "2025-05-08 10:03",
+    "date": "30.04.2025",
+    "unit": "🇺🇦1 БрОП «Буревій»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.940375,
      50.297324
     ]
