@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.137971,
+     48.217567
+    ]
+   },
+   "properties": {
+    "post_id": 28032,
+    "post_date": "2025-05-08 11:10",
+    "date": "~07.05.2025",
+    "unit": "🇺🇦 155 ОМБр, 1 МБ та ББС «MANTICORA»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.821636,
      49.595024
     ]
