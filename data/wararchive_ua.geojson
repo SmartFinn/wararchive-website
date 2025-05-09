@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.473791,
+     47.425744
+    ]
+   },
+   "properties": {
+    "post_id": 28060,
+    "post_date": "2025-05-09 15:45",
+    "date": "~06.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.470637,
+     47.425406
+    ]
+   },
+   "properties": {
+    "post_id": 28060,
+    "post_date": "2025-05-09 15:45",
+    "date": "~06.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.746581,
      49.546111
     ]
