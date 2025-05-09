@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.933667,
+     48.140901
+    ]
+   },
+   "properties": {
+    "post_id": 28056,
+    "post_date": "2025-05-09 13:00",
+    "date": "~03-07.05.2025",
+    "unit": "🇺🇦 72 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.825638,
+     48.592278
+    ]
+   },
+   "properties": {
+    "post_id": 28055,
+    "post_date": "2025-05-09 12:04",
+    "date": "~06.05.2025",
+    "unit": "🇺🇦 5 ОШБр, 4 ШБ, «Dodo»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.01156,
      48.239098
     ]
