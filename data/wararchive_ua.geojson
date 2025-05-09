@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.02561,
+     48.141571
+    ]
+   },
+   "properties": {
+    "post_id": 28063,
+    "post_date": "2025-05-09 17:04",
+    "date": "~05.05.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «WORMBUSTERS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.473791,
      47.425744
     ]
