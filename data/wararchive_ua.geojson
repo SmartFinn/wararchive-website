@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.316658,
+     51.27298
+    ]
+   },
+   "properties": {
+    "post_id": 28078,
+    "post_date": "2025-05-10 15:00",
+    "date": "~08.05.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 РУБпАК «Pentagon» та «Alliance Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.792351,
      49.785018
     ]
