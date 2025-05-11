@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.937795,
+     50.292845
+    ]
+   },
+   "properties": {
+    "post_id": 28105,
+    "post_date": "2025-05-11 17:02",
+    "date": "~07.05.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.687126,
+     49.736891
+    ]
+   },
+   "properties": {
+    "post_id": 28104,
+    "post_date": "2025-05-11 16:04",
+    "date": "09.12.2024",
+    "unit": "🇺🇦 30 ОМБр, 2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.677886,
+     49.740107
+    ]
+   },
+   "properties": {
+    "post_id": 28104,
+    "post_date": "2025-05-11 16:04",
+    "date": "09.12.2024",
+    "unit": "🇺🇦 30 ОМБр, 2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.879591,
      49.627222
     ]
