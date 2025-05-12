@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.936719,
+     48.374511
+    ]
+   },
+   "properties": {
+    "post_id": 28127,
+    "post_date": "2025-05-12 17:30",
+    "date": "~19.06.2024",
+    "unit": "👮 ОШБр «Лють», 🇺🇦 ШП «Сафарі»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.884126,
      48.399357
     ]
