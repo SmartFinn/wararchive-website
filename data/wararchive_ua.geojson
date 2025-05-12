@@ -150,6 +150,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.992165,
+     48.186287
+    ]
+   },
+   "properties": {
+    "post_id": 28098,
+    "post_date": "2025-05-11 12:01",
+    "date": "~08-10.05.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.97843,
+     48.188739
+    ]
+   },
+   "properties": {
+    "post_id": 28098,
+    "post_date": "2025-05-11 12:01",
+    "date": "~08-10.05.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.981854,
+     48.189061
+    ]
+   },
+   "properties": {
+    "post_id": 28098,
+    "post_date": "2025-05-11 12:01",
+    "date": "~08-10.05.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.585532,
+     47.102341
+    ]
+   },
+   "properties": {
+    "post_id": 28093,
+    "post_date": "2025-05-11 08:03",
+    "date": "09.05.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.913604,
      49.367766
     ]
