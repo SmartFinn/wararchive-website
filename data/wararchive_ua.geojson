@@ -6,6 +6,166 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.911184,
+     48.518043
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.912086,
+     48.517127
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.914253,
+     48.516416
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.921457,
+     48.517205
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.932138,
+     48.517777
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.942059,
+     48.519742
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.943242,
+     48.522098
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.943923,
+     48.524371
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.951404,
+     48.521286
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.953199,
+     48.520699
+    ]
+   },
+   "properties": {
+    "post_id": 28147,
+    "post_date": "2025-05-13 16:00",
+    "date": "~05.2024",
+    "unit": "🇺🇦 80 ОДШБр, АеМБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.673874,
      47.823246
     ]
