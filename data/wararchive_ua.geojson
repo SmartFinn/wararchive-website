@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.61136,
+     47.36929
+    ]
+   },
+   "properties": {
+    "post_id": 28141,
+    "post_date": "2025-05-13 11:00",
+    "date": "~10.05.2025",
+    "unit": "⚔️ 65 ОМБр «Великий Луг», 🎏 ББС «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.55177,
      51.391464
     ]
