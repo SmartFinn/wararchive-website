@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.440693,
+     50.970481
+    ]
+   },
+   "properties": {
+    "post_id": 28166,
+    "post_date": "2025-05-14 11:01",
+    "date": "~11.05.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🇺🇦 БУАР, 🦉 ББС «СТРІКС» та САДн"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.360127,
      51.26121
     ]
