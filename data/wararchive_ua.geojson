@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.881396,
+     48.399716
+    ]
+   },
+   "properties": {
+    "post_id": 28196,
+    "post_date": "2025-05-15 17:45",
+    "date": "~03.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.876933,
+     48.397069
+    ]
+   },
+   "properties": {
+    "post_id": 28196,
+    "post_date": "2025-05-15 17:45",
+    "date": "~03.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.994134,
+     48.237858
+    ]
+   },
+   "properties": {
+    "post_id": 28195,
+    "post_date": "2025-05-15 17:16",
+    "date": "~02.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан», 3 БОП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.418389,
      48.915729
     ]
