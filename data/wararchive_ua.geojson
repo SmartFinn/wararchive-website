@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.855148,
+     48.404702
+    ]
+   },
+   "properties": {
+    "post_id": 28200,
+    "post_date": "2025-05-15 19:00",
+    "date": "~03.2025",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.950959,
+     48.133201
+    ]
+   },
+   "properties": {
+    "post_id": 28197,
+    "post_date": "2025-05-15 18:17",
+    "date": "~13.05.2025",
+    "unit": "🇺🇦 425 ОШП «СКАЛА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.881396,
      48.399716
     ]
