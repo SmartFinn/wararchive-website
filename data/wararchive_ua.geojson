@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.715396,
+     47.516507
+    ]
+   },
+   "properties": {
+    "post_id": 28211,
+    "post_date": "2025-05-16 12:00",
+    "date": "~16.03.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.363826,
      51.259321
     ]
