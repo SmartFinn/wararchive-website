@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.074419,
+     48.230632
+    ]
+   },
+   "properties": {
+    "post_id": 28216,
+    "post_date": "2025-05-16 15:02",
+    "date": "05.2025",
+    "unit": "🦉 150 ОРУБ, Гр «ПУМА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.078136,
+     48.226669
+    ]
+   },
+   "properties": {
+    "post_id": 28216,
+    "post_date": "2025-05-16 15:02",
+    "date": "05.2025",
+    "unit": "🦉 150 ОРУБ, Гр «ПУМА»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.828159,
      48.325498
     ]
