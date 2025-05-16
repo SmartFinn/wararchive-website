@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.301057,
+     48.221595
+    ]
+   },
+   "properties": {
+    "post_id": 28224,
+    "post_date": "2025-05-16 19:00",
+    "date": "~07.10.2024",
+    "unit": "🇺🇦 3 ОП СпП, 2 ГрСпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30927,
+     48.222521
+    ]
+   },
+   "properties": {
+    "post_id": 28224,
+    "post_date": "2025-05-16 19:00",
+    "date": "~07.10.2024",
+    "unit": "🇺🇦 3 ОП СпП, 2 ГрСпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.237239,
+     49.152539
+    ]
+   },
+   "properties": {
+    "post_id": 28222,
+    "post_date": "2025-05-16 18:30",
+    "date": "~14.05.2025",
+    "unit": "🇺🇦 53 ОМБр, 🇺🇦 ББпС «SIGNUM»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.56185,
+     51.32413
+    ]
+   },
+   "properties": {
+    "post_id": 28221,
+    "post_date": "2025-05-16 18:04",
+    "date": "~16.05.2025",
+    "unit": "🇺🇦 3 ОП СпП, «Баліста», «Bombus»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.981854,
      48.189061
     ]
