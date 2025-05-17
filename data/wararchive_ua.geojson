@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.936443,
+     50.293414
+    ]
+   },
+   "properties": {
+    "post_id": 28244,
+    "post_date": "2025-05-17 14:00",
+    "date": "~15.05.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.585835,
      50.311307
     ]
