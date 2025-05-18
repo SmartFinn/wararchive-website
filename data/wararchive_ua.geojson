@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.827795,
+     48.406763
+    ]
+   },
+   "properties": {
+    "post_id": 28265,
+    "post_date": "2025-05-18 11:59",
+    "date": "07-24.04.2025",
+    "unit": "🇺🇦 42 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.833631,
+     48.401692
+    ]
+   },
+   "properties": {
+    "post_id": 28265,
+    "post_date": "2025-05-18 11:59",
+    "date": "07-24.04.2025",
+    "unit": "🇺🇦 42 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.840723,
+     48.397831
+    ]
+   },
+   "properties": {
+    "post_id": 28265,
+    "post_date": "2025-05-18 11:59",
+    "date": "07-24.04.2025",
+    "unit": "🇺🇦 42 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.843899,
+     48.398188
+    ]
+   },
+   "properties": {
+    "post_id": 28265,
+    "post_date": "2025-05-18 11:59",
+    "date": "07-24.04.2025",
+    "unit": "🇺🇦 42 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.857513,
      48.410534
     ]
