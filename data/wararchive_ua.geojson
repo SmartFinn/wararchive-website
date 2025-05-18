@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.941231,
+     48.444234
+    ]
+   },
+   "properties": {
+    "post_id": 28276,
+    "post_date": "2025-05-18 19:01",
+    "date": "~17.05.2025",
+    "unit": "🇺🇦 28 ОМБр, ББпС «Спалах»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.3068,
+     46.749805
+    ]
+   },
+   "properties": {
+    "post_id": 28274,
+    "post_date": "2025-05-18 18:29",
+    "date": "~05.2025",
+    "unit": "🇺🇦 ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.176377,
      51.122065
     ]
