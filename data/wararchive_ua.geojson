@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.823935,
+     48.589519
+    ]
+   },
+   "properties": {
+    "post_id": 28283,
+    "post_date": "2025-05-19 08:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «РАРОГ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.833025,
+     48.588815
+    ]
+   },
+   "properties": {
+    "post_id": 28283,
+    "post_date": "2025-05-19 08:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «РАРОГ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.831378,
+     48.591352
+    ]
+   },
+   "properties": {
+    "post_id": 28283,
+    "post_date": "2025-05-19 08:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «РАРОГ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.941231,
      48.444234
     ]
