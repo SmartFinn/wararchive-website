@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.66644,
+     45.25691
+    ]
+   },
+   "properties": {
+    "post_id": 28292,
+    "post_date": "2025-05-19 15:01",
+    "date": "~16.05.2025",
+    "unit": "🇺🇦 13 ГУ ДВКР СБУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.238666,
      48.840843
     ]
