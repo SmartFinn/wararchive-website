@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.507242,
+     51.900129
+    ]
+   },
+   "properties": {
+    "post_id": 28315,
+    "post_date": "2025-05-20 18:02",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.443498,
+     48.36377
+    ]
+   },
+   "properties": {
+    "post_id": 28314,
+    "post_date": "2025-05-20 17:03",
+    "date": "~16.05.2025",
+    "unit": "🇺🇦 91 ОПТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.506046,
      50.932835
     ]
