@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.357362,
+     50.956845
+    ]
+   },
+   "properties": {
+    "post_id": 28307,
+    "post_date": "2025-05-20 11:02",
+    "date": "~10.05.2025",
+    "unit": "🇺🇦 22 ОМБр, 1 МБ, ВБпАК «SIMARGL»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.356665,
+     50.953341
+    ]
+   },
+   "properties": {
+    "post_id": 28307,
+    "post_date": "2025-05-20 11:02",
+    "date": "~10.05.2025",
+    "unit": "🇺🇦 22 ОМБр, 1 МБ, ВБпАК «SIMARGL»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.063386,
      48.701038
     ]
