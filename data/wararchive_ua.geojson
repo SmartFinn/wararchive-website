@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.556224,
+     47.093064
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.647805,
+     47.118765
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.490936,
+     47.043929
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.624333,
+     47.0938
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.543598,
+     47.092533
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.616061,
+     47.11435
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.54156,
+     47.084916
+    ]
+   },
+   "properties": {
+    "post_id": 28303,
+    "post_date": "2025-05-20 08:00",
+    "date": "09.03.2022-29.04.2022",
+    "unit": "🔰ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.80406,
      47.893672
     ]
