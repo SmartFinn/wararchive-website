@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.534206,
+     48.374462
+    ]
+   },
+   "properties": {
+    "post_id": 28337,
+    "post_date": "2025-05-21 18:00",
+    "date": "~12.05.2025",
+    "unit": "3️⃣ 36 ОБрМП, РР «Alliance Group», ББС «Вартові»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.532541,
+     48.39826
+    ]
+   },
+   "properties": {
+    "post_id": 28337,
+    "post_date": "2025-05-21 18:00",
+    "date": "~12.05.2025",
+    "unit": "3️⃣ 36 ОБрМП, РР «Alliance Group», ББС «Вартові»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.53969,
+     48.406186
+    ]
+   },
+   "properties": {
+    "post_id": 28337,
+    "post_date": "2025-05-21 18:00",
+    "date": "~12.05.2025",
+    "unit": "3️⃣ 36 ОБрМП, РР «Alliance Group», ББС «Вартові»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.776221,
      48.376994
     ]
