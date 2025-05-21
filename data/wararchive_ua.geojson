@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.776221,
+     48.376994
+    ]
+   },
+   "properties": {
+    "post_id": 28336,
+    "post_date": "2025-05-21 17:00",
+    "date": "~11.2024-05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.771737,
+     48.379541
+    ]
+   },
+   "properties": {
+    "post_id": 28336,
+    "post_date": "2025-05-21 17:00",
+    "date": "~11.2024-05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.261953,
+     51.094879
+    ]
+   },
+   "properties": {
+    "post_id": 28335,
+    "post_date": "2025-05-21 16:33",
+    "date": "~05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.261974,
+     51.094075
+    ]
+   },
+   "properties": {
+    "post_id": 28335,
+    "post_date": "2025-05-21 16:33",
+    "date": "~05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.26373,
+     51.09522
+    ]
+   },
+   "properties": {
+    "post_id": 28335,
+    "post_date": "2025-05-21 16:33",
+    "date": "~05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.26345,
      48.225177
     ]
