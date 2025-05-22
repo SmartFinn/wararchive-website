@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.656918,
+     47.855559
+    ]
+   },
+   "properties": {
+    "post_id": 28348,
+    "post_date": "2025-05-22 11:00",
+    "date": "12-19.05.2025",
+    "unit": "🇺🇦 17 Бр «Рейд», РБС «Каспер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.701267,
+     47.860798
+    ]
+   },
+   "properties": {
+    "post_id": 28348,
+    "post_date": "2025-05-22 11:00",
+    "date": "12-19.05.2025",
+    "unit": "🇺🇦 17 Бр «Рейд», РБС «Каспер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.690276,
+     47.839602
+    ]
+   },
+   "properties": {
+    "post_id": 28348,
+    "post_date": "2025-05-22 11:00",
+    "date": "12-19.05.2025",
+    "unit": "🇺🇦 17 Бр «Рейд», РБС «Каспер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.372498,
      49.020037
     ]
