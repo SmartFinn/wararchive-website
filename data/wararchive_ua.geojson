@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.372498,
+     49.020037
+    ]
+   },
+   "properties": {
+    "post_id": 28343,
+    "post_date": "2025-05-22 08:03",
+    "date": "04.2022",
+    "unit": "🇺🇦 4 БрОП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.534206,
      48.374462
     ]
