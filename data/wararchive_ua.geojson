@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.181181,
+     48.880335
+    ]
+   },
+   "properties": {
+    "post_id": 28356,
+    "post_date": "2025-05-22 17:00",
+    "date": "19.05.2025",
+    "unit": "🇺🇦 54 ОМБр, ББС «Небесна Кара»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.02243,
      50.38505
     ]
