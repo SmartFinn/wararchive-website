@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.936743,
+     50.29264
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.938605,
+     50.296958
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.9498,
+     50.297701
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.936588,
+     50.291605
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.941405,
+     50.29169
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.944559,
+     50.295902
+    ]
+   },
+   "properties": {
+    "post_id": 28392,
+    "post_date": "2025-05-24 08:02",
+    "date": "04.2025",
+    "unit": "🇺🇦 57 ОМПБр, 34 ОМПБ «Вовкодави»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.364614,
      47.576346
     ]
