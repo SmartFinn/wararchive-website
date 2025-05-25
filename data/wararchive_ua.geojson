@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.596261,
+     50.155913
+    ]
+   },
+   "properties": {
+    "post_id": 28437,
+    "post_date": "2025-05-25 12:00",
+    "date": "15.05.2022",
+    "unit": "🇺🇦 8 ОП СпП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.9396,
      50.295883
     ]
