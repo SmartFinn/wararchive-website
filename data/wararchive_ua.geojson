@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.836014,
+     48.354747
+    ]
+   },
+   "properties": {
+    "post_id": 28438,
+    "post_date": "2025-05-25 13:02",
+    "date": "~10.2024",
+    "unit": "🇺🇦12 БрСпП «Азов», «2 squad»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.596261,
      50.155913
     ]
