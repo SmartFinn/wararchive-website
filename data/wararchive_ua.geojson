@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.850703,
+     48.392813
+    ]
+   },
+   "properties": {
+    "post_id": 28448,
+    "post_date": "2025-05-25 19:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.853093,
+     48.392375
+    ]
+   },
+   "properties": {
+    "post_id": 28448,
+    "post_date": "2025-05-25 19:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.850196,
+     48.393673
+    ]
+   },
+   "properties": {
+    "post_id": 28448,
+    "post_date": "2025-05-25 19:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.85826,
+     48.39745
+    ]
+   },
+   "properties": {
+    "post_id": 28448,
+    "post_date": "2025-05-25 19:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.854123,
+     48.39327
+    ]
+   },
+   "properties": {
+    "post_id": 28448,
+    "post_date": "2025-05-25 19:00",
+    "date": "05.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.592013,
      50.46412
     ]
