@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.317215,
+     47.091127
+    ]
+   },
+   "properties": {
+    "post_id": 28435,
+    "post_date": "2025-05-25 10:01",
+    "date": "24.05.2025",
+    "unit": "🔰 ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.349495,
      46.819372
     ]
