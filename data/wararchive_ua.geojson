@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.1064,
+     46.751516
+    ]
+   },
+   "properties": {
+    "post_id": 28466,
+    "post_date": "2025-05-26 19:02",
+    "date": "17, 22, 23.05.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.066444,
+     46.72898
+    ]
+   },
+   "properties": {
+    "post_id": 28466,
+    "post_date": "2025-05-26 19:02",
+    "date": "17, 22, 23.05.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.0569,
+     46.726566
+    ]
+   },
+   "properties": {
+    "post_id": 28466,
+    "post_date": "2025-05-26 19:02",
+    "date": "17, 22, 23.05.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.033666,
+     46.719301
+    ]
+   },
+   "properties": {
+    "post_id": 28466,
+    "post_date": "2025-05-26 19:02",
+    "date": "17, 22, 23.05.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.64648,
+     50.456404
+    ]
+   },
+   "properties": {
+    "post_id": 28465,
+    "post_date": "2025-05-26 18:34",
+    "date": "03.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.936362,
      50.292045
     ]
