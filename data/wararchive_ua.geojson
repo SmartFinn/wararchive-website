@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.738675,
+     49.777166
+    ]
+   },
+   "properties": {
+    "post_id": 28485,
+    "post_date": "2025-05-27 16:00",
+    "date": "02.06.2023",
+    "unit": "🇺🇦 67 ОМБр ДУК, 🇺🇦 1 ОШБ «Вовки Да Вінчі»,🇺🇦2 ШР «Гонор»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.850352,
+     48.572131
+    ]
+   },
+   "properties": {
+    "post_id": 28484,
+    "post_date": "2025-05-27 15:03",
+    "date": "25.05.2025",
+    "unit": "⚔️ 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.483844,
      51.001347
     ]
