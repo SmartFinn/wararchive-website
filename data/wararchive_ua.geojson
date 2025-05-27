@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.090609,
+     48.188485
+    ]
+   },
+   "properties": {
+    "post_id": 28489,
+    "post_date": "2025-05-27 19:03",
+    "date": "~26.05.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан», ББпС «Black Sky»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.978245,
      48.711714
     ]
