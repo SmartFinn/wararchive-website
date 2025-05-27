@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.483844,
+     51.001347
+    ]
+   },
+   "properties": {
+    "post_id": 28480,
+    "post_date": "2025-05-27 13:46",
+    "date": "~04-05.2025",
+    "unit": "🇺🇦 ПС ЗСУ та «UTAC team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.410931,
+     50.994203
+    ]
+   },
+   "properties": {
+    "post_id": 28480,
+    "post_date": "2025-05-27 13:46",
+    "date": "~04-05.2025",
+    "unit": "🇺🇦 ПС ЗСУ та «UTAC team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.271156,
+     51.094217
+    ]
+   },
+   "properties": {
+    "post_id": 28480,
+    "post_date": "2025-05-27 13:46",
+    "date": "~04-05.2025",
+    "unit": "🇺🇦 ПС ЗСУ та «UTAC team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.000204,
+     48.172404
+    ]
+   },
+   "properties": {
+    "post_id": 28479,
+    "post_date": "2025-05-27 13:03",
+    "date": "~24.05.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.73753,
      47.879383
     ]
