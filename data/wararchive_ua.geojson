@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.575707,
+     51.248129
+    ]
+   },
+   "properties": {
+    "post_id": 28499,
+    "post_date": "2025-05-28 12:00",
+    "date": "~23.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.583335,
+     51.249524
+    ]
+   },
+   "properties": {
+    "post_id": 28499,
+    "post_date": "2025-05-28 12:00",
+    "date": "~23.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.810116,
+     48.593274
+    ]
+   },
+   "properties": {
+    "post_id": 28498,
+    "post_date": "2025-05-28 11:04",
+    "date": "17.05.2025",
+    "unit": "😚 101 ОБрО ГШ, 3 БО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.810825,
+     48.593781
+    ]
+   },
+   "properties": {
+    "post_id": 28498,
+    "post_date": "2025-05-28 11:04",
+    "date": "17.05.2025",
+    "unit": "😚 101 ОБрО ГШ, 3 БО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.812902,
+     48.593885
+    ]
+   },
+   "properties": {
+    "post_id": 28498,
+    "post_date": "2025-05-28 11:04",
+    "date": "17.05.2025",
+    "unit": "😚 101 ОБрО ГШ, 3 БО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.137618,
      48.223918
     ]
