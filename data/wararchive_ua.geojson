@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.225648,
+     48.444642
+    ]
+   },
+   "properties": {
+    "post_id": 28522,
+    "post_date": "2025-05-29 17:00",
+    "date": "~20.05.2025",
+    "unit": "🇺🇦 14 ОП БпАК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.024167,
      48.198663
     ]
