@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.335912,
+     47.501606
+    ]
+   },
+   "properties": {
+    "post_id": 28523,
+    "post_date": "2025-05-29 18:00",
+    "date": "~24.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 Бат «Flying Skull»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.337196,
+     47.50139
+    ]
+   },
+   "properties": {
+    "post_id": 28523,
+    "post_date": "2025-05-29 18:00",
+    "date": "~24.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 Бат «Flying Skull»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.225648,
      48.444642
     ]
