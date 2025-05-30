@@ -134,6 +134,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.947488,
+     47.992134
+    ]
+   },
+   "properties": {
+    "post_id": 28507,
+    "post_date": "2025-05-28 18:48",
+    "date": "~21.05.2025",
+    "unit": "⚔️ 33 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.934798,
      47.985196
     ]
