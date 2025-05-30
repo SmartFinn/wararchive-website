@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.146824,
+     48.284585
+    ]
+   },
+   "properties": {
+    "post_id": 28537,
+    "post_date": "2025-05-30 16:01",
+    "date": "~30.05.2025",
+    "unit": "🇺🇦 ОПБр, СГр «Привид»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.143948,
+     48.288168
+    ]
+   },
+   "properties": {
+    "post_id": 28537,
+    "post_date": "2025-05-30 16:01",
+    "date": "~30.05.2025",
+    "unit": "🇺🇦 ОПБр, СГр «Привид»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.25441,
      47.45203
     ]
