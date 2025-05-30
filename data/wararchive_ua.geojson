@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.2271,
+     51.0254
+    ]
+   },
+   "properties": {
+    "post_id": 28529,
+    "post_date": "2025-05-30 08:02",
+    "date": "~05.2025",
+    "unit": "🇺🇦 129 ОБрТрО, 248 ОБТрО, 🇺🇦 РУБпАК «The Ravens»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2329,
+     51.0654
+    ]
+   },
+   "properties": {
+    "post_id": 28529,
+    "post_date": "2025-05-30 08:02",
+    "date": "~05.2025",
+    "unit": "🇺🇦 129 ОБрТрО, 248 ОБТрО, 🇺🇦 РУБпАК «The Ravens»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.2321,
+     51.0669
+    ]
+   },
+   "properties": {
+    "post_id": 28529,
+    "post_date": "2025-05-30 08:02",
+    "date": "~05.2025",
+    "unit": "🇺🇦 129 ОБрТрО, 248 ОБТрО, 🇺🇦 РУБпАК «The Ravens»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.335912,
      47.501606
     ]
