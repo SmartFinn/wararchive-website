@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.082737,
+     50.828734
+    ]
+   },
+   "properties": {
+    "post_id": 28549,
+    "post_date": "2025-05-31 10:31",
+    "date": "27.05.2025 (11:57:57)",
+    "unit": "🇺🇦 НПУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.957206,
+     48.527892
+    ]
+   },
+   "properties": {
+    "post_id": 28548,
+    "post_date": "2025-05-31 10:03",
+    "date": "~06.2024",
+    "unit": "👮 ОШБр «Лють», ⚡️ ШП «Цунамі», 1 ШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.95587,
+     48.527738
+    ]
+   },
+   "properties": {
+    "post_id": 28548,
+    "post_date": "2025-05-31 10:03",
+    "date": "~06.2024",
+    "unit": "👮 ОШБр «Лють», ⚡️ ШП «Цунамі», 1 ШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.681601,
      47.500205
     ]
