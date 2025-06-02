@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.763456,
+     51.563488
+    ]
+   },
+   "properties": {
+    "post_id": 28610,
+    "post_date": "2025-06-02 17:00",
+    "date": "~27.05.2025",
+    "unit": "🦅 39 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.603008,
      47.47389
     ]
