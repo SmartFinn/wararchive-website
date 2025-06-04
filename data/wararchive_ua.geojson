@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.843152,
+     48.575043
+    ]
+   },
+   "properties": {
+    "post_id": 28659,
+    "post_date": "2025-06-04 16:02",
+    "date": "28.05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.839916,
+     48.578826
+    ]
+   },
+   "properties": {
+    "post_id": 28659,
+    "post_date": "2025-06-04 16:02",
+    "date": "28.05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.829729,
+     48.592525
+    ]
+   },
+   "properties": {
+    "post_id": 28659,
+    "post_date": "2025-06-04 16:02",
+    "date": "28.05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.907593,
      48.568728
     ]
