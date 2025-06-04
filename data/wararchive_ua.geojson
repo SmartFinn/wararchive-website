@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.341238,
+     51.26978
+    ]
+   },
+   "properties": {
+    "post_id": 28652,
+    "post_date": "2025-06-04 12:35",
+    "date": "~31.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.338835,
+     51.26946
+    ]
+   },
+   "properties": {
+    "post_id": 28652,
+    "post_date": "2025-06-04 12:35",
+    "date": "~31.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.341951,
+     51.271013
+    ]
+   },
+   "properties": {
+    "post_id": 28652,
+    "post_date": "2025-06-04 12:35",
+    "date": "~31.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.338312,
+     51.271524
+    ]
+   },
+   "properties": {
+    "post_id": 28652,
+    "post_date": "2025-06-04 12:35",
+    "date": "~31.05.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.248461,
+     51.240184
+    ]
+   },
+   "properties": {
+    "post_id": 28649,
+    "post_date": "2025-06-04 12:05",
+    "date": "~08.2024",
+    "unit": "🇺🇦 80 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.249315,
+     51.241236
+    ]
+   },
+   "properties": {
+    "post_id": 28649,
+    "post_date": "2025-06-04 12:05",
+    "date": "~08.2024",
+    "unit": "🇺🇦 80 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.249497,
+     51.242671
+    ]
+   },
+   "properties": {
+    "post_id": 28649,
+    "post_date": "2025-06-04 12:05",
+    "date": "~08.2024",
+    "unit": "🇺🇦 80 ОДШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.847572,
      46.644574
     ]
