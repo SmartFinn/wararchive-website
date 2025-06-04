@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.268949,
+     48.922243
+    ]
+   },
+   "properties": {
+    "post_id": 28663,
+    "post_date": "2025-06-04 19:00",
+    "date": "~20.05.2025",
+    "unit": "🇺🇦 81 ОАеМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.368204,
+     47.502554
+    ]
+   },
+   "properties": {
+    "post_id": 28662,
+    "post_date": "2025-06-04 18:04",
+    "date": "~06.2024",
+    "unit": "🦅 15 ОБрАР «Чорний ліс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.132309,
      47.493841
     ]
