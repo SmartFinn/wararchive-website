@@ -6,6 +6,326 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.681455,
+     47.500166
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.701421,
+     47.50896
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.683573,
+     47.499173
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.67925,
+     47.483934
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.691434,
+     47.499511
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.696227,
+     47.507321
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.682657,
+     47.502633
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.679224,
+     47.498765
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.68233,
+     47.493358
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.691542,
+     47.504537
+    ]
+   },
+   "properties": {
+    "post_id": 28682,
+    "post_date": "2025-06-05 17:03",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.681455,
+     47.500166
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.701421,
+     47.50896
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.683573,
+     47.499173
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.67925,
+     47.483934
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.691434,
+     47.499511
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.696227,
+     47.507321
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.682657,
+     47.502633
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.679224,
+     47.498765
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.68233,
+     47.493358
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.691542,
+     47.504537
+    ]
+   },
+   "properties": {
+    "post_id": 28681,
+    "post_date": "2025-06-05 17:02",
+    "date": "05.2025",
+    "unit": "🇺🇦ЛСР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.095629,
      49.040991
     ]
