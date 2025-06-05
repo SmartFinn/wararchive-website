@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.095629,
+     49.040991
+    ]
+   },
+   "properties": {
+    "post_id": 28679,
+    "post_date": "2025-06-05 15:10",
+    "date": "~04.06.2025",
+    "unit": "🇺🇦 63 ОМБр, БУАР, ББС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.116497,
+     49.040737
+    ]
+   },
+   "properties": {
+    "post_id": 28679,
+    "post_date": "2025-06-05 15:10",
+    "date": "~04.06.2025",
+    "unit": "🇺🇦 63 ОМБр, БУАР, ББС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.139092,
+     49.042067
+    ]
+   },
+   "properties": {
+    "post_id": 28679,
+    "post_date": "2025-06-05 15:10",
+    "date": "~04.06.2025",
+    "unit": "🇺🇦 63 ОМБр, БУАР, ББС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.282649,
      51.282065
     ]
