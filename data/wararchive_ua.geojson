@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.845317,
+     48.407939
+    ]
+   },
+   "properties": {
+    "post_id": 28674,
+    "post_date": "2025-06-05 10:21",
+    "date": "~03.2025",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.855016,
+     48.404766
+    ]
+   },
+   "properties": {
+    "post_id": 28674,
+    "post_date": "2025-06-05 10:21",
+    "date": "~03.2025",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.284596,
      51.274146
     ]
