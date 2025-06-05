@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.384553,
+     52.709385
+    ]
+   },
+   "properties": {
+    "post_id": 28671,
+    "post_date": "2025-06-05 07:45",
+    "date": "05.06.2025",
+    "unit": "🇺🇦 ЗСУ та 🇺🇦 СБУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.268949,
      48.922243
     ]
