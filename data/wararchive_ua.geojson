@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.551137,
+     51.285303
+    ]
+   },
+   "properties": {
+    "post_id": 28676,
+    "post_date": "2025-06-05 13:01",
+    "date": "~02.06.2025",
+    "unit": "🐲 47 ОМБр «Маґура», 🦉 ББС «Стрікс» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.845317,
      48.407939
     ]
