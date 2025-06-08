@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.040473,
+     48.096228
+    ]
+   },
+   "properties": {
+    "post_id": 28747,
+    "post_date": "2025-06-08 10:03",
+    "date": "~04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «Wormbusters»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.01549,
+     48.09162
+    ]
+   },
+   "properties": {
+    "post_id": 28747,
+    "post_date": "2025-06-08 10:03",
+    "date": "~04.2025",
+    "unit": "🇺🇦 414 ОБрУБАС «Птахи Мадяра», «Wormbusters»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.049954,
      48.1797
     ]
