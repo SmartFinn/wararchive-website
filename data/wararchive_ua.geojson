@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.736468,
+     47.656903
+    ]
+   },
+   "properties": {
+    "post_id": 28749,
+    "post_date": "2025-06-08 13:00",
+    "date": "04.06.2025",
+    "unit": "🇺🇦 110 ОБрТрО, ББпС «Запорізькі Сапсани», «EnergyDAR»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.040473,
      48.096228
     ]
