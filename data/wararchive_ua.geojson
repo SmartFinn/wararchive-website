@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.948247,
+     47.158758
+    ]
+   },
+   "properties": {
+    "post_id": 28780,
+    "post_date": "2025-06-09 16:05",
+    "date": "12-13.05.2022",
+    "unit": "👍 Батальйон Калиновського"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.8785,
      51.168594
     ]
