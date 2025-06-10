@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.38652,
+     51.328131
+    ]
+   },
+   "properties": {
+    "post_id": 28815,
+    "post_date": "2025-06-10 15:00",
+    "date": "~08.06.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.815215,
+     49.179713
+    ]
+   },
+   "properties": {
+    "post_id": 28805,
+    "post_date": "2025-06-10 14:30",
+    "date": "~31.05.2025",
+    "unit": "🇺🇦 66 ОМБр, 3 МБ «Fireflies»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.276593,
      51.281716
     ]
