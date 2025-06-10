@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.971065,
+     48.170629
+    ]
+   },
+   "properties": {
+    "post_id": 28802,
+    "post_date": "2025-06-10 13:02",
+    "date": "~08.06.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.921465,
+     48.184705
+    ]
+   },
+   "properties": {
+    "post_id": 28802,
+    "post_date": "2025-06-10 13:02",
+    "date": "~08.06.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, БП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.837029,
+     48.398886
+    ]
+   },
+   "properties": {
+    "post_id": 28801,
+    "post_date": "2025-06-10 12:32",
+    "date": "~03.2025",
+    "unit": "⚔️ 100 ОМБр, ББпС «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.835632,
+     48.401033
+    ]
+   },
+   "properties": {
+    "post_id": 28801,
+    "post_date": "2025-06-10 12:32",
+    "date": "~03.2025",
+    "unit": "⚔️ 100 ОМБр, ББпС «Voron»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.815392,
+     48.371081
+    ]
+   },
+   "properties": {
+    "post_id": 28800,
+    "post_date": "2025-06-10 12:03",
+    "date": "~27.12.2024",
+    "unit": "🇺🇦12 БрСпП «Азов»,🇺🇦6 БСП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.533867,
      48.337225
     ]
