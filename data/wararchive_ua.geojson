@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.900853,
+     49.669291
+    ]
+   },
+   "properties": {
+    "post_id": 28787,
+    "post_date": "2025-06-10 05:31",
+    "date": "~12.2023",
+    "unit": "🇺🇦18 Бр НГУ 🦅 БСП «Донбас»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.535797,
      48.193239
     ]
