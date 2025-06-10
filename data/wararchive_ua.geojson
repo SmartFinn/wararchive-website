@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.835,
+     48.5839
+    ]
+   },
+   "properties": {
+    "post_id": 28789,
+    "post_date": "2025-06-10 06:41",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8324,
+     48.5936
+    ]
+   },
+   "properties": {
+    "post_id": 28789,
+    "post_date": "2025-06-10 06:41",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8377,
+     48.5771
+    ]
+   },
+   "properties": {
+    "post_id": 28789,
+    "post_date": "2025-06-10 06:41",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8243,
+     48.5633
+    ]
+   },
+   "properties": {
+    "post_id": 28789,
+    "post_date": "2025-06-10 06:41",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.8425,
+     48.5632
+    ]
+   },
+   "properties": {
+    "post_id": 28789,
+    "post_date": "2025-06-10 06:41",
+    "date": "05.2025",
+    "unit": "🇺🇦 427 ОП БпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.900853,
      49.669291
     ]
