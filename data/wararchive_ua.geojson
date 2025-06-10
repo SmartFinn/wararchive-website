@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.64709,
+     51.42605
+    ]
+   },
+   "properties": {
+    "post_id": 28822,
+    "post_date": "2025-06-10 18:30",
+    "date": "~09-10.06.2025",
+    "unit": "🇺🇦 4 ОП СпП «Рейнджер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.037197,
      48.120561
     ]
