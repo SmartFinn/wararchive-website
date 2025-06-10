@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.533867,
+     48.337225
+    ]
+   },
+   "properties": {
+    "post_id": 28797,
+    "post_date": "2025-06-10 10:29",
+    "date": "05.2025",
+    "unit": "🇺🇦 14 ОП БпАК, рота «Чарлі»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      31.244688,
      51.515162
     ]
