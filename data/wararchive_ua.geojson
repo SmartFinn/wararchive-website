@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.030835,
+     48.586485
+    ]
+   },
+   "properties": {
+    "post_id": 28840,
+    "post_date": "2025-06-11 13:31",
+    "date": "~01.2023",
+    "unit": "🇺🇦 МЛ ГУР МОУ, 🇺🇦 «Rogue Team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.164852,
      48.767165
     ]
