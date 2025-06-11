@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.036329,
+     51.12272
+    ]
+   },
+   "properties": {
+    "post_id": 28841,
+    "post_date": "2025-06-11 14:29",
+    "date": "~11.2024-06.2025",
+    "unit": "🇺🇦 3 ОЗСП «Омега»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.030835,
      48.586485
     ]
