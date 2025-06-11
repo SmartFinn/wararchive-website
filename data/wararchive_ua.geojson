@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.267092,
+     51.194834
+    ]
+   },
+   "properties": {
+    "post_id": 28837,
+    "post_date": "2025-06-11 10:59",
+    "date": "06.2025",
+    "unit": "158 ВК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.779353,
+     51.26005
+    ]
+   },
+   "properties": {
+    "post_id": 28836,
+    "post_date": "2025-06-11 10:29",
+    "date": "~09.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.213617,
      48.858442
     ]
