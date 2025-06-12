@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.02105,
+     47.58503
+    ]
+   },
+   "properties": {
+    "post_id": 28875,
+    "post_date": "2025-06-12 16:00",
+    "date": "~08.06.2025",
+    "unit": "🇺🇦 «Shadow»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.291333,
      46.469115
     ]
