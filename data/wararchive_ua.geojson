@@ -6,6 +6,166 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.291333,
+     46.469115
+    ]
+   },
+   "properties": {
+    "post_id": 28872,
+    "post_date": "2025-06-12 14:02",
+    "date": "~10.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.381111,
+     46.528987
+    ]
+   },
+   "properties": {
+    "post_id": 28872,
+    "post_date": "2025-06-12 14:02",
+    "date": "~10.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.39446,
+     46.537301
+    ]
+   },
+   "properties": {
+    "post_id": 28872,
+    "post_date": "2025-06-12 14:02",
+    "date": "~10.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.388,
+     46.535708
+    ]
+   },
+   "properties": {
+    "post_id": 28872,
+    "post_date": "2025-06-12 14:02",
+    "date": "~10.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.388,
+     46.535708
+    ]
+   },
+   "properties": {
+    "post_id": 28872,
+    "post_date": "2025-06-12 14:02",
+    "date": "~10.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.733722,
+     48.356578
+    ]
+   },
+   "properties": {
+    "post_id": 28871,
+    "post_date": "2025-06-12 13:03",
+    "date": "02.05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.733926,
+     48.357259
+    ]
+   },
+   "properties": {
+    "post_id": 28871,
+    "post_date": "2025-06-12 13:03",
+    "date": "02.05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.733318,
+     48.357493
+    ]
+   },
+   "properties": {
+    "post_id": 28871,
+    "post_date": "2025-06-12 13:03",
+    "date": "02.05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.733558,
+     48.357591
+    ]
+   },
+   "properties": {
+    "post_id": 28871,
+    "post_date": "2025-06-12 13:03",
+    "date": "02.05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.733625,
+     48.357679
+    ]
+   },
+   "properties": {
+    "post_id": 28871,
+    "post_date": "2025-06-12 13:03",
+    "date": "02.05.2025",
+    "unit": "🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.210137,
      49.03201
     ]
