@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.962525,
+     48.413741
+    ]
+   },
+   "properties": {
+    "post_id": 28963,
+    "post_date": "2025-06-15 17:01",
+    "date": "~30-31.08.2024",
+    "unit": "😚 101 ОБрО ГШ, РР та ⚔️ 24 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.073052,
      48.715322
     ]
