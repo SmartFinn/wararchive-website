@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.629822,
+     48.165861
+    ]
+   },
+   "properties": {
+    "post_id": 28982,
+    "post_date": "2025-06-16 18:00",
+    "date": "~20.05.2025",
+    "unit": "🦉 150 ОРУБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.760999,
+     46.632375
+    ]
+   },
+   "properties": {
+    "post_id": 28981,
+    "post_date": "2025-06-16 17:30",
+    "date": "~06.2025",
+    "unit": "🇺🇦 ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.286909,
      51.275917
     ]
