@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.754997,
+     47.982856
+    ]
+   },
+   "properties": {
+    "post_id": 28971,
+    "post_date": "2025-06-16 10:21",
+    "date": "~13.06.2025",
+    "unit": "⚔️ 5 ОВМБр, 1 ТБ, ТЕ «Херсон»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.666647,
      48.21894
     ]
