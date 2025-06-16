@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.683552,
+     47.499169
+    ]
+   },
+   "properties": {
+    "post_id": 28983,
+    "post_date": "2025-06-16 18:31",
+    "date": "05.2025",
+    "unit": "БАРС-3, 3 ШР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.629822,
      48.165861
     ]
