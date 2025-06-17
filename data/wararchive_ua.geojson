@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.4712,
+     46.493868
+    ]
+   },
+   "properties": {
+    "post_id": 29001,
+    "post_date": "2025-06-17 17:00",
+    "date": "~15.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4685,
+     46.494169
+    ]
+   },
+   "properties": {
+    "post_id": 29001,
+    "post_date": "2025-06-17 17:00",
+    "date": "~15.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 🔱 2 ББО, «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.307553,
      52.13747
     ]
