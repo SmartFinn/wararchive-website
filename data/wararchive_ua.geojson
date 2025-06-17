@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.307553,
+     52.13747
+    ]
+   },
+   "properties": {
+    "post_id": 28999,
+    "post_date": "2025-06-17 16:00",
+    "date": "~07-08.2024",
+    "unit": "🇺🇦 МЛ ГУР МОУ, Гр «Vincere Malum»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.882329,
      48.548099
     ]
