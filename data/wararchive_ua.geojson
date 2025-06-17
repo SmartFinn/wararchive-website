@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.882329,
+     48.548099
+    ]
+   },
+   "properties": {
+    "post_id": 28998,
+    "post_date": "2025-06-17 14:04",
+    "date": "~12.06.2025",
+    "unit": "🇺🇦 5 ОШБр, РБ, 🇺🇦 «Phoenix» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.553575,
      50.278318
     ]
