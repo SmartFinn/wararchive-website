@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.553575,
+     50.278318
+    ]
+   },
+   "properties": {
+    "post_id": 28996,
+    "post_date": "2025-06-17 13:00",
+    "date": "~15.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.97237,
      49.167764
     ]
