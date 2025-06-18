@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.59336,
+     47.75171
+    ]
+   },
+   "properties": {
+    "post_id": 29020,
+    "post_date": "2025-06-18 18:00",
+    "date": "~13.06.2025",
+    "unit": "🇺🇦 413 ОББС «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.65713,
+     47.85008
+    ]
+   },
+   "properties": {
+    "post_id": 29020,
+    "post_date": "2025-06-18 18:00",
+    "date": "~13.06.2025",
+    "unit": "🇺🇦 413 ОББС «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.513527,
+     50.432951
+    ]
+   },
+   "properties": {
+    "post_id": 29019,
+    "post_date": "2025-06-18 17:03",
+    "date": "18.06.2025",
+    "unit": "🇺🇦 Бр «Гарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552918,
+     50.341699
+    ]
+   },
+   "properties": {
+    "post_id": 29019,
+    "post_date": "2025-06-18 17:03",
+    "date": "18.06.2025",
+    "unit": "🇺🇦 Бр «Гарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.591975,
      50.46263
     ]
