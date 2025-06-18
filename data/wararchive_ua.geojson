@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.3375,
+     48.256789
+    ]
+   },
+   "properties": {
+    "post_id": 29012,
+    "post_date": "2025-06-18 11:30",
+    "date": "11.04.2025",
+    "unit": "3️⃣ 38 ОБрМП, 1 БМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.320256,
      48.325905
     ]
