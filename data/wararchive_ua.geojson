@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.320256,
+     48.325905
+    ]
+   },
+   "properties": {
+    "post_id": 29010,
+    "post_date": "2025-06-18 10:00",
+    "date": "~04.06.2025",
+    "unit": "🇺🇦 ЗСД «Nobody»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.471109,
      50.501278
     ]
