@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.471109,
+     50.501278
+    ]
+   },
+   "properties": {
+    "post_id": 29007,
+    "post_date": "2025-06-18 08:00",
+    "date": "~15.03.2024",
+    "unit": "☠️РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.4712,
      46.493868
     ]
