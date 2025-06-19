@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.876192,
+     48.591902
+    ]
+   },
+   "properties": {
+    "post_id": 29050,
+    "post_date": "2025-06-19 13:00",
+    "date": "04.07.2024",
+    "unit": "🇺🇦 18 Бр, 🇺🇦 2 БСП «Донбас»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.661785,
      48.460185
     ]
