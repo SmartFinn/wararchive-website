@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.661785,
+     48.460185
+    ]
+   },
+   "properties": {
+    "post_id": 29032,
+    "post_date": "2025-06-19 11:01",
+    "date": "15.04.2025",
+    "unit": "🇺🇦12 БрСпП «Азов»,🇺🇦2 БСП, МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.804047,
      51.130732
     ]
