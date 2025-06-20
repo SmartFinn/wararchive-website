@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.458904,
+     48.305471
+    ]
+   },
+   "properties": {
+    "post_id": 29087,
+    "post_date": "2025-06-20 17:00",
+    "date": "~03-04.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина», РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.341588,
      51.387638
     ]
