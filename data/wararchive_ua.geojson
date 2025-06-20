@@ -102,6 +102,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.332082,
+     48.326315
+    ]
+   },
+   "properties": {
+    "post_id": 29033,
+    "post_date": "2025-06-19 11:30",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.661785,
      48.460185
     ]
@@ -302,7 +318,7 @@
     "post_id": 29010,
     "post_date": "2025-06-18 10:00",
     "date": "~04.06.2025",
-    "unit": "🇺🇦 ЗСД «Nobody»"
+    "unit": "🇺🇦 4 БрОП «Рубіж»,🇺🇦1 БОП, ВР"
    }
   },
   {
