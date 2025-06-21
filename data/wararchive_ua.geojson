@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.460968,
+     48.30353
+    ]
+   },
+   "properties": {
+    "post_id": 29087,
+    "post_date": "2025-06-20 17:00",
+    "date": "~03-04.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина», РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.458904,
      48.305471
     ]
@@ -210511,70 +210527,6 @@
     "post_date": "2023-06-14 06:51",
     "date": "06.2023",
     "unit": "?"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     36.821145,
-     47.722349
-    ]
-   },
-   "properties": {
-    "post_id": 1853,
-    "post_date": "2023-06-13 20:10",
-    "date": null,
-    "unit": null
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     36.788331,
-     47.757426
-    ]
-   },
-   "properties": {
-    "post_id": 1853,
-    "post_date": "2023-06-13 20:10",
-    "date": null,
-    "unit": null
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     36.803417,
-     47.728706
-    ]
-   },
-   "properties": {
-    "post_id": 1853,
-    "post_date": "2023-06-13 20:10",
-    "date": null,
-    "unit": null
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     36.793601,
-     47.755002
-    ]
-   },
-   "properties": {
-    "post_id": 1853,
-    "post_date": "2023-06-13 20:10",
-    "date": null,
-    "unit": null
    }
   },
   {
