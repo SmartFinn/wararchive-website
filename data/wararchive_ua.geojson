@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.81745,
+     51.13343
+    ]
+   },
+   "properties": {
+    "post_id": 29107,
+    "post_date": "2025-06-21 18:30",
+    "date": "~17.06.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon» (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.306694,
+     48.90068
+    ]
+   },
+   "properties": {
+    "post_id": 29105,
+    "post_date": "2025-06-21 18:04",
+    "date": "~19.06.2025",
+    "unit": "🇺🇦 81 ОАеМБр, 90 ОАеМБ, ПБпАК «Apachi»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.309556,
+     48.899686
+    ]
+   },
+   "properties": {
+    "post_id": 29105,
+    "post_date": "2025-06-21 18:04",
+    "date": "~19.06.2025",
+    "unit": "🇺🇦 81 ОАеМБр, 90 ОАеМБ, ПБпАК «Apachi»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.145376,
      48.922356
     ]
