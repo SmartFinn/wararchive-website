@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.881594,
+     48.548312
+    ]
+   },
+   "properties": {
+    "post_id": 29131,
+    "post_date": "2025-06-22 18:01",
+    "date": "~15.05.2023",
+    "unit": "🇺🇦 80 ОДШБр, 1 ДШБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.284718,
+     51.274212
+    ]
+   },
+   "properties": {
+    "post_id": 29123,
+    "post_date": "2025-06-22 17:03",
+    "date": "~20.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.686601,
      47.895721
     ]
