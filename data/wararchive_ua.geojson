@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.804497,
+     47.800772
+    ]
+   },
+   "properties": {
+    "post_id": 29144,
+    "post_date": "2025-06-23 12:00",
+    "date": "22.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 67 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.787933,
      51.151793
     ]
