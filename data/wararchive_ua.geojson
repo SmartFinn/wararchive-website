@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.787933,
+     51.151793
+    ]
+   },
+   "properties": {
+    "post_id": 29143,
+    "post_date": "2025-06-23 11:02",
+    "date": "~19.06.2025",
+    "unit": "🇺🇦 8 ОП СпП (?), 🇺🇦 «Sumy Defense»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.781405,
+     51.148329
+    ]
+   },
+   "properties": {
+    "post_id": 29143,
+    "post_date": "2025-06-23 11:02",
+    "date": "~19.06.2025",
+    "unit": "🇺🇦 8 ОП СпП (?), 🇺🇦 «Sumy Defense»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.964255,
      48.575872
     ]
