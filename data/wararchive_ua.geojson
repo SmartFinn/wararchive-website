@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.86792,
+     51.136544
+    ]
+   },
+   "properties": {
+    "post_id": 29176,
+    "post_date": "2025-06-24 16:00",
+    "date": "~21.06.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon» (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.868671,
+     51.136744
+    ]
+   },
+   "properties": {
+    "post_id": 29176,
+    "post_date": "2025-06-24 16:00",
+    "date": "~21.06.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon» (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.164959,
      49.087485
     ]
