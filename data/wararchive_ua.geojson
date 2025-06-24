@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.164959,
+     49.087485
+    ]
+   },
+   "properties": {
+    "post_id": 29174,
+    "post_date": "2025-06-24 14:03",
+    "date": "~22.06.2025",
+    "unit": "🇺🇦 53 ОМБр, 🇺🇦 ББпС «Signum» та 🦁 60 ОМБр "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.917042,
      50.301442
     ]
