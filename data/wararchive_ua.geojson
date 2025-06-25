@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.207446,
+     48.833972
+    ]
+   },
+   "properties": {
+    "post_id": 29198,
+    "post_date": "2025-06-25 18:02",
+    "date": "~19.06.2025",
+    "unit": "🦇 20 ОПБС К-2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.967484,
      48.592493
     ]
