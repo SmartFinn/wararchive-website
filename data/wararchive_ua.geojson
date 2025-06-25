@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.493312,
+     47.826021
+    ]
+   },
+   "properties": {
+    "post_id": 29193,
+    "post_date": "2025-06-25 13:00",
+    "date": "~06.2024",
+    "unit": "🪇 ПО БПЛА «Sicario» та та 🇺🇦 116 ОБрТрО, 144 ОБТрО, 🇺🇦 ГБпС «Solovey»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.038819,
+     51.12249
+    ]
+   },
+   "properties": {
+    "post_id": 29191,
+    "post_date": "2025-06-25 12:30",
+    "date": "~18-22.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.236448,
      48.224358
     ]
