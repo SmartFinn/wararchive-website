@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.014072,
+     48.247426
+    ]
+   },
+   "properties": {
+    "post_id": 29194,
+    "post_date": "2025-06-25 14:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 144 ОЦ ВП СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.013715,
+     48.248737
+    ]
+   },
+   "properties": {
+    "post_id": 29194,
+    "post_date": "2025-06-25 14:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 144 ОЦ ВП СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.013752,
+     48.247159
+    ]
+   },
+   "properties": {
+    "post_id": 29194,
+    "post_date": "2025-06-25 14:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 144 ОЦ ВП СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.013649,
+     48.247592
+    ]
+   },
+   "properties": {
+    "post_id": 29194,
+    "post_date": "2025-06-25 14:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 144 ОЦ ВП СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.014941,
+     48.244226
+    ]
+   },
+   "properties": {
+    "post_id": 29194,
+    "post_date": "2025-06-25 14:01",
+    "date": "~05.2025",
+    "unit": "🇺🇦 144 ОЦ ВП СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.493312,
      47.826021
     ]
