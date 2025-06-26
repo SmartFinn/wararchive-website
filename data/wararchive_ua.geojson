@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.771771,
+     51.142293
+    ]
+   },
+   "properties": {
+    "post_id": 29224,
+    "post_date": "2025-06-26 16:30",
+    "date": "~24.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 225 ОШП, УГ «Alliance Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.56443,
      48.425174
     ]
