@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.4966,
+     46.564543
+    ]
+   },
+   "properties": {
+    "post_id": 29206,
+    "post_date": "2025-06-26 10:03",
+    "date": "~23.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 3 ББО, РУБпАК «Flying Shark» та 4 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.487444,
+     46.504196
+    ]
+   },
+   "properties": {
+    "post_id": 29206,
+    "post_date": "2025-06-26 10:03",
+    "date": "~23.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 3 ББО, РУБпАК «Flying Shark» та 4 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.513999,
+     46.530189
+    ]
+   },
+   "properties": {
+    "post_id": 29206,
+    "post_date": "2025-06-26 10:03",
+    "date": "~23.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 3 ББО, РУБпАК «Flying Shark» та 4 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.546999,
+     46.53937
+    ]
+   },
+   "properties": {
+    "post_id": 29206,
+    "post_date": "2025-06-26 10:03",
+    "date": "~23.06.2025",
+    "unit": "4️⃣ 40 ОБрБО, 3 ББО, РУБпАК «Flying Shark» та 4 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.683268,
      47.498827
     ]
