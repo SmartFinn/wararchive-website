@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.818957,
+     51.133807
+    ]
+   },
+   "properties": {
+    "post_id": 29247,
+    "post_date": "2025-06-27 17:00",
+    "date": "~25.06.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.689301,
      47.227547
     ]
