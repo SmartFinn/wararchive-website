@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.948247,
+     47.158758
+    ]
+   },
+   "properties": {
+    "post_id": 29267,
+    "post_date": "2025-06-28 15:59",
+    "date": "14-15.05.2022",
+    "unit": "👍 Батальйон Калиновського"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.149505,
+     51.247123
+    ]
+   },
+   "properties": {
+    "post_id": 29263,
+    "post_date": "2025-06-28 15:03",
+    "date": "~07.08.2024",
+    "unit": "🇺🇦 ЦСО «А» СБУ, 🇺🇦 «Mich Team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.164455,
+     51.240593
+    ]
+   },
+   "properties": {
+    "post_id": 29263,
+    "post_date": "2025-06-28 15:03",
+    "date": "~07.08.2024",
+    "unit": "🇺🇦 ЦСО «А» СБУ, 🇺🇦 «Mich Team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.160247,
+     51.237372
+    ]
+   },
+   "properties": {
+    "post_id": 29263,
+    "post_date": "2025-06-28 15:03",
+    "date": "~07.08.2024",
+    "unit": "🇺🇦 ЦСО «А» СБУ, 🇺🇦 «Mich Team»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.3131,
      46.750927
     ]
