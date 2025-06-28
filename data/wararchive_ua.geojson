@@ -102,6 +102,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.665744,
+     47.790194
+    ]
+   },
+   "properties": {
+    "post_id": 29242,
+    "post_date": "2025-06-27 11:59",
+    "date": "18.02.2025",
+    "unit": "😇 114 ОБрТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.837611,
      48.398113
     ]
@@ -1608,6 +1624,38 @@
     "coordinates": [
      37.920628,
      48.565036
+    ]
+   },
+   "properties": {
+    "post_id": 29057,
+    "post_date": "2025-06-19 16:01",
+    "date": "~15.06.2025",
+    "unit": "🇺🇦 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.834155,
+     48.543969
+    ]
+   },
+   "properties": {
+    "post_id": 29057,
+    "post_date": "2025-06-19 16:01",
+    "date": "~15.06.2025",
+    "unit": "🇺🇦 5 ОШБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.834377,
+     48.544163
     ]
    },
    "properties": {
