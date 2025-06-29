@@ -1,0 +1,26 @@
+name: Update DeepState GeoJSON
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          ./scripts/get_deepstate_geojson.sh data/deepstate.geojson
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update DeepState GeoJSON file -- ${date}"
