@@ -15,6 +15,7 @@ const createDeepStateLayer = async () => {
       fillColor: feature.properties.fill || '#888',
       fillOpacity: feature.properties['fill-opacity'] ?? 0.3,
     }),
+    attribution: '<a href="https://deepstatemap.live/" target="_blank">DeepStateMAP</a>',
   });
 };
 
