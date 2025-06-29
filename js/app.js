@@ -1,6 +1,7 @@
 import geocoder from "./geocoder.js";
 import ukraineBorders from "./ukraine_borders.js";
 import coordsPopupContent from "./coordsPopup.js";
+import createDeepStateLayer from "./deepStateLayer.js";
 
 const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}{r}', {
     attribution: '&copy; Powered by <a href="https://www.esri.com/">Esri</a>',
@@ -304,7 +305,11 @@ map.on("dragend", updateHashLocation);
 map.on("zoomend", updateHashLocation);
 
 map.addControl(geocoder);
-map.addControl(ukraineBorders);
+map.addLayer(ukraineBorders);
+
+// Add DeepState layer
+const deepStateLayer = await createDeepStateLayer();
+map.addLayer(deepStateLayer);
 
 // Add event listener for right-click
 map.on('contextmenu', (e) => {
