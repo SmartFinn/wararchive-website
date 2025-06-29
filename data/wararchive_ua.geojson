@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.284339,
+     50.010183
+    ]
+   },
+   "properties": {
+    "post_id": 29273,
+    "post_date": "2025-06-29 07:02",
+    "date": "27.02.2022",
+    "unit": "🇺🇦 НПУ та ⚔ 92 ОМБр, 2 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.948247,
      47.158758
     ]
