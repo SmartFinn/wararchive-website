@@ -6,6 +6,182 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.896275,
+     51.320936
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.895594,
+     51.318641
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.897557,
+     51.318264
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.901465,
+     51.317518
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.903544,
+     51.317127
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.904495,
+     51.31674
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.90381,
+     51.316865
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.903216,
+     51.31689
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.90344,
+     51.316825
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.904269,
+     51.317244
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.900999,
+     51.309347
+    ]
+   },
+   "properties": {
+    "post_id": 29301,
+    "post_date": "2025-06-30 13:00",
+    "date": "09.09.2024",
+    "unit": "106 ПДД, 51 ПДП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.445386,
      47.472648
     ]
