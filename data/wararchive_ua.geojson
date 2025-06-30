@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.445386,
+     47.472648
+    ]
+   },
+   "properties": {
+    "post_id": 29298,
+    "post_date": "2025-06-30 12:00",
+    "date": "~25.06.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 батальйон «Flying Skull»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.20309,
      45.255344
     ]
