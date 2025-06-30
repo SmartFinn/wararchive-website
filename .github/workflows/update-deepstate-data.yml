@@ -23,4 +23,4 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "Update DeepState GeoJSON file -- ${date}"
+          message: "Update DeepState GeoJSON file"
