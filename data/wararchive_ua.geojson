@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.972717,
+     47.217075
+    ]
+   },
+   "properties": {
+    "post_id": 29338,
+    "post_date": "2025-07-01 13:02",
+    "date": "26.06.2025 та 01.07.2025",
+    "unit": "🔰 ГУР МОУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.328857,
+     47.204437
+    ]
+   },
+   "properties": {
+    "post_id": 29338,
+    "post_date": "2025-07-01 13:02",
+    "date": "26.06.2025 та 01.07.2025",
+    "unit": "🔰 ГУР МОУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.978061,
      49.223483
     ]
