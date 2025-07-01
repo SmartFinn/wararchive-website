@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.978061,
+     49.223483
+    ]
+   },
+   "properties": {
+    "post_id": 29331,
+    "post_date": "2025-07-01 11:01",
+    "date": "~03.2023 та 07.2024",
+    "unit": "🇺🇦 66 ОМБр, 3 МБ «Fireflies»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.981932,
+     49.225256
+    ]
+   },
+   "properties": {
+    "post_id": 29331,
+    "post_date": "2025-07-01 11:01",
+    "date": "~03.2023 та 07.2024",
+    "unit": "🇺🇦 66 ОМБр, 3 МБ «Fireflies»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.993496,
      48.598513
     ]
