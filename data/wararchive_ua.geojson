@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.878315,
+     47.462426
+    ]
+   },
+   "properties": {
+    "post_id": 29367,
+    "post_date": "2025-07-02 14:02",
+    "date": "~25.07.2023",
+    "unit": "🇺🇦 3 БрОП «Спартан», РРСП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.784764,
      50.882033
     ]
