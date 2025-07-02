@@ -30,7 +30,7 @@ LANG=C curl \
     --output "$TEMP_JSON_FILE" "$URL"
 
 echo "Transforming '${TEMP_JSON_FILE}' into '${TEMP_GEOJSON_FILE}' ..." >&2
-jq --compact-output '.map | del(.features[] | select(.geometry.type == "Point"))
+jq '.map | del(.features[] | select(.geometry.type == "Point"))
     | .features |= map(
         select(
           (.properties.name | tostring)
