@@ -37,7 +37,8 @@ jobs:
         run: |
           shopt -s nullglob
           for f in data/*.json data/*.geojson; do
-              jq --compact-output '.' "$f" > "$f"
+              jq --compact-output '.' "$f" > "$f".tmp
+              mv -f "$f".tmp "$f"
           done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
