@@ -33,6 +33,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Compress GeoJSON files before the deploy
+        run: |
+          shopt -s nullglob
+          for f in data/*.json data/*.geojson; do
+              jq --compact-output '.' "$f" > "$f"
+          done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
