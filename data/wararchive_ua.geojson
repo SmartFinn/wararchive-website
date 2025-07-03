@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.216039,
+     47.789226
+    ]
+   },
+   "properties": {
+    "post_id": 29401,
+    "post_date": "2025-07-03 19:00",
+    "date": "~03-05.2025",
+    "unit": "🇺🇦 МЛ ГУР МОУ, «Med Team Alpha»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.503673,
      52.601237
     ]
