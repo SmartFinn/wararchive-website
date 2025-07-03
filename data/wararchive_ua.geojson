@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.784777,
+     46.668962
+    ]
+   },
+   "properties": {
+    "post_id": 29382,
+    "post_date": "2025-07-03 10:00",
+    "date": "~2024-03.2025",
+    "unit": "😎 39 ОБрБО, 🇺🇦 ДШГ «Ведмеді»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.944551,
      50.292928
     ]
