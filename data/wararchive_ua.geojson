@@ -6,6 +6,182 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.554083,
+     48.343932
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552938,
+     48.345765
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552487,
+     48.347458
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552568,
+     48.347812
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.554026,
+     48.348635
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.553913,
+     48.348626
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.550929,
+     48.361002
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552927,
+     48.351371
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.552914,
+     48.356919
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.553304,
+     48.357012
+    ]
+   },
+   "properties": {
+    "post_id": 29427,
+    "post_date": "2025-07-04 16:00",
+    "date": "~29.04.2025",
+    "unit": "РГ СпП «Грачі» vs 🦁 157 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.681898,
+     48.324423
+    ]
+   },
+   "properties": {
+    "post_id": 29425,
+    "post_date": "2025-07-04 15:04",
+    "date": "~06.2025",
+    "unit": "🔱 36 ОБрМП, 🔷 501 ОБМП, ПБпАК «Грифон 501» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.878842,
      47.448994
     ]
