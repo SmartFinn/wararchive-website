@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.878842,
+     47.448994
+    ]
+   },
+   "properties": {
+    "post_id": 29424,
+    "post_date": "2025-07-04 14:01",
+    "date": "~18.08.2023",
+    "unit": "🇺🇦 3 БрОП «Спартан», РРСП та 3 БОП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.204489,
+     48.155101
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.208382,
+     48.155399
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.212248,
+     48.155731
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.216559,
+     48.156172
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.216734,
+     48.159116
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.218954,
+     48.161822
+    ]
+   },
+   "properties": {
+    "post_id": 29423,
+    "post_date": "2025-07-04 13:03",
+    "date": "02.2025",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.09033,
      48.196699
     ]
