@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.09033,
+     48.196699
+    ]
+   },
+   "properties": {
+    "post_id": 29420,
+    "post_date": "2025-07-04 11:03",
+    "date": "~15.03.2025",
+    "unit": "🇺🇦 59 ОШБр БпС, «Інквізиція», «Kill-team Michigan» та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.15378,
      50.207016
     ]
