@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.79574,
+     47.79983
+    ]
+   },
+   "properties": {
+    "post_id": 29460,
+    "post_date": "2025-07-06 13:03",
+    "date": "~02.07.2025",
+    "unit": "🇺🇦17 Бр «Рейд» та 🧭 ОАБр НГУ, 2 САДН"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.678369,
      48.197331
     ]
