@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.024597,
+     51.123603
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.050956,
+     51.134147
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.050807,
+     51.133746
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.050752,
+     51.134106
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.05087,
+     51.134226
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.051009,
+     51.134157
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.032163,
+     51.12456
+    ]
+   },
+   "properties": {
+    "post_id": 29488,
+    "post_date": "2025-07-07 18:02",
+    "date": "~05.07.2025",
+    "unit": "⚔️ 156 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.879576,
      49.640819
     ]
