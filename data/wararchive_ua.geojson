@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.686613,
+     48.035122
+    ]
+   },
+   "properties": {
+    "post_id": 29489,
+    "post_date": "2025-07-07 18:32",
+    "date": "~05.07.2025 ",
+    "unit": "⚔️ 5 ОВМБр, 2 ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.686461,
+     48.033944
+    ]
+   },
+   "properties": {
+    "post_id": 29489,
+    "post_date": "2025-07-07 18:32",
+    "date": "~05.07.2025 ",
+    "unit": "⚔️ 5 ОВМБр, 2 ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.686619,
+     48.034112
+    ]
+   },
+   "properties": {
+    "post_id": 29489,
+    "post_date": "2025-07-07 18:32",
+    "date": "~05.07.2025 ",
+    "unit": "⚔️ 5 ОВМБр, 2 ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.686113,
+     48.034042
+    ]
+   },
+   "properties": {
+    "post_id": 29489,
+    "post_date": "2025-07-07 18:32",
+    "date": "~05.07.2025 ",
+    "unit": "⚔️ 5 ОВМБр, 2 ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.024597,
      51.123603
     ]
