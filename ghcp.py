@@ -21,6 +21,7 @@
 
 import argparse
 import base64
+import hashlib
 import json
 import os
 import re
@@ -28,6 +29,17 @@ import sys
 from datetime import datetime
 
 import requests
+
+
+def get_git_blob_hash(content: bytes | str) -> str:
+    """Calculate Git blob hash for given file content"""
+    # Convert to bytes if it's a string
+    content_bytes: bytes = content.encode('utf-8') if isinstance(content, str) else content
+
+    # Git blob format: "blob <size>\0<content>"
+    blob_data: bytes = b'blob ' + str(len(content_bytes)).encode() + b'\0' + content_bytes
+
+    return hashlib.sha1(blob_data).hexdigest()
 
 
 def upload_file_to_github(
@@ -65,6 +77,18 @@ def upload_file_to_github(
         sha: str | None = data.get("sha")
     except requests.exceptions.RequestException:
         sha = None
+
+    # Check if the local file hash is matching the uploaded file hash
+    # If the file exists and the content hash matches, skip upload
+    content_hash: str = get_git_blob_hash(content)
+
+    if content_hash == sha:
+        print(
+            f"File '{local_path}' is already up-to-date in '{repo}{'' if not branch
+            else f':{branch}'}/{remote_path}'",
+            file=sys.stderr,
+        )
+        return
 
     now: datetime = datetime.now()
 
