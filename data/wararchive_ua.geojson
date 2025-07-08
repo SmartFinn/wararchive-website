@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.441911,
+     48.330809
+    ]
+   },
+   "properties": {
+    "post_id": 29495,
+    "post_date": "2025-07-08 08:03",
+    "date": "~12-26.06.2025",
+    "unit": "🇺🇦 14 БрОП «Червона Калина», ББС «Starfall»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.961712,
      48.589855
     ]
