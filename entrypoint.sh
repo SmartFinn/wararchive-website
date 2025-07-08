@@ -24,6 +24,8 @@ OUTPUT_DIR="$DATA_DIR/output/$CURRENT_DATE/$CURRENT_TIME"
 CHANNEL_NAME="WarArchive_ua"
 GEOJSON_FILE="$TODAY_DIR/${CHANNEL_NAME}.geojson"
 REPO_FILE="SmartFinn/wararchive-website/data/wararchive_ua.geojson"
+COMMITTER_NAME="telegram-tracker[bot]"
+COMMITTER_EMAIL="telegram-tracker[bot]@users.noreply.github.com"
 
 is_messages_dump_exists() {
 	for subdir in "$TODAY_DIR"/*; do
@@ -97,7 +99,7 @@ fi
 
 echo "==> Uploading GeoJSON file to GitHub..."
 if [ -s "$GEOJSON_FILE" ]; then
-	python3 ghcp.py "$GEOJSON_FILE" "$REPO_FILE"
+	python3 ghcp.py --author "$COMMITTER_NAME" --email "$COMMITTER_EMAIL" "$GEOJSON_FILE" "$REPO_FILE"
 else
 	echo "Error: '$GEOJSON_FILE' is not exists or empty." >&2
 	exit 1
