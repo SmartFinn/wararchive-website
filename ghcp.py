@@ -31,7 +31,13 @@ import requests
 
 
 def upload_file_to_github(
-    token: str, local_path: str, remote_path: str, repo: str, branch: str | None = None
+    token: str,
+    local_path: str,
+    remote_path: str,
+    repo: str,
+    branch: str | None = None,
+    author: str | None = None,
+    email: str | None = None,
 ) -> None:
     api_url: str = f"https://api.github.com/repos/{repo}/contents/{remote_path}"
 
@@ -51,7 +57,9 @@ def upload_file_to_github(
 
     # Check if file already exists to get its SHA
     try:
-        response: requests.Response = requests.get(api_url, headers=headers)
+        response: requests.Response = requests.get(
+            api_url, headers=headers, params={"ref": branch}
+        )
         response.raise_for_status()
         data = response.json()
         sha: str | None = data.get("sha")
@@ -60,7 +68,7 @@ def upload_file_to_github(
 
     now: datetime = datetime.now()
 
-    request_data: dict[str, str] = {
+    request_data: dict[str, str | dict[str, str]] = {
         "message": f"Update {remote_path} - {now:%Y-%m-%d %H:%M}",
         "content": content_encoded,
     }
@@ -70,6 +78,9 @@ def upload_file_to_github(
 
     if sha:
         request_data["sha"] = sha
+
+    if author and email:
+        request_data.update({"committer": {"name": author, "email": email}})
 
     try:
         response = requests.put(api_url, headers=headers, data=json.dumps(request_data))
@@ -150,6 +161,20 @@ Examples:
         "remote_path", help="GitHub path in format: owner/repo[:branch]/path/to/file"
     )
 
+    parser.add_argument(
+        "--author",
+        help="Commit author name (optional)",
+        type=str,
+        default=None,
+    )
+
+    parser.add_argument(
+        "--email",
+        help="Commit author email (optional)",
+        type=str,
+        default=None,
+    )
+
     return parser
 
 
@@ -158,6 +183,10 @@ if __name__ == "__main__":
 
     parser: argparse.ArgumentParser = create_parser()
     args: argparse.Namespace = parser.parse_args()
+
+    # Enforce: if one of --author or --email is set, both must be set
+    if (args.author and not args.email) or (args.email and not args.author):
+        parser.error("Both --author and --email must be provided together.")
 
     try:
         if not github_token:
@@ -174,6 +203,8 @@ if __name__ == "__main__":
             remote_path=parsed_github_path["remote_path"],
             repo=parsed_github_path["repo"],
             branch=parsed_github_path["branch"],
+            author=args.author,
+            email=args.email,
         )
     except Exception as e:
         print(f"Error: {str(e)}", file=sys.stderr)
