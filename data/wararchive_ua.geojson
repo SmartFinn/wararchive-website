@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.825493,
+     47.795279
+    ]
+   },
+   "properties": {
+    "post_id": 29527,
+    "post_date": "2025-07-09 17:00",
+    "date": "~20.07.2022",
+    "unit": "🇺🇦 ЦСП «Омега», 🇺🇦 5 ОЗСП, «Element Tactical»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.862891,
      51.138466
     ]
