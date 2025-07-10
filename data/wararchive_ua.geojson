@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.314096,
+     48.397173
+    ]
+   },
+   "properties": {
+    "post_id": 29539,
+    "post_date": "2025-07-10 11:03",
+    "date": "06.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.93714,
      50.291803
     ]
