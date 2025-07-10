@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.880774,
+     51.2434
+    ]
+   },
+   "properties": {
+    "post_id": 29548,
+    "post_date": "2025-07-10 17:03",
+    "date": "~07.2025",
+    "unit": "🇺🇦 8 ОПСпП, 🐺 1 ГСпП «UA_REG»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.890947,
+     51.295048
+    ]
+   },
+   "properties": {
+    "post_id": 29548,
+    "post_date": "2025-07-10 17:03",
+    "date": "~07.2025",
+    "unit": "🇺🇦 8 ОПСпП, 🐺 1 ГСпП «UA_REG»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.836324,
      48.588879
     ]
