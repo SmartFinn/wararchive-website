@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.856888,
+     48.399234
+    ]
+   },
+   "properties": {
+    "post_id": 29551,
+    "post_date": "2025-07-10 18:01",
+    "date": "06.12.2024",
+    "unit": "🇺🇦 СППОП КОРД"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.880774,
      51.2434
     ]
