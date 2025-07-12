@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.677799,
+     48.065232
+    ]
+   },
+   "properties": {
+    "post_id": 29590,
+    "post_date": "2025-07-12 16:03",
+    "date": "10.07.2025",
+    "unit": "🪇 ПО БПЛА «Sicario»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.588757,
      50.143801
     ]
