@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.516,
+     46.538882
+    ]
+   },
+   "properties": {
+    "post_id": 29614,
+    "post_date": "2025-07-13 18:03",
+    "date": "~11.07.2025",
+    "unit": "🤩 40 ОБрБО, 4 ББО та 3 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5396,
+     46.538161
+    ]
+   },
+   "properties": {
+    "post_id": 29614,
+    "post_date": "2025-07-13 18:03",
+    "date": "~11.07.2025",
+    "unit": "🤩 40 ОБрБО, 4 ББО та 3 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.508866,
+     46.526804
+    ]
+   },
+   "properties": {
+    "post_id": 29614,
+    "post_date": "2025-07-13 18:03",
+    "date": "~11.07.2025",
+    "unit": "🤩 40 ОБрБО, 4 ББО та 3 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.432999,
+     46.559826
+    ]
+   },
+   "properties": {
+    "post_id": 29614,
+    "post_date": "2025-07-13 18:03",
+    "date": "~11.07.2025",
+    "unit": "🤩 40 ОБрБО, 4 ББО та 3 ББО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.064232,
      51.340006
     ]
