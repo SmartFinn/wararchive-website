@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.941104,
+     50.291414
+    ]
+   },
+   "properties": {
+    "post_id": 29643,
+    "post_date": "2025-07-15 12:00",
+    "date": "09.2024",
+    "unit": "🔰 СП «Тимура»,☠️РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.942372,
+     50.291009
+    ]
+   },
+   "properties": {
+    "post_id": 29643,
+    "post_date": "2025-07-15 12:00",
+    "date": "09.2024",
+    "unit": "🔰 СП «Тимура»,☠️РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.690431,
      47.950572
     ]
