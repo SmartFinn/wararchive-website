@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.86371,
+     51.117922
+    ]
+   },
+   "properties": {
+    "post_id": 29649,
+    "post_date": "2025-07-15 17:01",
+    "date": "~12.07.2025",
+    "unit": "🦉 СП «Rhinos Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.760399,
      49.967795
     ]
