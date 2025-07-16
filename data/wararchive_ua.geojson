@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.767894,
+     49.166739
+    ]
+   },
+   "properties": {
+    "post_id": 29664,
+    "post_date": "2025-07-16 17:03",
+    "date": "~14.07.2025",
+    "unit": "🇺🇦 66 ОМБр, 2 МБ «Онуки Адольфівни» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.429738,
      47.622314
     ]
