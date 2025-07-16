@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.276189,
+     51.282712
+    ]
+   },
+   "properties": {
+    "post_id": 29657,
+    "post_date": "2025-07-16 10:04",
+    "date": "~06.2025",
+    "unit": "🇺🇦 33 ОШП та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.222238,
      50.576839
     ]
