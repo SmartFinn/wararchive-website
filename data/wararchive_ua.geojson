@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.872161,
+     51.138705
+    ]
+   },
+   "properties": {
+    "post_id": 29670,
+    "post_date": "2025-07-16 19:30",
+    "date": "~13.07.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 ББС «Pentagon», 🇺🇦 1 ШБ «Чорний Лебідь» та 🐎 110 ОМБр, 🇺🇦 78 ОДШП, 🔰 ГУР МОУ, 🇺🇦 НГУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.767894,
      49.166739
     ]
