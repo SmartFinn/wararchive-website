@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.403402,
+     50.371975
+    ]
+   },
+   "properties": {
+    "post_id": 29684,
+    "post_date": "2025-07-17 12:00",
+    "date": "13.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та ⚔️ 58 ОМПБр, «Fenrir Strike Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.40295,
+     50.371603
+    ]
+   },
+   "properties": {
+    "post_id": 29684,
+    "post_date": "2025-07-17 12:00",
+    "date": "13.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та ⚔️ 58 ОМПБр, «Fenrir Strike Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.805361,
      51.166322
     ]
