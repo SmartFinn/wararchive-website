@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.805361,
+     51.166322
+    ]
+   },
+   "properties": {
+    "post_id": 29678,
+    "post_date": "2025-07-17 11:01",
+    "date": "~16.07.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 1 ШБ «Чорний Лебідь» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.914728,
      50.290183
     ]
