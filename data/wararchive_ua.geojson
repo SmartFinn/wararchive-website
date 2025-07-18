@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.389385,
+     51.278595
+    ]
+   },
+   "properties": {
+    "post_id": 29700,
+    "post_date": "2025-07-18 12:00",
+    "date": "~15.07.2025",
+    "unit": "🇺🇦 225 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.267832,
      47.779195
     ]
