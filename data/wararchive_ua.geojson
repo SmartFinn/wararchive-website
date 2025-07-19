@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.669444,
+     47.275157
+    ]
+   },
+   "properties": {
+    "post_id": 29721,
+    "post_date": "2025-07-19 13:00",
+    "date": "17.07.2025",
+    "unit": "☠️ЛСР vs «Ахмат»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.93829,
      51.54078
     ]
