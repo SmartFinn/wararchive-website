@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.93829,
+     51.54078
+    ]
+   },
+   "properties": {
+    "post_id": 29719,
+    "post_date": "2025-07-19 11:03",
+    "date": "26.06.2025",
+    "unit": "🇺🇦 14 ОПБпАК, Гр «Сірко»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.277171,
      51.279946
     ]
