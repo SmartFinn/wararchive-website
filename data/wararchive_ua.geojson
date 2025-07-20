@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.664302,
+     49.797348
+    ]
+   },
+   "properties": {
+    "post_id": 29735,
+    "post_date": "2025-07-20 10:02",
+    "date": "~16.07.2025",
+    "unit": "🇺🇦429 ОПБпС «Ахіллес»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.272642,
      48.902834
     ]
