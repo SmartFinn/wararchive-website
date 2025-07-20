@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.895665,
+     49.104114
+    ]
+   },
+   "properties": {
+    "post_id": 29742,
+    "post_date": "2025-07-20 15:01",
+    "date": "~18.07.2025",
+    "unit": "🦁 60 ОМБр, 🔥 ББпС «Vidarr» та «Зграя»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.790774,
      49.161651
     ]
