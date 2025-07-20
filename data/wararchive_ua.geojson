@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.678045,
+     48.065234
+    ]
+   },
+   "properties": {
+    "post_id": 29738,
+    "post_date": "2025-07-20 12:02",
+    "date": "~16.07.2025",
+    "unit": "🇺🇦 74 ОРБ, 🪇 ПО БПЛА «Sicario»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.657671,
+     48.0671
+    ]
+   },
+   "properties": {
+    "post_id": 29738,
+    "post_date": "2025-07-20 12:02",
+    "date": "~16.07.2025",
+    "unit": "🇺🇦 74 ОРБ, 🪇 ПО БПЛА «Sicario»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.664302,
      49.797348
     ]
