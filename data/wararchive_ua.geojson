@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.942559,
+     50.293155
+    ]
+   },
+   "properties": {
+    "post_id": 29743,
+    "post_date": "2025-07-20 16:04",
+    "date": "~15.07.2025",
+    "unit": "🇺🇦 57 ОМПБр, 42 ОМПБ «Воля»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.895665,
      49.104114
     ]
