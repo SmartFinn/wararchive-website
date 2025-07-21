@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.855711,
+     48.394277
+    ]
+   },
+   "properties": {
+    "post_id": 29753,
+    "post_date": "2025-07-21 07:02",
+    "date": "21.07.2014",
+    "unit": "73 МЦСпО та ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.855413,
+     48.394795
+    ]
+   },
+   "properties": {
+    "post_id": 29753,
+    "post_date": "2025-07-21 07:02",
+    "date": "21.07.2014",
+    "unit": "73 МЦСпО та ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.855598,
+     48.395342
+    ]
+   },
+   "properties": {
+    "post_id": 29753,
+    "post_date": "2025-07-21 07:02",
+    "date": "21.07.2014",
+    "unit": "73 МЦСпО та ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.854697,
+     48.395833
+    ]
+   },
+   "properties": {
+    "post_id": 29753,
+    "post_date": "2025-07-21 07:02",
+    "date": "21.07.2014",
+    "unit": "73 МЦСпО та ОЦ СпО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.415555,
      48.335224
     ]
