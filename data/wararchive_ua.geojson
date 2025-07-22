@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.994196,
+     48.237718
+    ]
+   },
+   "properties": {
+    "post_id": 29779,
+    "post_date": "2025-07-22 13:00",
+    "date": "28.01.2025",
+    "unit": "🇺🇦 3 БрОП «Спартан», 3 БОП «Смурфи» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.326666,
      46.753252
     ]
