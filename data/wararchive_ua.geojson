@@ -2534,6 +2534,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.284834,
+     50.302033
+    ]
+   },
+   "properties": {
+    "post_id": 29432,
+    "post_date": "2025-07-04 19:01",
+    "date": "~03.09.2024",
+    "unit": "🇺🇦 МЛ ГУР МОУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.49412,
      47.93356
     ]
@@ -3710,7 +3726,7 @@
     "post_id": 29288,
     "post_date": "2025-06-29 19:00",
     "date": "~27.06.2025",
-    "unit": "🇺🇦 8 ОП СпП, 🐺 1 ГСпП «UA_REG»"
+    "unit": "🇺🇦 8 ОПСпП, 🐺 1 ГСпП «UA_REG»"
    }
   },
   {
@@ -4430,7 +4446,7 @@
     "post_id": 29197,
     "post_date": "2025-06-25 17:00",
     "date": "~04.2023",
-    "unit": "🇺🇦 8 ОП СпП, 3 ГСпП"
+    "unit": "🇺🇦 8 ОПСпП, 3 ГСпП"
    }
   },
   {
@@ -4446,7 +4462,7 @@
     "post_id": 29197,
     "post_date": "2025-06-25 17:00",
     "date": "~04.2023",
-    "unit": "🇺🇦 8 ОП СпП, 3 ГСпП"
+    "unit": "🇺🇦 8 ОПСпП, 3 ГСпП"
    }
   },
   {
@@ -6542,7 +6558,7 @@
     "post_id": 28943,
     "post_date": "2025-06-14 18:01",
     "date": "~06.2025",
-    "unit": "🇺🇦 8 ОП СпП, 🐺 1 ГСпП «UA_REG»"
+    "unit": "🇺🇦 8 ОПСпП, 🐺 1 ГСпП «UA_REG»"
    }
   },
   {
@@ -9606,6 +9622,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.506109,
+     47.207004
+    ]
+   },
+   "properties": {
+    "post_id": 28531,
+    "post_date": "2025-05-30 10:04",
+    "date": "29.05.2025",
+    "unit": "⚔️ 65 ОМБр «Великий Луг», 🎏 ББС «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.50427,
+     47.204014
+    ]
+   },
+   "properties": {
+    "post_id": 28531,
+    "post_date": "2025-05-30 10:04",
+    "date": "29.05.2025",
+    "unit": "⚔️ 65 ОМБр «Великий Луг», 🎏 ББС «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.505082,
+     47.204246
+    ]
+   },
+   "properties": {
+    "post_id": 28531,
+    "post_date": "2025-05-30 10:04",
+    "date": "29.05.2025",
+    "unit": "⚔️ 65 ОМБр «Великий Луг», 🎏 ББС «Роніни»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.2271,
      51.0254
     ]
@@ -10766,7 +10830,7 @@
     "post_id": 28437,
     "post_date": "2025-05-25 12:00",
     "date": "15.05.2022",
-    "unit": "🇺🇦 8 ОП СпП"
+    "unit": "🇺🇦 8 ОПСпП"
    }
   },
   {
