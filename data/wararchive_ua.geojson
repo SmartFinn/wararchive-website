@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.540265,
+     51.254543
+    ]
+   },
+   "properties": {
+    "post_id": 29804,
+    "post_date": "2025-07-23 17:34",
+    "date": "~05-07.2025",
+    "unit": "🇺🇦 425 ОШП «Скала»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.534235,
+     51.236355
+    ]
+   },
+   "properties": {
+    "post_id": 29804,
+    "post_date": "2025-07-23 17:34",
+    "date": "~05-07.2025",
+    "unit": "🇺🇦 425 ОШП «Скала»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.536394,
      51.254251
     ]
