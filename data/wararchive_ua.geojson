@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.258717,
+     51.260017
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.258747,
+     51.261078
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.271776,
+     51.263141
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.271726,
+     51.25961
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.273814,
+     51.260472
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.258845,
+     51.26013
+    ]
+   },
+   "properties": {
+    "post_id": 29807,
+    "post_date": "2025-07-23 19:30",
+    "date": "~17.07.2025",
+    "unit": "🇺🇦 ПС ЗСУ та 🇺🇦 33 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.769446,
      46.633124
     ]
