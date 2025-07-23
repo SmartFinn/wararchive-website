@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.520829,
+     50.058055
+    ]
+   },
+   "properties": {
+    "post_id": 29793,
+    "post_date": "2025-07-23 08:03",
+    "date": "26.02.2022",
+    "unit": "Росгвардія vs ⚔ 92 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.1354093,
      51.0009304
     ]
