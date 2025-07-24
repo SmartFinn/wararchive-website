@@ -166,6 +166,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.149577,
+     48.224373
+    ]
+   },
+   "properties": {
+    "post_id": 29797,
+    "post_date": "2025-07-23 12:04",
+    "date": "08.07.2025",
+    "unit": "🇺🇦 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.145154,
+     48.222371
+    ]
+   },
+   "properties": {
+    "post_id": 29797,
+    "post_date": "2025-07-23 12:04",
+    "date": "08.07.2025",
+    "unit": "🇺🇦 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.161588,
+     48.233149
+    ]
+   },
+   "properties": {
+    "post_id": 29797,
+    "post_date": "2025-07-23 12:04",
+    "date": "08.07.2025",
+    "unit": "🇺🇦 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.143124,
+     48.222508
+    ]
+   },
+   "properties": {
+    "post_id": 29797,
+    "post_date": "2025-07-23 12:04",
+    "date": "08.07.2025",
+    "unit": "🇺🇦 155 ОМБр, 1 МБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.849145,
+     48.41862
+    ]
+   },
+   "properties": {
+    "post_id": 29795,
+    "post_date": "2025-07-23 10:00",
+    "date": "~21.07.2025",
+    "unit": "🇺🇦 Бр «Хижак»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.520829,
      50.058055
     ]
@@ -174,7 +254,7 @@
     "post_id": 29793,
     "post_date": "2025-07-23 08:03",
     "date": "26.02.2022",
-    "unit": "Росгвардія vs ⚔ 92 ОМБр"
+    "unit": "Росгвардія vs ⚔ 92 ОМБр, 6 рота"
    }
   },
   {
@@ -23214,7 +23294,7 @@
     "post_id": 26974,
     "post_date": "2025-04-02 16:00",
     "date": "~02-06.2022",
-    "unit": "🐺8 ОП СпП,🇺🇦«Lucas Squad Company»"
+    "unit": "🐺8 ОПСпП,🇺🇦«Lucas Squad Company»"
    }
   },
   {
@@ -23230,7 +23310,7 @@
     "post_id": 26974,
     "post_date": "2025-04-02 16:00",
     "date": "~02-06.2022",
-    "unit": "🐺8 ОП СпП,🇺🇦«Lucas Squad Company»"
+    "unit": "🐺8 ОПСпП,🇺🇦«Lucas Squad Company»"
    }
   },
   {
