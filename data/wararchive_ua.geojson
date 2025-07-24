@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.827387,
+     49.162919
+    ]
+   },
+   "properties": {
+    "post_id": 29831,
+    "post_date": "2025-07-24 18:00",
+    "date": "~22.07.2025",
+    "unit": "🇺🇦 66 ОМБр, ББС «Mara»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.963195,
      51.133881
     ]
