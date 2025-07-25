@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.426128,
+     48.365516
+    ]
+   },
+   "properties": {
+    "post_id": 29837,
+    "post_date": "2025-07-25 07:04",
+    "date": "~07.2025",
+    "unit": "🇺🇦 82 ОДШБр, РеАБатр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.445204,
+     48.366614
+    ]
+   },
+   "properties": {
+    "post_id": 29837,
+    "post_date": "2025-07-25 07:04",
+    "date": "~07.2025",
+    "unit": "🇺🇦 82 ОДШБр, РеАБатр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.920586,
+     50.350951
+    ]
+   },
+   "properties": {
+    "post_id": 29837,
+    "post_date": "2025-07-25 07:04",
+    "date": "~07.2025",
+    "unit": "🇺🇦 82 ОДШБр, РеАБатр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.827387,
      49.162919
     ]
