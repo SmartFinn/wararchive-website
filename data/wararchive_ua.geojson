@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.362654,
+     47.573979
+    ]
+   },
+   "properties": {
+    "post_id": 29892,
+    "post_date": "2025-07-28 10:00",
+    "date": "~24.07.2025",
+    "unit": "🇺🇦 128 ОВМБр «Дике Поле»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.363301,
+     47.574813
+    ]
+   },
+   "properties": {
+    "post_id": 29892,
+    "post_date": "2025-07-28 10:00",
+    "date": "~24.07.2025",
+    "unit": "🇺🇦 128 ОВМБр «Дике Поле»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.764594,
      51.142605
     ]
