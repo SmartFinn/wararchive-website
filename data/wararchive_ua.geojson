@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.764594,
+     51.142605
+    ]
+   },
+   "properties": {
+    "post_id": 29890,
+    "post_date": "2025-07-28 08:01",
+    "date": "~25.07.2025",
+    "unit": "🇺🇦 225 ОШП, 2 ШБ «Alliance Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.17938,
      48.254167
     ]
