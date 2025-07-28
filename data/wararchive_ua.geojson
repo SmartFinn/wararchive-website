@@ -6,6 +6,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.259536,
+     48.368483
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.248555,
+     48.368206
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.242691,
+     48.36491
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.236548,
+     48.361808
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.219127,
+     48.355545
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.212396,
+     48.354756
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.196111,
+     48.353508
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.181858,
+     48.360666
+    ]
+   },
+   "properties": {
+    "post_id": 29898,
+    "post_date": "2025-07-28 16:00",
+    "date": "~07.2025",
+    "unit": "🇺🇦 120 ОРП, «Special Intelligence Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.792296,
      51.155272
     ]
