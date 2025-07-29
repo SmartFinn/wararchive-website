@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.80178,
+     46.59324
+    ]
+   },
+   "properties": {
+    "post_id": 29911,
+    "post_date": "2025-07-29 14:15",
+    "date": "~17.07.2025 ",
+    "unit": "4️⃣ 406 ОАБр,🌟«Собаки Шукаки»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.250498,
      50.496289
     ]
