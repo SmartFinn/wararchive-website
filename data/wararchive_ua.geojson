@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.772464,
+     51.143668
+    ]
+   },
+   "properties": {
+    "post_id": 29930,
+    "post_date": "2025-07-30 19:02",
+    "date": "~25.07.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 1 ШБ «Чорний Лебідь» та 2 ШБ «Alliance Division»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.9808226,
      48.5030794
     ]
