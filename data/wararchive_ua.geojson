@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.6633,
+     45.2597
+    ]
+   },
+   "properties": {
+    "post_id": 29925,
+    "post_date": "2025-07-30 14:05",
+    "date": "11.09.2024",
+    "unit": "🦉 «СП Тимура», СП «Raven Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.281894,
      51.273546
     ]
