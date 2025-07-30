@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     30.903083,
+     45.355972
+    ]
+   },
+   "properties": {
+    "post_id": 29923,
+    "post_date": "2025-07-30 11:30",
+    "date": "~11.09.2023",
+    "unit": "🇺🇦 СП «Артан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.228348,
      50.542139
     ]
