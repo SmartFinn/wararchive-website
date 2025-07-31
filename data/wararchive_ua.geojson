@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.103513,
+     48.24128
+    ]
+   },
+   "properties": {
+    "post_id": 29939,
+    "post_date": "2025-07-31 10:00",
+    "date": "~01.2025",
+    "unit": "🦉 «СП Тимура», 🇺🇦 СП «Стугна»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.920151,
      48.990314
     ]
