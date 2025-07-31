@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.289236,
+     47.792878
+    ]
+   },
+   "properties": {
+    "post_id": 29940,
+    "post_date": "2025-07-31 11:00",
+    "date": "28.07.2025",
+    "unit": "🇺🇦413 ОББС «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.289116,
+     47.792144
+    ]
+   },
+   "properties": {
+    "post_id": 29940,
+    "post_date": "2025-07-31 11:00",
+    "date": "28.07.2025",
+    "unit": "🇺🇦413 ОББС «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.289864,
+     47.792012
+    ]
+   },
+   "properties": {
+    "post_id": 29940,
+    "post_date": "2025-07-31 11:00",
+    "date": "28.07.2025",
+    "unit": "🇺🇦413 ОББС «Рейд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.103513,
      48.24128
     ]
