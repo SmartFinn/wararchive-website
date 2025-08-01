@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.430712,
+     50.258709
+    ]
+   },
+   "properties": {
+    "post_id": 29962,
+    "post_date": "2025-08-01 11:02",
+    "date": "~28.05.2024",
+    "unit": "⚔ 92 ОШБр (?) та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.292328,
      51.167038
     ]
