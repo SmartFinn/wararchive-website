@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.790685,
+     52.113367
+    ]
+   },
+   "properties": {
+    "post_id": 29987,
+    "post_date": "2025-08-02 12:00",
+    "date": "~30.07.2025",
+    "unit": "🇺🇦 1 ОБрТрО, РУБпАК «Чорний Рій» та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.790057,
+     52.113186
+    ]
+   },
+   "properties": {
+    "post_id": 29987,
+    "post_date": "2025-08-02 12:00",
+    "date": "~30.07.2025",
+    "unit": "🇺🇦 1 ОБрТрО, РУБпАК «Чорний Рій» та 🇺🇦 ПС ЗСУ "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.934482,
      48.612796
     ]
