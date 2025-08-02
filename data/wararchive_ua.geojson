@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.934482,
+     48.612796
+    ]
+   },
+   "properties": {
+    "post_id": 29978,
+    "post_date": "2025-08-02 08:01",
+    "date": "12.04.2023",
+    "unit": "🇺🇦 МЛ ГУР МОУ (?), «Tactical Operations Group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.946221,
      48.590385
     ]
