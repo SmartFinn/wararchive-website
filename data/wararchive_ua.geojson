@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.85294,
+     48.436296
+    ]
+   },
+   "properties": {
+    "post_id": 29991,
+    "post_date": "2025-08-02 14:01",
+    "date": "07.2025",
+    "unit": "🇺🇦 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.851945,
+     48.439572
+    ]
+   },
+   "properties": {
+    "post_id": 29991,
+    "post_date": "2025-08-02 14:01",
+    "date": "07.2025",
+    "unit": "🇺🇦 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.856165,
+     48.433997
+    ]
+   },
+   "properties": {
+    "post_id": 29991,
+    "post_date": "2025-08-02 14:01",
+    "date": "07.2025",
+    "unit": "🇺🇦 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.904008,
+     48.403029
+    ]
+   },
+   "properties": {
+    "post_id": 29991,
+    "post_date": "2025-08-02 14:01",
+    "date": "07.2025",
+    "unit": "🇺🇦 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.878009,
+     48.396131
+    ]
+   },
+   "properties": {
+    "post_id": 29991,
+    "post_date": "2025-08-02 14:01",
+    "date": "07.2025",
+    "unit": "🇺🇦 28 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.63768,
+     48.072555
+    ]
+   },
+   "properties": {
+    "post_id": 29990,
+    "post_date": "2025-08-02 13:30",
+    "date": "27.07.2025",
+    "unit": "🦉 «СП Тимура», 🇺🇦 СП «Братство» vs 36 ОМСБр, 29 А"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      31.790685,
      52.113367
     ]
