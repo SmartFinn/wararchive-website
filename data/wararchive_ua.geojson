@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.836627,
+     48.582241
+    ]
+   },
+   "properties": {
+    "post_id": 30030,
+    "post_date": "2025-08-04 12:01",
+    "date": "02.08.2025",
+    "unit": "⚔️ 24 ОМБр vs 98 ПДД"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.682778,
      49.849122
     ]
