@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.344497,
+     48.322477
+    ]
+   },
+   "properties": {
+    "post_id": 30026,
+    "post_date": "2025-08-04 08:00",
+    "date": "~07.07.2025",
+    "unit": "🇺🇦 4 БрОП «Рубіж»,🇺🇦1 БОП, РВП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.595333,
      46.626205
     ]
