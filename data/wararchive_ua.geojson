@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.883975,
+     52.176236
+    ]
+   },
+   "properties": {
+    "post_id": 30043,
+    "post_date": "2025-08-04 14:30",
+    "date": "02.08.2025",
+    "unit": "🇺🇦 1 ОБрТрО, РУБпАК «Чорний рій»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.875782,
      47.979347
     ]
