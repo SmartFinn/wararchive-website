@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.962504,
+     48.641665
+    ]
+   },
+   "properties": {
+    "post_id": 30049,
+    "post_date": "2025-08-04 18:04",
+    "date": "~03.08.2025",
+    "unit": "🇺🇦 427 ОПБпС «Рарог»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.371054,
      47.550265
     ]
