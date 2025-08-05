@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.152718,
+     50.475983
+    ]
+   },
+   "properties": {
+    "post_id": 30071,
+    "post_date": "2025-08-05 16:59",
+    "date": "04.08.2025",
+    "unit": "🇺🇦 22 ОМБр, 🪖 ББпС «Star»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.717563,
      46.623251
     ]
