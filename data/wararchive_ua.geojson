@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.017277,
+     48.733169
+    ]
+   },
+   "properties": {
+    "post_id": 30089,
+    "post_date": "2025-08-06 19:00",
+    "date": "~04.08.2025",
+    "unit": "⚔️ 30 ОМБр, МПБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.99193,
+     48.715619
+    ]
+   },
+   "properties": {
+    "post_id": 30089,
+    "post_date": "2025-08-06 19:00",
+    "date": "~04.08.2025",
+    "unit": "⚔️ 30 ОМБр, МПБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.86096,
+     51.129662
+    ]
+   },
+   "properties": {
+    "post_id": 30088,
+    "post_date": "2025-08-06 18:33",
+    "date": "~04.08.2025",
+    "unit": "🇺🇦 225 ОШП, 🇺🇦 1 ШБ «Чорний Лебідь»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.399192,
      51.271613
     ]
