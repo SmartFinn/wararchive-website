@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.399192,
+     51.271613
+    ]
+   },
+   "properties": {
+    "post_id": 30086,
+    "post_date": "2025-08-06 17:00",
+    "date": "~03.08.2025",
+    "unit": "🇺🇦 5 ОШБр, 🇺🇦 24 ОШБ «Айдар»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.640175,
      50.172899
     ]
