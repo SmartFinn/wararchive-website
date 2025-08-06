@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.640175,
+     50.172899
+    ]
+   },
+   "properties": {
+    "post_id": 30085,
+    "post_date": "2025-08-06 16:01",
+    "date": "02.08.2025",
+    "unit": "🇺🇦 425 ОШП «Скала»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.345026,
      47.577806
     ]
