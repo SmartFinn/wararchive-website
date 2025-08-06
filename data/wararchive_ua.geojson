@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.168865,
+     48.797342
+    ]
+   },
+   "properties": {
+    "post_id": 30081,
+    "post_date": "2025-08-06 13:02",
+    "date": "~28.07.2025",
+    "unit": "🇺🇦 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.172237,
+     48.794848
+    ]
+   },
+   "properties": {
+    "post_id": 30081,
+    "post_date": "2025-08-06 13:02",
+    "date": "~28.07.2025",
+    "unit": "🇺🇦 10 ОГШБр «Едельвейс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.330213,
      47.518513
     ]
