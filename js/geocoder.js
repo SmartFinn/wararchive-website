@@ -1,6 +1,6 @@
 const geocoder = L.Control.geocoder({
     defaultMarkGeocode: true,
-    placeholder: 'Пошук населенного пункту...',
+    placeholder: 'Пошук населеного пункту...',
     errorMessage: 'Нічого не знайдено',
     geocoder: L.Control.Geocoder.nominatim({
         geocodingQueryParams: {
