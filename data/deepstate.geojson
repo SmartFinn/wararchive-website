@@ -9438,23 +9438,38 @@
               0
             ],
             [
-              37.7939513,
-              50.026723,
+              37.8056672,
+              50.0053795,
               0
             ],
             [
-              37.7631735,
-              50.0448173,
+              37.8320536,
+              50.0148025,
               0
             ],
             [
-              37.7122976,
-              50.057001,
+              37.852961,
+              50.037493,
               0
             ],
             [
-              37.7082177,
-              50.0700124,
+              37.826567,
+              50.0582529,
+              0
+            ],
+            [
+              37.7600836,
+              50.0653174,
+              0
+            ],
+            [
+              37.7363302,
+              50.0761739,
+              0
+            ],
+            [
+              37.7257272,
+              50.0869773,
               0
             ],
             [
@@ -41816,7 +41831,7 @@
       },
       "properties": {
         "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
-        "description": "Рух дорогою вільний, люди вільно їздять між населеними пунктами. Інформація зі слів очевидців<br><br>///Traffic is free, people drive freely between settlements. Information from eyewitnesses<br>/// geoJSON.descriptions.#9",
+        "description": "Рух дорогою вільний, люди вільно їздять між насе��еними пунктами. Інформація зі слів очевидців<br><br>///Traffic is free, people drive freely between settlements. Information from eyewitnesses<br>/// geoJSON.descriptions.#9",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
