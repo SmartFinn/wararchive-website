@@ -5096,18 +5096,13 @@
               0
             ],
             [
-              38.110191,
-              48.8397956,
+              38.1022087,
+              48.8388917,
               0
             ],
             [
-              38.0986832,
-              48.8628263,
-              0
-            ],
-            [
-              38.0954512,
-              48.8654628,
+              38.093705,
+              48.8505719,
               0
             ],
             [
@@ -5391,13 +5386,23 @@
               0
             ],
             [
-              38.0131249,
-              48.7684693,
+              37.9736428,
+              48.776728,
               0
             ],
             [
-              37.9815392,
-              48.7688624,
+              37.9506402,
+              48.7809671,
+              0
+            ],
+            [
+              37.9456653,
+              48.7752394,
+              0
+            ],
+            [
+              37.9563953,
+              48.7627588,
               0
             ],
             [
@@ -10805,53 +10810,13 @@
               0
             ],
             [
-              37.2053814,
-              48.2728831,
+              37.2368429,
+              48.275231,
               0
             ],
             [
-              37.2142543,
-              48.2735452,
-              0
-            ],
-            [
-              37.2181119,
-              48.2675983,
-              0
-            ],
-            [
-              37.2357036,
-              48.2697731,
-              0
-            ],
-            [
-              37.2484427,
-              48.2693717,
-              0
-            ],
-            [
-              37.2646263,
-              48.2636002,
-              0
-            ],
-            [
-              37.2727152,
-              48.2627162,
-              0
-            ],
-            [
-              37.2788291,
-              48.2659471,
-              0
-            ],
-            [
-              37.2781275,
-              48.270318,
-              0
-            ],
-            [
-              37.2726986,
-              48.273324,
+              37.2574207,
+              48.2740095,
               0
             ],
             [
@@ -11810,13 +11775,13 @@
               0
             ],
             [
-              37.2843331,
-              48.2882461,
+              37.2753209,
+              48.2932716,
               0
             ],
             [
-              37.2738798,
-              48.2802804,
+              37.2639234,
+              48.2891902,
               0
             ],
             [
@@ -11825,8 +11790,8 @@
               0
             ],
             [
-              37.2439222,
-              48.2741991,
+              37.2385149,
+              48.2777979,
               0
             ],
             [
@@ -30081,18 +30046,13 @@
               0
             ],
             [
-              38.0954512,
-              48.8654628,
+              38.093705,
+              48.8505719,
               0
             ],
             [
-              38.0986832,
-              48.8628263,
-              0
-            ],
-            [
-              38.110191,
-              48.8397956,
+              38.1022087,
+              48.8388917,
               0
             ],
             [
@@ -31841,53 +31801,13 @@
               0
             ],
             [
-              37.2726986,
-              48.273324,
+              37.2574207,
+              48.2740095,
               0
             ],
             [
-              37.2781275,
-              48.270318,
-              0
-            ],
-            [
-              37.2788291,
-              48.2659471,
-              0
-            ],
-            [
-              37.2727152,
-              48.2627162,
-              0
-            ],
-            [
-              37.2646263,
-              48.2636002,
-              0
-            ],
-            [
-              37.2484427,
-              48.2693717,
-              0
-            ],
-            [
-              37.2357036,
-              48.2697731,
-              0
-            ],
-            [
-              37.2181119,
-              48.2675983,
-              0
-            ],
-            [
-              37.2142543,
-              48.2735452,
-              0
-            ],
-            [
-              37.2053814,
-              48.2728831,
+              37.2368429,
+              48.275231,
               0
             ],
             [
@@ -46621,7 +46541,7 @@
       },
       "properties": {
         "name": "Звільнено 04.09 /// Liberated 04.09 /// geoJSON.status.dismissed_at {{at:04.09}}",
-        "description": "4 вересня 2022 у вечірньому зведенні Верховний Головнокомандувач повідомив: \"Хочу відзначити також 42-й окремий мотопіхотний батальйон – завдяки його героїчним діям звільнено два населені пункти на півдні нашої держави\".<br>Нововознисенське звільнено 128-ю бригадою, відповідне відео в їх соціальних мережах<br><br>///On September 4, 2022, during an evening speech, Supreme Commander-in-Chief Volodymyr Zelenskyy announced: \"I also want to celebrate the 42nd separate motorized infantry battalion - thanks to its heroic actions, two settlements in the south of our country were liberated.\" In this way, he confirmed previous reports about the liberation of these settlements.<br>Novovoznysenske was liberated by the 128th brigade, the corresponding video in their social networks<br><br>/// geoJSON.descriptions.#23",
+        "description": "4 вересня 2022 у вечірньому зведенні Верховний Головнокомандувач повідомив: \"Хочу відзначити також 42-й окремий мотопіхотний батальйон – завдяки його героїчним діям звільнено два населені пункти на півдні нашої держави\".<br>Нововознисенське звільнено 128-ю бригадою, відповідне в��део в їх соціальних мережах<br><br>///On September 4, 2022, during an evening speech, Supreme Commander-in-Chief Volodymyr Zelenskyy announced: \"I also want to celebrate the 42nd separate motorized infantry battalion - thanks to its heroic actions, two settlements in the south of our country were liberated.\" In this way, he confirmed previous reports about the liberation of these settlements.<br>Novovoznysenske was liberated by the 128th brigade, the corresponding video in their social networks<br><br>/// geoJSON.descriptions.#23",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
@@ -55039,7 +54959,7 @@
         ]
       },
       "properties": {
-        "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
+        "name": "Звіль��ено /// Liberated /// geoJSON.status.dismissed",
         "description": "Території були звільнені значно раніше.<br>///<br>The territories were liberated much earlier.<br>/// geoJSON.descriptions.#30",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
