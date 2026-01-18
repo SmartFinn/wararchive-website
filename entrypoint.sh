@@ -45,7 +45,7 @@ get_last_message_id() {
 		last_json_file="$subdir/$CHANNEL_NAME/${CHANNEL_NAME}_messages.json"
 	done
 
-    python -c "import json; print(json.load(open('$last_json_file', 'r'))['messages'][0]['id'])"
+	python -c "import ijson; print(next(ijson.items(open('$last_json_file', 'rb'), 'messages.item.id')))"
 }
 
 cleanup_output_dir() {
