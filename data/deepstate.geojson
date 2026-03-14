@@ -6553,28 +6553,18 @@
               0
             ],
             [
-              34.923695,
-              51.1374295,
+              34.9253258,
+              51.1316667,
               0
             ],
             [
-              34.9315598,
-              51.1351013,
+              34.9354222,
+              51.1250827,
               0
             ],
             [
-              34.9369324,
-              51.1414949,
-              0
-            ],
-            [
-              34.95805,
-              51.134918,
-              0
-            ],
-            [
-              34.962393,
-              51.129707,
+              34.9509228,
+              51.1186568,
               0
             ],
             [
@@ -6843,18 +6833,18 @@
               0
             ],
             [
-              34.967132,
-              51.126702,
+              34.9552015,
+              51.1220153,
               0
             ],
             [
-              34.957444,
-              51.139628,
+              34.9545258,
+              51.1270248,
               0
             ],
             [
-              34.9330042,
-              51.1495359,
+              34.9362658,
+              51.1307955,
               0
             ],
             [
@@ -12357,18 +12347,18 @@
               0
             ],
             [
-              34.9330042,
-              51.1495359,
+              34.9362658,
+              51.1307955,
               0
             ],
             [
-              34.957444,
-              51.139628,
+              34.9545258,
+              51.1270248,
               0
             ],
             [
-              34.967132,
-              51.126702,
+              34.9552015,
+              51.1220153,
               0
             ],
             [
@@ -42990,7 +42980,7 @@
       },
       "properties": {
         "name": "Звільнено 31.03 /// Liberated 31.03 /// geoJSON.status.dismissed_at {{at:31.03}}",
-        "description": "Фейсбук-сторінка Правого сектору пові��омляє про звільнення ряду населених пунктів, позначених тут<br>///<br>The Right sector announced the liberation of those settlements on their facebook page<br>/// geoJSON.descriptions.#14",
+        "description": "Фейсбук-сторінка Правого сектору повідомляє про звільнення ряду населени�� пунктів, позначених тут<br>///<br>The Right sector announced the liberation of those settlements on their facebook page<br>/// geoJSON.descriptions.#14",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
@@ -44865,7 +44855,7 @@
         ]
       },
       "properties": {
-        "name": "Звільнено /// Liberated��/// geoJSON.status.dismissed",
+        "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
         "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновлення залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
