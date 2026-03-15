@@ -7526,18 +7526,13 @@
               0
             ],
             [
-              36.8457464,
-              48.0720612,
+              36.8520979,
+              48.0800325,
               0
             ],
             [
-              36.8551893,
-              48.0657525,
-              0
-            ],
-            [
-              36.8663457,
-              48.0656373,
+              36.863429,
+              48.0819825,
               0
             ],
             [
@@ -9594,8 +9589,8 @@
         "coordinates": [
           [
             [
-              36.9017421,
-              48.0658789,
+              36.9000255,
+              48.0821662,
               0
             ],
             [
@@ -10989,28 +10984,18 @@
               0
             ],
             [
-              36.8663457,
-              48.0656373,
+              36.863429,
+              48.0819825,
               0
             ],
             [
-              36.8712037,
-              48.0636895,
+              36.8762401,
+              48.0833377,
               0
             ],
             [
-              36.8772622,
-              48.0562347,
-              0
-            ],
-            [
-              36.8931487,
-              48.0593644,
-              0
-            ],
-            [
-              36.9017421,
-              48.0658789,
+              36.9000255,
+              48.0821662,
               0
             ]
           ]
@@ -31388,38 +31373,18 @@
               0
             ],
             [
-              36.9017421,
-              48.0658789,
+              36.9000255,
+              48.0821662,
               0
             ],
             [
-              36.8931487,
-              48.0593644,
+              36.8762401,
+              48.0833377,
               0
             ],
             [
-              36.8772622,
-              48.0562347,
-              0
-            ],
-            [
-              36.8712037,
-              48.0636895,
-              0
-            ],
-            [
-              36.8663457,
-              48.0656373,
-              0
-            ],
-            [
-              36.8551893,
-              48.0657525,
-              0
-            ],
-            [
-              36.8457464,
-              48.0720612,
+              36.863429,
+              48.0819825,
               0
             ],
             [
@@ -42980,7 +42945,7 @@
       },
       "properties": {
         "name": "Звільнено 31.03 /// Liberated 31.03 /// geoJSON.status.dismissed_at {{at:31.03}}",
-        "description": "Фейсбук-сторінка Правого сектору повідомляє про звільнення ряду населени�� пунктів, позначених тут<br>///<br>The Right sector announced the liberation of those settlements on their facebook page<br>/// geoJSON.descriptions.#14",
+        "description": "Фейсбук-сторінка Правого сектору повідомляє про звільнення ряду населених пунктів, позначених тут<br>///<br>The Right sector announced the liberation of those settlements on their facebook page<br>/// geoJSON.descriptions.#14",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
@@ -44856,7 +44821,7 @@
       },
       "properties": {
         "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
-        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновлення залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
+        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Куб��аков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновлення залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
