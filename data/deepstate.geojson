@@ -573,13 +573,13 @@
               0
             ],
             [
-              37.8184326,
-              48.6524882,
+              37.8006656,
+              48.6438688,
               0
             ],
             [
-              37.802958,
-              48.6528096,
+              37.7979665,
+              48.6576765,
               0
             ],
             [
@@ -29179,13 +29179,13 @@
               0
             ],
             [
-              37.802958,
-              48.6528096,
+              37.7979665,
+              48.6576765,
               0
             ],
             [
-              37.8184326,
-              48.6524882,
+              37.8006656,
+              48.6438688,
               0
             ],
             [
@@ -54349,7 +54349,7 @@
       },
       "properties": {
         "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
-        "description": "Невдалий десант ворога з гелікоптерів, який закінчився розгромом та евакуацією цими ж гелікоптерами тих, хто виж��в.<br><br>///Unsuccessful landing of the enemy from helicopters, which ended in defeat and evacuation by the same helicopters of the survivors.<br><br>/// geoJSON.descriptions.#29",
+        "description": "Невдалий десант ворога з гелікоптерів, який закінчився розгромом та евакуацією цими ж гелікоптерами тих, хто ви��ив.<br><br>///Unsuccessful landing of the enemy from helicopters, which ended in defeat and evacuation by the same helicopters of the survivors.<br><br>/// geoJSON.descriptions.#29",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
