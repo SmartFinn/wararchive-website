@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.363121,
+     47.588772
+    ]
+   },
+   "properties": {
+    "post_id": 37279,
+    "post_date": "2026-07-26 10:00",
+    "date": "12.2025",
+    "unit": "🇺🇦 Міжнародний легіон ГУР МО, «Med Team Alpha»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.2764,
      51.277246
     ]
