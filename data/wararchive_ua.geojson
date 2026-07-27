@@ -118,6 +118,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.860723,
+     50.209056
+    ]
+   },
+   "properties": {
+    "post_id": 37265,
+    "post_date": "2026-07-25 12:07",
+    "date": "19.03.2026",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 6 ОПСпП «Рейнджер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.86652,
      48.594602
     ]
@@ -726,6 +742,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.887138,
+     50.203977
+    ]
+   },
+   "properties": {
+    "post_id": 37184,
+    "post_date": "2026-07-20 11:25",
+    "date": "~02.2026",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 6 ОПСпП «Рейнджер»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.058936,
      47.444753
     ]
@@ -765,7 +797,7 @@
    "properties": {
     "post_id": 37177,
     "post_date": "2026-07-19 07:04",
-    "date": "",
+    "date": "07.2026",
     "unit": "⚡️ ПС ЗСУ, 🇺🇦 40 БрТА «Привид Києва»"
    }
   },
