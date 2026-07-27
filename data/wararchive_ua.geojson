@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.899487,
+     48.769393
+    ]
+   },
+   "properties": {
+    "post_id": 37286,
+    "post_date": "2026-07-27 12:24",
+    "date": "~05.2026",
+    "unit": "214 ОШБ OPFOR"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.215977,
      48.349953
     ]
