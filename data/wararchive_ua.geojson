@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.366594,
+     47.588546
+    ]
+   },
+   "properties": {
+    "post_id": 37331,
+    "post_date": "2026-07-29 14:00",
+    "date": "04.2026",
+    "unit": "🦉 ГУР МО, 🇺🇦 СП «Артан»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.110409,
      47.405441
     ]
