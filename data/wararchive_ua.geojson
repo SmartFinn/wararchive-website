@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.778139,
+     50.943995
+    ]
+   },
+   "properties": {
+    "post_id": 37318,
+    "post_date": "2026-07-29 07:05",
+    "date": "26.02.2022",
+    "unit": "ТрО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.191021,
      51.642959
     ]
