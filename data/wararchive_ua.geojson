@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.49397,
+     45.363381
+    ]
+   },
+   "properties": {
+    "post_id": 37387,
+    "post_date": "2026-08-02 08:02",
+    "date": "29-30.07.2026",
+    "unit": "ГУР МО"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.756192,
      47.979908
     ]
