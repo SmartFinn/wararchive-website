@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.609382,
+     49.710111
+    ]
+   },
+   "properties": {
+    "post_id": 37408,
+    "post_date": "2026-08-03 14:11",
+    "date": "08.2026",
+    "unit": "⚔️ 41 ОМБр, 2 МБ, РБпАК «Привид»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.38561,
      50.429805
     ]
