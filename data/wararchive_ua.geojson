@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.685981,
+     48.51392
+    ]
+   },
+   "properties": {
+    "post_id": 37417,
+    "post_date": "2026-08-04 16:51",
+    "date": "~01.08.2026",
+    "unit": "ПС ЗСУ, 40 БрТА «Привид Києва»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.453053,
      50.598089
     ]
