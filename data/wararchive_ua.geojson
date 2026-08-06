@@ -6,6 +6,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.188493,
+     50.393062
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.187715,
+     50.39042
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.190102,
+     50.392159
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.188686,
+     50.390572
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.188729,
+     50.392296
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.191926,
+     50.391496
+    ]
+   },
+   "properties": {
+    "post_id": 37441,
+    "post_date": "2026-08-06 14:34",
+    "date": "08.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      30.137545,
      50.810114
     ]
