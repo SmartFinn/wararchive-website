@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.196185,
+     50.388903
+    ]
+   },
+   "properties": {
+    "post_id": 37449,
+    "post_date": "2026-08-07 08:01",
+    "date": "07.2026",
+    "unit": "🇺🇦 16 АК, ⚔️ 58 ОМПБр (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.833746,
      47.833224
     ]
