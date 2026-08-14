@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     33.9595,
+     47.196195
+    ]
+   },
+   "properties": {
+    "post_id": 37570,
+    "post_date": "2026-08-14 10:00",
+    "date": "08.08.2026",
+    "unit": "ПС ЗСУ, 40 БрТА"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.87211,
      51.715749
     ]
