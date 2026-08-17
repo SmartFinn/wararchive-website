@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.596226,
+     48.048402
+    ]
+   },
+   "properties": {
+    "post_id": 37638,
+    "post_date": "2026-08-17 13:18",
+    "date": "~07.2026",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 3 ОПСпП, 3 ГрСпП, «Тріаріум»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.698201,
      48.538041
     ]
