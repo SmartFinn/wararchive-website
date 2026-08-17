@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.698201,
+     48.538041
+    ]
+   },
+   "properties": {
+    "post_id": 37637,
+    "post_date": "2026-08-17 12:54",
+    "date": "08.2026",
+    "unit": "🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.397979,
      50.297856
     ]
