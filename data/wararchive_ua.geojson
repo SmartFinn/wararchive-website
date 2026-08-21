@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.722999,
+     46.62662
+    ]
+   },
+   "properties": {
+    "post_id": 37722,
+    "post_date": "2026-08-21 10:03",
+    "date": "19.08.2026",
+    "unit": "ПС ЗСУ та 34 ОБрМП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.440333,
      46.423233
     ]
