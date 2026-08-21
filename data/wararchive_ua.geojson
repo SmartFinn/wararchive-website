@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.440333,
+     46.423233
+    ]
+   },
+   "properties": {
+    "post_id": 37720,
+    "post_date": "2026-08-21 08:02",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori», 11 Бр, БпАК «Болгаричі», 🫥 34 ОБрМП, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.680333,
+     46.616094
+    ]
+   },
+   "properties": {
+    "post_id": 37720,
+    "post_date": "2026-08-21 08:02",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori», 11 Бр, БпАК «Болгаричі», 🫥 34 ОБрМП, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.680632,
      48.50648
     ]
