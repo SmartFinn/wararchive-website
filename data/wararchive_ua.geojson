@@ -6,6 +6,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.848999,
+     45.999686
+    ]
+   },
+   "properties": {
+    "post_id": 37794,
+    "post_date": "2026-08-24 14:14",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8482,
+     45.999587
+    ]
+   },
+   "properties": {
+    "post_id": 37794,
+    "post_date": "2026-08-24 14:14",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8459,
+     45.999828
+    ]
+   },
+   "properties": {
+    "post_id": 37794,
+    "post_date": "2026-08-24 14:14",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.847999,
+     45.998665
+    ]
+   },
+   "properties": {
+    "post_id": 37794,
+    "post_date": "2026-08-24 14:14",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.8481,
+     45.999971
+    ]
+   },
+   "properties": {
+    "post_id": 37794,
+    "post_date": "2026-08-24 14:14",
+    "date": "08.2026",
+    "unit": "😎  СБУ, «Viktori»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.775577,
      48.856933
     ]
