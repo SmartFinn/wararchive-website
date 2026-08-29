@@ -14,7 +14,7 @@
     "post_id": 37920,
     "post_date": "2026-08-28 18:28",
     "date": "~25.08.2026",
-    "unit": "ПС ЗСУ"
+    "unit": "⚡️ ПС ЗСУ"
    }
   },
   {
@@ -60,54 +60,6 @@
    },
    "properties": {
     "post_id": 37919,
-    "post_date": "2026-08-28 17:03",
-    "date": "~27.08.2026",
-    "unit": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     37.571111,
-     49.764608
-    ]
-   },
-   "properties": {
-    "post_id": 37918,
-    "post_date": "2026-08-28 17:03",
-    "date": "~27.08.2026",
-    "unit": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     37.574288,
-     49.767236
-    ]
-   },
-   "properties": {
-    "post_id": 37918,
-    "post_date": "2026-08-28 17:03",
-    "date": "~27.08.2026",
-    "unit": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     37.5759,
-     49.768362
-    ]
-   },
-   "properties": {
-    "post_id": 37918,
     "post_date": "2026-08-28 17:03",
     "date": "~27.08.2026",
     "unit": ""
