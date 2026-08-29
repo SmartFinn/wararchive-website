@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     38.178268,
+     47.92767
+    ]
+   },
+   "properties": {
+    "post_id": 37952,
+    "post_date": "2026-08-29 15:06",
+    "date": "26.08.2014",
+    "unit": "Бат. «Донбас»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.176737,
+     47.928967
+    ]
+   },
+   "properties": {
+    "post_id": 37952,
+    "post_date": "2026-08-29 15:06",
+    "date": "26.08.2014",
+    "unit": "Бат. «Донбас»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.794929,
      48.118559
     ]
