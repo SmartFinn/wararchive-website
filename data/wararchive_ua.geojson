@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.600762,
+     49.803248
+    ]
+   },
+   "properties": {
+    "post_id": 37977,
+    "post_date": "2026-08-31 08:04",
+    "date": "08.2026",
+    "unit": "2 КНГУ, 23 ОШП «Р.У.Г»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.266381,
      48.750491
     ]
