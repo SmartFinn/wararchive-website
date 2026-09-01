@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.552063,
+     47.974884
+    ]
+   },
+   "properties": {
+    "post_id": 38000,
+    "post_date": "2026-09-01 08:02",
+    "date": "~02.2024",
+    "unit": "🔼14 ОП БпАК, Бат. \"Нахтіґаль\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.514671,
+     47.987321
+    ]
+   },
+   "properties": {
+    "post_id": 38000,
+    "post_date": "2026-09-01 08:02",
+    "date": "~02.2024",
+    "unit": "🔼14 ОП БпАК, Бат. \"Нахтіґаль\""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.83071,
      51.19858
     ]
