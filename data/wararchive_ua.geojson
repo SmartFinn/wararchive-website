@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.920964,
+     48.57496
+    ]
+   },
+   "properties": {
+    "post_id": 38067,
+    "post_date": "2026-09-04 08:04",
+    "date": "09.2026",
+    "unit": "🦁 11 АК, ⚔️ 24 ОМБр, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.652129,
      49.854645
     ]
