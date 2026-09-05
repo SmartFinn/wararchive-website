@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.82756,
+     48.959948
+    ]
+   },
+   "properties": {
+    "post_id": 38085,
+    "post_date": "2026-09-05 10:04",
+    "date": "~08.2026",
+    "unit": "🇺🇦 3 АК, 🇺🇦 21 ОПБпС «KRAKEN», «Recon Company», та 🇺🇦 3 ОРБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.227176,
      48.419982
     ]
