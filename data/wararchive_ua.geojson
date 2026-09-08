@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.066267,
+     48.536269
+    ]
+   },
+   "properties": {
+    "post_id": 38147,
+    "post_date": "2026-09-08 14:56",
+    "date": "09.2026",
+    "unit": "🇺🇦 ДПСУ 🇺🇦 ГВ БАС «Фенікс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.069126,
+     48.534574
+    ]
+   },
+   "properties": {
+    "post_id": 38147,
+    "post_date": "2026-09-08 14:56",
+    "date": "09.2026",
+    "unit": "🇺🇦 ДПСУ 🇺🇦 ГВ БАС «Фенікс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.065908,
+     48.535583
+    ]
+   },
+   "properties": {
+    "post_id": 38147,
+    "post_date": "2026-09-08 14:56",
+    "date": "09.2026",
+    "unit": "🇺🇦 ДПСУ 🇺🇦 ГВ БАС «Фенікс»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.284645,
      51.274112
     ]
