@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     30.270854,
+     50.565469
+    ]
+   },
+   "properties": {
+    "post_id": 38202,
+    "post_date": "2026-09-10 08:01",
+    "date": "03.03.2022",
+    "unit": "🐗 214 ОНБ OPFOR х 76 Гв. ДШД 🇷🇺"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.331457,
      49.495054
     ]
