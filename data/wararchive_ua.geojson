@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     30.904393,
+     50.571378
+    ]
+   },
+   "properties": {
+    "post_id": 38227,
+    "post_date": "2026-09-11 08:03",
+    "date": "03.2022",
+    "unit": "🐺  Бат. ім. «Шейха Мансура» "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.923042,
      50.301618
     ]
