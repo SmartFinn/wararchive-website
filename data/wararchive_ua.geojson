@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.382135,
+     47.616043
+    ]
+   },
+   "properties": {
+    "post_id": 38258,
+    "post_date": "2026-09-12 17:05",
+    "date": "08.2026",
+    "unit": "🇺🇦 Міжнародний легіон ГУР МО, 🇺🇦 ТГр «Реванш», РСП «Landsknechts», РСП «Advance»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.563813,
      48.613993
     ]
