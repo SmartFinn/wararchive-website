@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.522452,
+     48.627463
+    ]
+   },
+   "properties": {
+    "post_id": 38365,
+    "post_date": "2026-09-18 12:35",
+    "date": "08.2026",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.524962,
+     48.619531
+    ]
+   },
+   "properties": {
+    "post_id": 38365,
+    "post_date": "2026-09-18 12:35",
+    "date": "08.2026",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.529715,
+     48.620967
+    ]
+   },
+   "properties": {
+    "post_id": 38365,
+    "post_date": "2026-09-18 12:35",
+    "date": "08.2026",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.527237,
+     48.616924
+    ]
+   },
+   "properties": {
+    "post_id": 38365,
+    "post_date": "2026-09-18 12:35",
+    "date": "08.2026",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.964641,
      48.9463
     ]
