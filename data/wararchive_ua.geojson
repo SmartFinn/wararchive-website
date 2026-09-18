@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.964641,
+     48.9463
+    ]
+   },
+   "properties": {
+    "post_id": 38356,
+    "post_date": "2026-09-18 08:46",
+    "date": "~06.2026",
+    "unit": "🇺🇦 3 АК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.725012,
+     49.112773
+    ]
+   },
+   "properties": {
+    "post_id": 38356,
+    "post_date": "2026-09-18 08:46",
+    "date": "~06.2026",
+    "unit": "🇺🇦 3 АК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.963369,
+     48.94091
+    ]
+   },
+   "properties": {
+    "post_id": 38356,
+    "post_date": "2026-09-18 08:46",
+    "date": "~06.2026",
+    "unit": "🇺🇦 3 АК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.0739,
      46.732299
     ]
