@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.103054,
+     47.50216
+    ]
+   },
+   "properties": {
+    "post_id": 38468,
+    "post_date": "2026-09-22 12:01",
+    "date": "09.2026",
+    "unit": "💟 7 КДШВ, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.129785,
+     47.498525
+    ]
+   },
+   "properties": {
+    "post_id": 38468,
+    "post_date": "2026-09-22 12:01",
+    "date": "09.2026",
+    "unit": "💟 7 КДШВ, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.153088,
+     47.495582
+    ]
+   },
+   "properties": {
+    "post_id": 38468,
+    "post_date": "2026-09-22 12:01",
+    "date": "09.2026",
+    "unit": "💟 7 КДШВ, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.254073,
+     47.486471
+    ]
+   },
+   "properties": {
+    "post_id": 38468,
+    "post_date": "2026-09-22 12:01",
+    "date": "09.2026",
+    "unit": "💟 7 КДШВ, та ⚡️ ПС ЗСУ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.8841,
      45.892482
     ]
