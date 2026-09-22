@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.716349,
+     49.101135
+    ]
+   },
+   "properties": {
+    "post_id": 38473,
+    "post_date": "2026-09-22 18:15",
+    "date": "~07.2026",
+    "unit": "🇺🇦 3 АК, ⚔️ 66 ОМБр, 1 МБ «Kassta» , 👵 2 МБ «Онуки Адольфівни», 3 МБ «Fireflies», МпБ  «Сіверська Січ», ТБ, РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.714659,
+     49.10181
+    ]
+   },
+   "properties": {
+    "post_id": 38473,
+    "post_date": "2026-09-22 18:15",
+    "date": "~07.2026",
+    "unit": "🇺🇦 3 АК, ⚔️ 66 ОМБр, 1 МБ «Kassta» , 👵 2 МБ «Онуки Адольфівни», 3 МБ «Fireflies», МпБ  «Сіверська Січ», ТБ, РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.711022,
+     49.104686
+    ]
+   },
+   "properties": {
+    "post_id": 38473,
+    "post_date": "2026-09-22 18:15",
+    "date": "~07.2026",
+    "unit": "🇺🇦 3 АК, ⚔️ 66 ОМБр, 1 МБ «Kassta» , 👵 2 МБ «Онуки Адольфівни», 3 МБ «Fireflies», МпБ  «Сіверська Січ», ТБ, РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.723534,
+     49.10145
+    ]
+   },
+   "properties": {
+    "post_id": 38473,
+    "post_date": "2026-09-22 18:15",
+    "date": "~07.2026",
+    "unit": "🇺🇦 3 АК, ⚔️ 66 ОМБр, 1 МБ «Kassta» , 👵 2 МБ «Онуки Адольфівни», 3 МБ «Fireflies», МпБ  «Сіверська Січ», ТБ, РР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.61251,
      49.785254
     ]
