@@ -11,7 +11,7 @@ const esriTileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/s
     ext: 'png'
 });
 
-const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
+const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png?key=cb1_3zjl_1_36226558654fd6c9b09d764e', {
     attribution: '&copy; <a href="https://carto.com/about-carto/">CARTO</a>',
     subdomains: 'abcd',
     minZoom: 3,
@@ -19,7 +19,7 @@ const onlyLabelsOverlay = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_o
     ext: 'png'
 });
 
-const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_3zjl_1_36226558654fd6c9b09d764e', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
     subdomains: 'abcd',
     minZoom: 3,
@@ -27,7 +27,7 @@ const cartoDbLight = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z
     ext: 'png'
 });
 
-const cartoDbDark = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+const cartoDbDark = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=cb1_3zjl_1_36226558654fd6c9b09d764e', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
     subdomains: 'abcd',
     minZoom: 3,
