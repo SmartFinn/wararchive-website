@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.680788,
+     48.508182
+    ]
+   },
+   "properties": {
+    "post_id": 38545,
+    "post_date": "2026-09-26 14:35",
+    "date": "~03.2026",
+    "unit": "🇺🇦 ЦСП «Омега», 🇺🇦 2 ОЗСП, 2 ГСП «Group Two»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.780679,
      48.85907
     ]
