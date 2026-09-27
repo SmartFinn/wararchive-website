@@ -6,6 +6,150 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.675021,
+     49.844123
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.672602,
+     49.843808
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.677258,
+     49.845836
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.680005,
+     49.846472
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.68038,
+     49.848748
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.684039,
+     49.84834
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.68369,
+     49.850267
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.685616,
+     49.851066
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.687456,
+     49.849516
+    ]
+   },
+   "properties": {
+    "post_id": 38554,
+    "post_date": "2026-09-27 08:02",
+    "date": "09.2026",
+    "unit": "⚔️ 151 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.20394,
      48.353693
     ]
