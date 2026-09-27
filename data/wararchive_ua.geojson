@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.694381,
+     49.071708
+    ]
+   },
+   "properties": {
+    "post_id": 38566,
+    "post_date": "2026-09-27 15:15",
+    "date": "~02.2026 (?)",
+    "unit": "🇺🇦 3 АК, 🇺🇦 3 ОШБр, «NC13»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.723349,
+     49.054742
+    ]
+   },
+   "properties": {
+    "post_id": 38566,
+    "post_date": "2026-09-27 15:15",
+    "date": "~02.2026 (?)",
+    "unit": "🇺🇦 3 АК, 🇺🇦 3 ОШБр, «NC13»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.725112,
+     49.112787
+    ]
+   },
+   "properties": {
+    "post_id": 38566,
+    "post_date": "2026-09-27 15:15",
+    "date": "~02.2026 (?)",
+    "unit": "🇺🇦 3 АК, 🇺🇦 3 ОШБр, «NC13»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.583622,
      47.102068
     ]
