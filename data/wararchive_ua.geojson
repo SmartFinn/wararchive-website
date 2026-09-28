@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.838845,
+     49.16837
+    ]
+   },
+   "properties": {
+    "post_id": 38587,
+    "post_date": "2026-09-28 12:19",
+    "date": "~08.2026",
+    "unit": "🇺🇦 3 АК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.820692,
      48.961613
     ]
