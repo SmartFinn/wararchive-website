@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.820692,
+     48.961613
+    ]
+   },
+   "properties": {
+    "post_id": 38585,
+    "post_date": "2026-09-28 11:02",
+    "date": "~08.2026",
+    "unit": "🇺🇦 3 АК, 🇺🇦 21 ОПБпС «KRAKEN», «Recon Company»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.697643,
+     48.538275
+    ]
+   },
+   "properties": {
+    "post_id": 38584,
+    "post_date": "2026-09-28 10:33",
+    "date": "08.2026",
+    "unit": "🇺🇦 49 ОШБ «Карпатська Січ»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      34.274495,
      51.278903
     ]
