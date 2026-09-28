@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.612123,
+     49.79455
+    ]
+   },
+   "properties": {
+    "post_id": 38600,
+    "post_date": "2026-09-28 18:01",
+    "date": "09.2026",
+    "unit": "🇺🇦2 КНГУ, 23 ОШП «Р.У.Г»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.611271,
+     49.79357
+    ]
+   },
+   "properties": {
+    "post_id": 38600,
+    "post_date": "2026-09-28 18:01",
+    "date": "09.2026",
+    "unit": "🇺🇦2 КНГУ, 23 ОШП «Р.У.Г»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.838845,
      49.16837
     ]
