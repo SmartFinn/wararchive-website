@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.470009,
+     50.172336
+    ]
+   },
+   "properties": {
+    "post_id": 38641,
+    "post_date": "2026-09-30 12:40",
+    "date": "~08.2026",
+    "unit": "🇺🇦475 ОШП «CODE 9.2»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.508016,
+     50.187629
+    ]
+   },
+   "properties": {
+    "post_id": 38641,
+    "post_date": "2026-09-30 12:40",
+    "date": "~08.2026",
+    "unit": "🇺🇦475 ОШП «CODE 9.2»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.540224,
      48.608082
     ]
