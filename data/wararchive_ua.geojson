@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.603991,
+     47.104616
+    ]
+   },
+   "properties": {
+    "post_id": 38701,
+    "post_date": "2026-10-05 08:05",
+    "date": "05.2022",
+    "unit": "🇺🇦ОЗСП «Азов»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.19195,
      48.293237
     ]
