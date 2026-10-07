@@ -22,6 +22,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.538964,
+     48.604028
+    ]
+   },
+   "properties": {
+    "post_id": 38716,
+    "post_date": "2026-10-06 11:59",
+    "date": "10.20.2026",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.536324,
+     48.600935
+    ]
+   },
+   "properties": {
+    "post_id": 38716,
+    "post_date": "2026-10-06 11:59",
+    "date": "10.20.2026",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.54141,
+     48.605277
+    ]
+   },
+   "properties": {
+    "post_id": 38716,
+    "post_date": "2026-10-06 11:59",
+    "date": "10.20.2026",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.528589,
+     48.599948
+    ]
+   },
+   "properties": {
+    "post_id": 38716,
+    "post_date": "2026-10-06 11:59",
+    "date": "10.20.2026",
+    "unit": "👮 ОШБр «Лють»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.585256,
      47.10223
     ]
