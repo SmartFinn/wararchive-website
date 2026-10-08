@@ -3532,23 +3532,33 @@
               0
             ],
             [
-              36.0973842,
-              47.626219,
+              36.091891,
+              47.6258719,
               0
             ],
             [
-              36.1050837,
-              47.6313628,
+              36.0868876,
+              47.6493483,
               0
             ],
             [
-              36.1245663,
-              47.636257,
+              36.1104467,
+              47.6513334,
               0
             ],
             [
-              36.1420769,
-              47.6406417,
+              36.130317,
+              47.65638,
+              0
+            ],
+            [
+              36.1316488,
+              47.6498987,
+              0
+            ],
+            [
+              36.1418194,
+              47.6438801,
               0
             ],
             [
@@ -3577,28 +3587,28 @@
               0
             ],
             [
-              36.1202731,
-              47.6554019,
+              36.1128917,
+              47.6630907,
               0
             ],
             [
-              36.1181097,
-              47.6473325,
+              36.0890989,
+              47.6654859,
               0
             ],
             [
-              36.114539,
-              47.6393361,
+              36.0691346,
+              47.6518264,
               0
             ],
             [
-              36.0900538,
-              47.6326609,
+              36.0710852,
+              47.6360155,
               0
             ],
             [
-              36.0837897,
-              47.6228053,
+              36.0738333,
+              47.6221111,
               0
             ],
             [
@@ -8816,18 +8826,13 @@
               0
             ],
             [
-              36.1422564,
-              47.7020304,
+              36.1248328,
+              47.6948673,
               0
             ],
             [
-              36.1352016,
-              47.7136672,
-              0
-            ],
-            [
-              36.1336476,
-              47.7195436,
+              36.1196662,
+              47.7095668,
               0
             ],
             [
@@ -31821,18 +31826,13 @@
               0
             ],
             [
-              36.1336476,
-              47.7195436,
+              36.1196662,
+              47.7095668,
               0
             ],
             [
-              36.1352016,
-              47.7136672,
-              0
-            ],
-            [
-              36.1422564,
-              47.7020304,
+              36.1248328,
+              47.6948673,
               0
             ],
             [
@@ -31861,18 +31861,33 @@
               0
             ],
             [
-              36.1420769,
-              47.6406417,
+              36.1418194,
+              47.6438801,
               0
             ],
             [
-              36.1050837,
-              47.6313628,
+              36.1316488,
+              47.6498987,
               0
             ],
             [
-              36.0973842,
-              47.626219,
+              36.130317,
+              47.65638,
+              0
+            ],
+            [
+              36.1104467,
+              47.6513334,
+              0
+            ],
+            [
+              36.0868876,
+              47.6493483,
+              0
+            ],
+            [
+              36.091891,
+              47.6258719,
               0
             ],
             [
@@ -45667,7 +45682,7 @@
       },
       "properties": {
         "name": "Звільнено 04.09 /// Liberated 04.09 /// geoJSON.status.dismissed_at {{at:04.09}}",
-        "description": "4 вересня 2022 у вечірньому зведенні Верховний Головнокомандувач повідомив: \"Хочу відзначити також 42-й окремий мотопіхотний батальйон – завдяки його героїчним діям звільнено два населені пункти на півдні нашої держави\".<br>Нововознисенське звільнено 128-ю бр��гадою, відповідне відео в їх соціальних мережах<br><br>///On September 4, 2022, during an evening speech, Supreme Commander-in-Chief Volodymyr Zelenskyy announced: \"I also want to celebrate the 42nd separate motorized infantry battalion - thanks to its heroic actions, two settlements in the south of our country were liberated.\" In this way, he confirmed previous reports about the liberation of these settlements.<br>Novovoznysenske was liberated by the 128th brigade, the corresponding video in their social networks<br><br>/// geoJSON.descriptions.#23",
+        "description": "4 вересня 2022 у вечірньому зведенні Верховний Головнокомандувач повідомив: \"Хочу відзначити також 42-й окремий мотопіхотний батальйон – завдяки його героїчним діям звільнено два населені пункти на півдні нашої держави\".<br>Нововознисенське звільнено 128-ю бригадою, відповідне відео в їх соціальних мережах<br><br>///On September 4, 2022, during an evening speech, Supreme Commander-in-Chief Volodymyr Zelenskyy announced: \"I also want to celebrate the 42nd separate motorized infantry battalion - thanks to its heroic actions, two settlements in the south of our country were liberated.\" In this way, he confirmed previous reports about the liberation of these settlements.<br>Novovoznysenske was liberated by the 128th brigade, the corresponding video in their social networks<br><br>/// geoJSON.descriptions.#23",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
