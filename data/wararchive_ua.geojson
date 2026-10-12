@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.699647,
+     48.538616
+    ]
+   },
+   "properties": {
+    "post_id": 38872,
+    "post_date": "2026-10-12 16:17",
+    "date": "~09.2026",
+    "unit": "🇺🇦 19 АК, ⚔️ 28 ОМБр, 4 МПБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.699805,
+     48.537942
+    ]
+   },
+   "properties": {
+    "post_id": 38872,
+    "post_date": "2026-10-12 16:17",
+    "date": "~09.2026",
+    "unit": "🇺🇦 19 АК, ⚔️ 28 ОМБр, 4 МПБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.665773,
      48.527036
     ]
