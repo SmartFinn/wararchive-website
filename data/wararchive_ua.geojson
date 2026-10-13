@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.8463,
+     46.700191
+    ]
+   },
+   "properties": {
+    "post_id": 38888,
+    "post_date": "2026-10-13 08:00",
+    "date": "10.2026",
+    "unit": "🫥 34 ОБрМП, «Форпост»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.101049,
      48.394062
     ]
