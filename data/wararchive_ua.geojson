@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.210954,
+     48.010763
+    ]
+   },
+   "properties": {
+    "post_id": 38935,
+    "post_date": "2026-10-14 11:00",
+    "date": "?",
+    "unit": "?"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.630497,
+     49.745968
+    ]
+   },
+   "properties": {
+    "post_id": 38934,
+    "post_date": "2026-10-14 11:00",
+    "date": "13.10.2026",
+    "unit": "🇺🇦 2 КНГУ «Хартія»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.246576,
      48.989125
     ]
