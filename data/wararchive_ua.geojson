@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.9382,
+     46.18728
+    ]
+   },
+   "properties": {
+    "post_id": 38997,
+    "post_date": "2026-10-17 15:47",
+    "date": "10.2026",
+    "unit": "🇺🇦 27 Бр, «Lasar's group»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.825035,
      47.897052
     ]
