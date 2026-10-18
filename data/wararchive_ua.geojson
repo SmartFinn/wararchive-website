@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.241955,
+     48.362973
+    ]
+   },
+   "properties": {
+    "post_id": 39022,
+    "post_date": "2026-10-18 17:59",
+    "date": "10.2026",
+    "unit": "⚡️ ПС ЗСУ, 107 ОАК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.259681,
      48.323182
     ]
