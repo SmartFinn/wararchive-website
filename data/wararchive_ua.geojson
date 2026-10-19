@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.781446,
+     49.092839
+    ]
+   },
+   "properties": {
+    "post_id": 39031,
+    "post_date": "2026-10-19 10:43",
+    "date": "~07.2026",
+    "unit": "🇺🇦 3 АК, 🇺🇦125 ОВМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.241955,
      48.362973
     ]
