@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.200976,
+     48.368856
+    ]
+   },
+   "properties": {
+    "post_id": 39042,
+    "post_date": "2026-10-20 08:03",
+    "date": "~09.2026",
+    "unit": "🇺🇦 1 КНГУ, 🇺🇦20 БрОП «Любарт»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      36.271904,
      47.657258
     ]
