@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.964916,
+     46.189524
+    ]
+   },
+   "properties": {
+    "post_id": 39045,
+    "post_date": "2026-10-20 13:19",
+    "date": "10.2026",
+    "unit": "ГУР МО, СП «Примари»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.200976,
      48.368856
     ]
