@@ -621,8 +621,13 @@
         "coordinates": [
           [
             [
-              35.5361804,
-              47.5462177,
+              35.5150661,
+              47.5574559,
+              0
+            ],
+            [
+              35.526676,
+              47.5574048,
               0
             ],
             [
@@ -636,8 +641,13 @@
               0
             ],
             [
-              35.583073,
-              47.5537461,
+              35.5859054,
+              47.5618553,
+              0
+            ],
+            [
+              35.5953961,
+              47.5577697,
               0
             ],
             [
@@ -1091,18 +1101,13 @@
               0
             ],
             [
-              35.50827,
-              47.546912,
+              35.5161701,
+              47.5481706,
               0
             ],
             [
-              35.509647,
-              47.544231,
-              0
-            ],
-            [
-              35.5361804,
-              47.5462177,
+              35.5150661,
+              47.5574559,
               0
             ]
           ]
@@ -31831,8 +31836,13 @@
               0
             ],
             [
-              35.583073,
-              47.5537461,
+              35.5953961,
+              47.5577697,
+              0
+            ],
+            [
+              35.5859054,
+              47.5618553,
               0
             ],
             [
@@ -31846,18 +31856,18 @@
               0
             ],
             [
-              35.5361804,
-              47.5462177,
+              35.526676,
+              47.5574048,
               0
             ],
             [
-              35.509647,
-              47.544231,
+              35.5150661,
+              47.5574559,
               0
             ],
             [
-              35.50827,
-              47.546912,
+              35.5161701,
+              47.5481706,
               0
             ],
             [
@@ -44250,7 +44260,7 @@
       },
       "properties": {
         "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
-        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновлення залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
+        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновле��ня залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
