@@ -3432,18 +3432,23 @@
               0
             ],
             [
-              36.020784,
-              47.515904,
+              36.0015579,
+              47.5295249,
               0
             ],
             [
-              36.03001,
-              47.522289,
+              36.0206545,
+              47.5328949,
               0
             ],
             [
-              36.031684,
-              47.526124,
+              36.0291949,
+              47.530065,
+              0
+            ],
+            [
+              36.0333186,
+              47.5361658,
               0
             ],
             [
@@ -31611,18 +31616,23 @@
               0
             ],
             [
-              36.031684,
-              47.526124,
+              36.0333186,
+              47.5361658,
               0
             ],
             [
-              36.03001,
-              47.522289,
+              36.0291949,
+              47.530065,
               0
             ],
             [
-              36.020784,
-              47.515904,
+              36.0206545,
+              47.5328949,
+              0
+            ],
+            [
+              36.0015579,
+              47.5295249,
               0
             ],
             [
@@ -44260,7 +44270,7 @@
       },
       "properties": {
         "name": "Звільнено /// Liberated /// geoJSON.status.dismissed",
-        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновле��ня залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
+        "description": "30 березня, до Тростянця з боку Харкова приїжджали перша віце-прем’єрка, Міністр економіки України Юлія Свириденко, Міністр інфраструктури Олександр Кубраков, голова правління АТ «Укрзалізниця» Олександр Камишін. Дорога вільна. Планується відновлення залізничного сполучення<br>///<br>On March 30, the First Deputy Prime Minister, Minister of Economy of Ukraine Yulia Svyridenko, Minister of Infrastructure Oleksandr Kubrakov, and the Board of JSC Ukrzaliznytsia Oleksandr Kamyshyn arrived in Trostyanets from Kharkiv, meaning that the road is free. It is also planned to restore the railway connection in the area<br><br>/// geoJSON.descriptions.#16",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
