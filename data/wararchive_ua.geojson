@@ -6,6 +6,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.825069,
+     48.592434
+    ]
+   },
+   "properties": {
+    "post_id": 39205,
+    "post_date": "2026-10-28 16:00",
+    "date": "10.2026",
+    "unit": "🇺🇦 2 КНГУ «Хартія»,🇺🇦 18 Бр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.828116,
+     48.588801
+    ]
+   },
+   "properties": {
+    "post_id": 39205,
+    "post_date": "2026-10-28 16:00",
+    "date": "10.2026",
+    "unit": "🇺🇦 2 КНГУ «Хартія»,🇺🇦 18 Бр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.815971,
+     48.593456
+    ]
+   },
+   "properties": {
+    "post_id": 39205,
+    "post_date": "2026-10-28 16:00",
+    "date": "10.2026",
+    "unit": "🇺🇦 2 КНГУ «Хартія»,🇺🇦 18 Бр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.190298,
      48.402454
     ]
