@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     34.39542,
+     51.34592
+    ]
+   },
+   "properties": {
+    "post_id": 39230,
+    "post_date": "2026-10-30 09:00",
+    "date": "~10.2026 ",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 3 ОПСпП, 2 ГрСпП, «SHADOW "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.290782,
+     51.282109
+    ]
+   },
+   "properties": {
+    "post_id": 39230,
+    "post_date": "2026-10-30 09:00",
+    "date": "~10.2026 ",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 3 ОПСпП, 2 ГрСпП, «SHADOW "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.282091,
+     51.277609
+    ]
+   },
+   "properties": {
+    "post_id": 39230,
+    "post_date": "2026-10-30 09:00",
+    "date": "~10.2026 ",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 3 ОПСпП, 2 ГрСпП, «SHADOW "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.282268,
+     51.278381
+    ]
+   },
+   "properties": {
+    "post_id": 39230,
+    "post_date": "2026-10-30 09:00",
+    "date": "~10.2026 ",
+    "unit": "🇺🇦 ССО ЗСУ, 🇺🇦 3 ОПСпП, 2 ГрСпП, «SHADOW "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.825069,
      48.592434
     ]
