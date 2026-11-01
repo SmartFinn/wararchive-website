@@ -353,28 +353,28 @@
               0
             ],
             [
-              37.8158294,
-              48.575496,
+              37.8092634,
+              48.5744738,
               0
             ],
             [
-              37.819626,
-              48.5824618,
+              37.808983,
+              48.5779475,
               0
             ],
             [
-              37.8144112,
-              48.58816,
+              37.8119221,
+              48.5809492,
               0
             ],
             [
-              37.818144,
-              48.590592,
+              37.8135521,
+              48.5891443,
               0
             ],
             [
-              37.817543,
-              48.593017,
+              37.8114061,
+              48.5921938,
               0
             ],
             [
@@ -28145,28 +28145,28 @@
               0
             ],
             [
-              37.817543,
-              48.593017,
+              37.8114061,
+              48.5921938,
               0
             ],
             [
-              37.818144,
-              48.590592,
+              37.8135521,
+              48.5891443,
               0
             ],
             [
-              37.8144112,
-              48.58816,
+              37.8119221,
+              48.5809492,
               0
             ],
             [
-              37.819626,
-              48.5824618,
+              37.808983,
+              48.5779475,
               0
             ],
             [
-              37.8158294,
-              48.575496,
+              37.8092634,
+              48.5744738,
               0
             ],
             [
@@ -38865,7 +38865,7 @@
       },
       "properties": {
         "name": "Звільнено 26.03 /// Liberated 26.03 /// geoJSON.status.dismissed_at {{at:26.03}}",
-        "description": "Про це написав �� своєму телеграмі голова Сумської ОДА Дмитро Живицький, що звільнено Тростянець та Боромлю<br>///<br>Dmytro Zhyvytskyi, the head of the Sumy Regional State Administration, wrote in his Telegram that Trostyanets and Boromlya were liberated<br>/// geoJSON.descriptions.#6",
+        "description": "Про це написав у своєму телеграмі голова Сумської ОДА Дмитро Живицький, що звільнено Тростянець та Боромлю<br>///<br>Dmytro Zhyvytskyi, the head of the Sumy Regional State Administration, wrote in his Telegram that Trostyanets and Boromlya were liberated<br>/// geoJSON.descriptions.#6",
         "stroke-opacity": 1,
         "stroke": "#0f9d58",
         "stroke-width": 2,
