@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.619859,
+     47.108602
+    ]
+   },
+   "properties": {
+    "post_id": 39286,
+    "post_date": "2026-11-04 09:00",
+    "date": "> 03.2022",
+    "unit": "🤩 810 ОБрМП, ✌️ 382 ОБМП (?)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.1806079,
      44.8706237
     ]
