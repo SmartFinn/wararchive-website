@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.544119,
+     48.631388
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.534602,
+     48.656348
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.535418,
+     48.653077
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.537413,
+     48.6443
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.538247,
+     48.640635
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.53829,
+     48.638848
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.537097,
+     48.638022
+    ]
+   },
+   "properties": {
+    "post_id": 39302,
+    "post_date": "2026-11-04 19:10",
+    "date": "~09.2026",
+    "unit": "⚔️ 100 ОМБр"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.619859,
      47.108602
     ]
