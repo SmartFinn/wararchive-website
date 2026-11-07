@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     36.056319,
+     52.984812
+    ]
+   },
+   "properties": {
+    "post_id": 39358,
+    "post_date": "2026-11-06 23:10",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.058384,
+     52.986215
+    ]
+   },
+   "properties": {
+    "post_id": 39358,
+    "post_date": "2026-11-06 23:10",
+    "date": null,
+    "unit": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.63658,
      47.098332
     ]
