@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.754693,
+     48.071721
+    ]
+   },
+   "properties": {
+    "post_id": 39410,
+    "post_date": "2026-11-10 16:24",
+    "date": "~11.2026",
+    "unit": "🇺🇦 412 ОБр БпС «NEMESIS»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.687026,
      48.538195
     ]
