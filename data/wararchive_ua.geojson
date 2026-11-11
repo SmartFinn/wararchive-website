@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.524301,
+     47.999402
+    ]
+   },
+   "properties": {
+    "post_id": 39435,
+    "post_date": "2026-11-11 13:42",
+    "date": "~05.2024",
+    "unit": "🇺🇦 ДПСУ, 105 ПрикЗ, ПКШР «Норд»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.186214,
      48.406173
     ]
