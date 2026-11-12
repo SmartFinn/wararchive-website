@@ -6,6 +6,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.611826,
+     47.115208
+    ]
+   },
+   "properties": {
+    "post_id": 39467,
+    "post_date": "2026-11-12 09:02",
+    "date": "02.03.2022",
+    "unit": "👨‍🚒 ДСНС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.617434,
+     47.114633
+    ]
+   },
+   "properties": {
+    "post_id": 39467,
+    "post_date": "2026-11-12 09:02",
+    "date": "02.03.2022",
+    "unit": "👨‍🚒 ДСНС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.616254,
+     47.10856
+    ]
+   },
+   "properties": {
+    "post_id": 39467,
+    "post_date": "2026-11-12 09:02",
+    "date": "02.03.2022",
+    "unit": "👨‍🚒 ДСНС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.624177,
+     47.108034
+    ]
+   },
+   "properties": {
+    "post_id": 39467,
+    "post_date": "2026-11-12 09:02",
+    "date": "02.03.2022",
+    "unit": "👨‍🚒 ДСНС"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.524301,
      47.999402
     ]
