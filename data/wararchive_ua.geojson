@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     32.346175,
+     46.865686
+    ]
+   },
+   "properties": {
+    "post_id": 39494,
+    "post_date": "2026-11-13 12:02",
+    "date": "29.08.2022",
+    "unit": "🦉 ГУР МО, «Химера»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.274315,
      48.551039
     ]
