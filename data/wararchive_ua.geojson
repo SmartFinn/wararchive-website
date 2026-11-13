@@ -6,6 +6,118 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.274315,
+     48.551039
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.287662,
+     48.5505
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.273615,
+     48.54445
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.278052,
+     48.546687
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.274664,
+     48.544988
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.271402,
+     48.543275
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.26849,
+     48.541698
+    ]
+   },
+   "properties": {
+    "post_id": 39488,
+    "post_date": "2026-11-13 08:18",
+    "date": "12-14.08.2025",
+    "unit": "⚔️ 93 ОМБр «Холодний Яр», РР та ТБ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      33.2535,
      46.750259
     ]
