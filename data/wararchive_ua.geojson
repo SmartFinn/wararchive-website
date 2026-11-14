@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.112927,
+     48.399911
+    ]
+   },
+   "properties": {
+    "post_id": 39507,
+    "post_date": "2026-11-14 19:15",
+    "date": "10.2026",
+    "unit": "🇺🇦1 КНГУ, 🇺🇦14 БрОП «Червона Калина», РРСпП «Abwehr»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.504529,
      48.368683
     ]
