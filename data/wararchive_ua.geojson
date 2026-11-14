@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.523624,
+     47.098984
+    ]
+   },
+   "properties": {
+    "post_id": 39501,
+    "post_date": "2026-11-14 08:02",
+    "date": "~03.2022",
+    "unit": "👍 114 ОСБ «Восток»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      32.346175,
      46.865686
     ]
