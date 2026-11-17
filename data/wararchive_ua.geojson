@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     39.437292,
+     48.508609
+    ]
+   },
+   "properties": {
+    "post_id": 39551,
+    "post_date": "2026-11-17 16:45",
+    "date": "13.08.2014",
+    "unit": "80 ОАеМБр, 2 АМР, 24 ОМБр, та 24 БТрО «Айдар»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.077892,
      48.476414
     ]
