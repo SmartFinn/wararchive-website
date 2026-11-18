@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     39.456716,
+     48.479557
+    ]
+   },
+   "properties": {
+    "post_id": 39562,
+    "post_date": "2026-11-18 18:55",
+    "date": "13.08.2014",
+    "unit": "80 ОАеМБр, 2 АМР, 24 ОМБр, та 24 БТрО «Айдар»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.437506,
+     48.50858
+    ]
+   },
+   "properties": {
+    "post_id": 39562,
+    "post_date": "2026-11-18 18:55",
+    "date": "13.08.2014",
+    "unit": "80 ОАеМБр, 2 АМР, 24 ОМБр, та 24 БТрО «Айдар»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.770336,
      48.098758
     ]
