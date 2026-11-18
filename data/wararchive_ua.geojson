@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.770336,
+     48.098758
+    ]
+   },
+   "properties": {
+    "post_id": 39558,
+    "post_date": "2026-11-18 15:19",
+    "date": "~06.2015",
+    "unit": "93 ОМБр, , та 🇺🇦ДУК «Правий сектор»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.437292,
      48.508609
     ]
