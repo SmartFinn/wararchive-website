@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.692241,
+     48.540488
+    ]
+   },
+   "properties": {
+    "post_id": 39580,
+    "post_date": "2026-11-20 16:03",
+    "date": "11.2026",
+    "unit": "🇺🇦 210 ОШП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.077919,
+     48.450251
+    ]
+   },
+   "properties": {
+    "post_id": 39578,
+    "post_date": "2026-11-20 15:09",
+    "date": "11.2026",
+    "unit": "🇺🇦 ЦСП «Омега», 🇺🇦 1 ОЗСП"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      37.934504,
      48.612789
     ]
