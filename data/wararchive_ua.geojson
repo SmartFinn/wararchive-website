@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.934504,
+     48.612789
+    ]
+   },
+   "properties": {
+    "post_id": 39576,
+    "post_date": "2026-11-20 14:18",
+    "date": "03.2023",
+    "unit": "🗡67 ОМБр, 1 ОМБ «Вовки Давінчі», Рота  «Дике Поле»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.456716,
      48.479557
     ]
