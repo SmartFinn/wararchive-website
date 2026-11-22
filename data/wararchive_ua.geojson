@@ -6,6 +6,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     35.590113,
+     50.429554
+    ]
+   },
+   "properties": {
+    "post_id": 39594,
+    "post_date": "2026-11-22 08:01",
+    "date": "~22.05.2023",
+    "unit": "🦉 ГУР МО,🦉 «СП Тимура»,☠️РДК"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      39.377564,
      48.420522
     ]
