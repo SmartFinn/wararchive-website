@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.768545,
+     48.067327
+    ]
+   },
+   "properties": {
+    "post_id": 39641,
+    "post_date": "2026-11-24 11:02",
+    "date": "09.2014",
+    "unit": "👍 НМ ДНР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.751952,
+     48.067749
+    ]
+   },
+   "properties": {
+    "post_id": 39641,
+    "post_date": "2026-11-24 11:02",
+    "date": "09.2014",
+    "unit": "👍 НМ ДНР"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      38.740548,
      47.922315
     ]
