@@ -6,6 +6,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     37.132818,
+     50.319816
+    ]
+   },
+   "properties": {
+    "post_id": 39677,
+    "post_date": "2026-11-27 08:00",
+    "date": "11.2026",
+    "unit": "🇺🇦 ДПСУ, 🏰 Бр «Форпост»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.080874,
+     50.344091
+    ]
+   },
+   "properties": {
+    "post_id": 39677,
+    "post_date": "2026-11-27 08:00",
+    "date": "11.2026",
+    "unit": "🇺🇦 ДПСУ, 🏰 Бр «Форпост»"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      35.906759,
      47.527333
     ]
